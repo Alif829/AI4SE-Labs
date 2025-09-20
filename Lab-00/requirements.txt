@@ -1,0 +1,8 @@
+PyGithub>=1.59
+GitPython>=3.1
+tree_sitter>=0.20.0
+lizard>=1.20.0
+tqdm
+joblib
+python-dateutil
+python-dotenv
