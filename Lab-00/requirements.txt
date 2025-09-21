@@ -1,0 +1,4 @@
+pydriller
+python-dotenv
+tree-sitter==0.21.3
+PyGithub
