@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk==3.8.1
+tqdm==4.65.0
+matplotlib
+seaborn
+pyyaml==6.0
+jupyterlab
+pytest==7.4.0
+pickle-mixin==1.0.2

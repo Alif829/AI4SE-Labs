@@ -1,0 +1,36 @@
+# N-gram Code Completion Configuration
+
+data:
+  raw_data_path: "data/raw/java_methods_25k_final.csv"
+  train_ratio: 0.9  # 90% of training data for train, 10% for validation
+  max_sequence_length: 512
+  min_sequence_length: 5
+  
+tokenization:
+  add_bos_token: true
+  add_eos_token: true
+  bos_token: "<BOS>"
+  eos_token: "<EOS>"
+  unk_token: "<UNK>"
+  pad_token: "<PAD>"
+  preserve_strings: false  # Replace string literals with <STRING>
+  preserve_numbers: false  # Replace numbers with <NUM>
+  
+model:
+  n_values: [2, 3, 4, 5, 7]  # N-gram orders to test
+  smoothing:
+    method: "laplace"  # Options: laplace, kneser_ney, backoff
+    laplace_k: 1.0
+  vocab_size_limit: 50000  # Limit vocabulary for memory
+  min_token_frequency: 2
+  
+evaluation:
+  test_size: 1000
+  top_k_values: [1, 3, 5, 10]
+  max_generation_length: 20
+  sampling_temperature: 1.0
+  
+output:
+  model_dir: "models/"
+  results_dir: "results/"
+  sample_output_path: "results/samples/generated_samples.json"
