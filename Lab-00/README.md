@@ -116,7 +116,7 @@ The tool generates JSONL files with the following structure:
     "original_code": "public void methodName(String param) { ... }",
     "doc_comment": "/** Method documentation */"
   },
-  "code_tokens": ["public", "void", "methodName", ...],
+  "code_tokens": ["public", "void", "methodName", "...."],
   "metrics": {
     "cyclomatic_complexity": 3,
     "n_ast_nodes": 156,
