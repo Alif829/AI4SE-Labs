@@ -5,17 +5,7 @@ from typing import Dict, List
 from tqdm import tqdm
 
 def calculate_perplexity(model, df, max_samples=None):
-    """
-    Calculate perplexity on test data.
     
-    Args:
-        model: Trained N-gram model
-        df: Test dataframe
-        max_samples: Limit number of samples for efficiency
-        
-    Returns:
-        Perplexity score
-    """
     total_log_prob = 0
     total_tokens = 0
     
@@ -42,17 +32,7 @@ def calculate_perplexity(model, df, max_samples=None):
     return perplexity
 
 def evaluate_topk_accuracy(model, df, max_samples=None):
-    """
-    Evaluate top-k accuracy on test data.
     
-    Args:
-        model: Trained N-gram model  
-        df: Test dataframe
-        max_samples: Limit number of samples
-        
-    Returns:
-        Dictionary with top-1, top-3, top-5 accuracy
-    """
     top1_correct = 0
     top3_correct = 0
     top5_correct = 0
