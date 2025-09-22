@@ -90,18 +90,30 @@ class NGramModel:
         generated = []
         current_context = context.copy()
         all_predictions = []
-        
+
         for _ in range(max_length):
-            predictions = self.predict_next_tokens(current_context, top_k=5)
+            # --- MODIFICATION START ---
+            # Implement a simple backoff strategy
+            temp_context_for_prediction = current_context.copy()
+            predictions = []
+            while len(temp_context_for_prediction) > 0:
+                predictions = self.predict_next_tokens(temp_context_for_prediction, top_k=5)
+                if predictions:
+                    break  # Found predictions, so exit the while loop
+                # If no predictions, shorten the context from the left and try again
+                temp_context_for_prediction = temp_context_for_prediction[1:]
+            # --- MODIFICATION END ---
+
             if not predictions:
+                # Even with backoff, no predictions could be made, so stop.
                 break
-                
+
             all_predictions.append(predictions)
-            
+
             # Sample based on probabilities
             tokens = [p[0] for p in predictions]
             probs = [p[1] for p in predictions]
-            
+
             # Normalize probabilities
             total = sum(probs)
             if total > 0:
@@ -109,13 +121,18 @@ class NGramModel:
                 chosen = np.random.choice(tokens, p=probs)
             else:
                 break
-            
+
             if chosen == '<END>' or chosen in ['}', ';']:
                 if chosen != '<END>':
                     generated.append(chosen)
                 break
-                
+
             generated.append(chosen)
-            current_context = current_context[1:] + [chosen]
-        
+            # IMPORTANT: The main context for the *next loop* is still updated normally
+            current_context = current_context + [chosen]
+            # To keep the context window from growing infinitely, you might slice it
+            if len(current_context) > self.n -1:
+                current_context = current_context[-(self.n-1):]
+
+
         return generated, all_predictions
