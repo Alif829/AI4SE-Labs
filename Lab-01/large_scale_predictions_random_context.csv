@@ -1,0 +1,1015 @@
+input_context,next_5_tokens (probability),sampled_completion
+"void throwFileNotFound private ( , ) throws FileNotFoundException {",,"void throwFileNotFound private ( , ) throws FileNotFoundException { "
+void testBiggest public ( ) throws IOException { } try (,,void testBiggest public ( ) throws IOException { } try ( 
+void testAllIsNotAllowedInShardLevelRequests public ( ) { } ShardSearchRequest ;,,void testAllIsNotAllowedInShardLevelRequests public ( ) { } ShardSearchRequest ; 
+toEvaluator public . Factory ( ),{ (0.000),toEvaluator public . Factory ( ) {
+"ConditionOutcome getMatchOutcome public ( , )",{ (0.001),"ConditionOutcome getMatchOutcome public ( , ) {"
+"handleHits private static < > List ( , , )",,"handleHits private static < > List ( , , ) "
+"docFreq public long ( , ) throws IOException",,"docFreq public long ( , ) throws IOException "
+void update public ( ),"{ (0.000), throws (0.000)",void update public ( ) throws
+BytesReference buildTsidHash public ( ) { // NOTE: hash all dimension field names,,BytesReference buildTsidHash public ( ) { // NOTE: hash all dimension field names 
+void decrementRecoveredOperations public synchronized ( ),,void decrementRecoveredOperations public synchronized ( ) 
+"void refreshCachedPhases static ( , , , , , , ) { // this performs a walk through the managed indices and safely updates the cached phase (ie. for the phases we did not // remove the allocate action)",,"void refreshCachedPhases static ( , , , , , , ) { // this performs a walk through the managed indices and safely updates the cached phase (ie. for the phases we did not // remove the allocate action) "
+"void assertEqualsMaps private static < , > ( , ) { } K V left",,"void assertEqualsMaps private static < , > ( , ) { } K V left "
+void initializeServlet private (,", (0.000)","void initializeServlet private ( ,"
+void updateTransportVersions private,,void updateTransportVersions private 
+void testReplicaOperationWithConcurrentPrimaryPromotion public ( ) throws Exception { } String ; try mappings = (,) (0.000),void testReplicaOperationWithConcurrentPrimaryPromotion public ( ) throws Exception { } String ; try mappings = ( ) { }
+"limitBody private static ( , ) throws IOException { } byte [ ]","String (0.000), InputStream (0.000)","limitBody private static ( , ) throws IOException { } byte [ ] InputStream inputStream size ;"
+Unit fromChronoUnit private static ( ) { } ChronoUnit,chronoUnit (0.000),Unit fromChronoUnit private static ( ) { } ChronoUnit chronoUnit
+"Configuration createAotProcessingClasspath private ( , , , ) { } @ SuppressWarnings",propertySource (0.000),"Configuration createAotProcessingClasspath private ( , , , ) { } @ SuppressWarnings propertySource String name Object value Origin origin ;"
+"void resolveFieldValuesFor private ( , ) { } values TypeElement element try Element ; if",,"void resolveFieldValuesFor private ( , ) { } values TypeElement element try Element ; if "
+LeafBucketCollector getLeafCollector protected,( (0.000),LeafBucketCollector getLeafCollector protected (
+void deleteFile private ( ) {,} (0.000),void deleteFile private ( ) { }
+"XContentBuilder toXContent public ( , )",throws (0.001),"XContentBuilder toXContent public ( , ) throws"
+ScriptEngine getScriptEngine public (,", (0.000)","ScriptEngine getScriptEngine public ( ,"
+boolean isExtensionExposed private (,", (0.000)","boolean isExtensionExposed private ( ,"
+"boolean isClassPathResourceByPath private ( , ) { } String location Resource resource",for (0.000),"boolean isClassPathResourceByPath private ( , ) { } String location Resource resource for ( FilePathResolver filePathResolver : ) return null ;"
+boolean isNullOrDatePeriod public,,boolean isNullOrDatePeriod public 
+TypeResolution resolveType protected ( ) { } @ Override if,"TypeResolution (0.000), return (0.000), if (0.000), String (0.000), for (0.000)",TypeResolution resolveType protected ( ) { } @ Override if String ;
+SearchRequestBuilder buildSearchRequest private ( ) { } ; ; ; SearchRequestBuilder ;,,SearchRequestBuilder buildSearchRequest private ( ) { } ; ; ; SearchRequestBuilder ; 
+void testSearchSort public ( ) throws Exception { } ; ; ; ;,"; (0.000), for (0.000), boolean (0.000), GetAliasesResponse (0.000), RolloverAction (0.000)",void testSearchSort public ( ) throws Exception { } ; ; ; ; ;
+"XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder builder","Params (0.002), params (0.000)","XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder builder Params params ;"
+void verifyCompatibility public,,void verifyCompatibility public 
+void testRandomDoubles public ( ) throws,IOException (0.000),void testRandomDoubles public ( ) throws IOException
+"extractTokenKeys private Map ( ) { } < String , String > response ;",for (0.000),"extractTokenKeys private Map ( ) { } < String , String > response ; for ( Object key : ) return tokenKeys ;"
+boolean sourceAccepts protected,( (0.000),boolean sourceAccepts protected (
+"XContentBuilder toXContent public ( , ) throws IOException {","} (0.001), // nothing to report here, if we detected an issue then we would have thrown an exception, but we include this to emphasise (0.000), // Only serialize the desired node status during cluster state serialization (0.000), // Don't include name in XContent because it is hard-coded (0.000), // shardResults is a map, but we print entries in a json array, which is ordered. (0.000)","XContentBuilder toXContent public ( , ) throws IOException { }"
+boolean equals public ( ) { } @ Override Object,"obj (0.002), o (0.002), other (0.000), object (0.000)",boolean equals public ( ) { } @ Override Object o if if Status ;
+SslBundle getSslBundle protected ( ) {,} (0.000),SslBundle getSslBundle protected ( ) { }
+boolean isWindows private static ( ) { } getSystemProperty String ;,,boolean isWindows private static ( ) { } getSystemProperty String ; 
+void testSequenceNumberAdvancesToMaxSeqOnEngineOpenOnPrimary public ( ) throws,,void testSequenceNumberAdvancesToMaxSeqOnEngineOpenOnPrimary public ( ) throws 
+getFetchSubPhases public List ( ) { } @ Override < FetchSubPhase > FetchPhaseConstructionContext context return,,getFetchSubPhases public List ( ) { } @ Override < FetchSubPhase > FetchPhaseConstructionContext context return 
+"void doubles protected static ( , , , , ) { } cases String name",String (0.000),"void doubles protected static ( , , , , ) { } cases String name String evaluatorName DataType expectedDataType matcher ;"
+void testSyntheticSourceMany public,,void testSyntheticSourceMany public 
+"void encodeFiveSixOrSevenBytesPerValue private ( ,",,"void encodeFiveSixOrSevenBytesPerValue private ( , "
+"CurrentTraceContext braveCurrentTraceContext ( , ) { } @ Bean @ ConditionalOnMissingBean",scopeDecorators (0.000),"CurrentTraceContext braveCurrentTraceContext ( , ) { } @ Bean @ ConditionalOnMissingBean scopeDecorators currentTraceContextCustomizers ;"
+"boolean assertShardStateConsistent private static ( , ,",,"boolean assertShardStateConsistent private static ( , , "
+void getMappings private ( ) {,,void getMappings private ( ) { 
+"void addIntermediateInput public ( , , ) { } @ Override positionOffset IntVector groups",Page (0.000),"void addIntermediateInput public ( , , ) { } @ Override positionOffset IntVector groups Page page ;"
+"String determineDdlAuto private ( , ) { } existing defaultDdlAuto String ;",if (0.000),"String determineDdlAuto private ( , ) { } existing defaultDdlAuto String ; if if if return ;"
+"void writeBlob ( , , ) throws IOException",,"void writeBlob ( , , ) throws IOException "
+void testDateMath public ( ) throws Exception { } ; ; DateRangeAggregationBuilder,,void testDateMath public ( ) throws Exception { } ; ; DateRangeAggregationBuilder 
+"concreteIndices public Index ( , ) { } @ Override [ ]","ProjectMetadata (0.000), ClusterState (0.000)","concreteIndices public Index ( , ) { } @ Override [ ] ProjectMetadata project IndicesRequest request ;"
+"boolean process static ( , , , ) { } BitSet nulls BitSet mvs lhs",rhs (0.000),"boolean process static ( , , , ) { } BitSet nulls BitSet mvs lhs rhs for ( ;"
+"boolean enqueueWrite private ( , , ) { } ChannelHandlerContext ctx HttpObject msg",,"boolean enqueueWrite private ( , , ) { } ChannelHandlerContext ctx HttpObject msg "
+void assertReturnModelIsModifiable private ( ) { } @,,void assertReturnModelIsModifiable private ( ) { } @ 
+"boolean match public ( , ,",", (0.000), ) (0.000)","boolean match public ( , , )"
+nestedParsedDocFactory public static CheckedBiFunction ( ) throws,,nestedParsedDocFactory public static CheckedBiFunction ( ) throws 
+void testRunnerWithEmptySegmentsResponse public ( ),,void testRunnerWithEmptySegmentsResponse public ( ) 
+void stopThreadPool public ( ) throws Exception { } @ After if (,) (0.000),void stopThreadPool public ( ) throws Exception { } @ After if ( ) { }
+ClassLoader getServletClassLoader private ( ) { } @ Nullable if return,,ClassLoader getServletClassLoader private ( ) { } @ Nullable if return 
+boolean isLocalFileReference public ( ) {,} (0.000),boolean isLocalFileReference public ( ) { }
+Handler addHandlerWrappers private ( ) { } Handler handler,if (0.000),Handler addHandlerWrappers private ( ) { } Handler handler if
+AlbumPage saveChanges public ( ) { },,AlbumPage saveChanges public ( ) { } 
+Block eval public ( ) { },@ (0.001),Block eval public ( ) { } @
+Heavy getHeavy public,synchronized (0.000),Heavy getHeavy public synchronized
+"buildSortedVocab private static SortedMap ( ) { } < String ,",Integer (0.000),"buildSortedVocab private static SortedMap ( ) { } < String , Integer > vocab ;"
+"Object postProcessAfterInitialization public ( , ) throws BeansException { } @ Override",Object (0.000),"Object postProcessAfterInitialization public ( , ) throws BeansException { } @ Override Object bean String beanName if return bean ;"
+Object visitNumericArrayLiteral public ( ) { } @ Override ctx Source ; ; if,,Object visitNumericArrayLiteral public ( ) { } @ Override ctx Source ; ; if 
+void cleanUp ( ) {,} (0.000),void cleanUp ( ) { }
+void shutdownThreadpool public ( ) throws InterruptedException { } @ After if (,,void shutdownThreadpool public ( ) throws InterruptedException { } @ After if ( 
+"void postSpans protected ( , ) throws IOException { } @ Override URI",uri (0.000),"void postSpans protected ( , ) throws IOException { } @ Override URI uri env NestedLocation ;"
+"DocsWithFieldSet writeBinarizedVectorData static ( , ) throws IOException {",} (0.000),"DocsWithFieldSet writeBinarizedVectorData static ( , ) throws IOException { }"
+void insert public ( ) { } @ Override Person person,,void insert public ( ) { } @ Override Person person 
+"void addRawBlock private ( , ) { } LongBlock block",BooleanVector (0.000),"void addRawBlock private ( , ) { } LongBlock block BooleanVector mask for ( ;"
+void onFailure public,( (0.000),void onFailure public (
+EngineFactory getEngineFactory protected ( ) { } @,,EngineFactory getEngineFactory protected ( ) { } @ 
+Origin getOrigin public ( ) { } @ Override @ Nullable String name,"if (0.000), HealthEndpointGroup (0.000), ClassLoaderFile (0.000), Object (0.000), for (0.000)",Origin getOrigin public ( ) { } @ Override @ Nullable String name ClassLoaderFile ;
+Query approximate public static ( ) { } Query query if else (,,Query approximate public static ( ) { } Query query if else ( 
+"void collect public ( , ) throws IOException {","} (0.000), // if parentDoc is 0 then this means that this parent doesn't have child docs (b/c these appear always before the parent (0.000), // Only collects at top level (0.000)","void collect public ( , ) throws IOException { }"
+void testOutOfRangeFilterPushdownWithFloatAndHalfFloat public ( ) { } var ; String ; String ; ; for,,void testOutOfRangeFilterPushdownWithFloatAndHalfFloat public ( ) { } var ; String ; String ; ; for 
+"GetResult realtimeGetUnderLock protected ( , , , , ) { }",,"GetResult realtimeGetUnderLock protected ( , , , , ) { } "
+void run public ( ) { } @,Override (0.000),void run public ( ) { } @ Override
+void error public static ( ) { } Exception ex ; if ex .,,void error public static ( ) { } Exception ex ; if ex . 
+"shards protected GroupShardsIterator ( , , ) { }",,"shards protected GroupShardsIterator ( , , ) { } "
+void testExpiredToken public ( ) throws Exception { },,void testExpiredToken public ( ) throws Exception { } 
+ConfigurableApplicationContext getConfigurableParent private static (,,ConfigurableApplicationContext getConfigurableParent private static ( 
+void doWriteTo protected ( ) throws IOException,{ (0.000),void doWriteTo protected ( ) throws IOException {
+getBomDependencies private List ( ) { } < Dependency,,getBomDependencies private List ( ) { } < Dependency 
+void testDeprecationHeadersDoNotGetStuck public ( ),,void testDeprecationHeadersDoNotGetStuck public ( ) 
+"void disableBindOnInit private ( ) { } ; doWithConnectors ( ) -> ( service ,",connectors (0.000),"void disableBindOnInit private ( ) { } ; doWithConnectors ( ) -> ( service , connectors ) { }"
+void testActualMissingValue public ( ) throws IOException { // missing value is set to an actual value } boolean,,void testActualMissingValue public ( ) throws IOException { // missing value is set to an actual value } boolean 
+void testJobRelocationIsMemoryAware public ( ) throws Exception { // Open 4 small jobs. Since there is only 1 node in the cluster they'll have to go on that node. // Expand the cluster to 3 nodes. The 4 small jobs will stay on the,,void testJobRelocationIsMemoryAware public ( ) throws Exception { // Open 4 small jobs. Since there is only 1 node in the cluster they'll have to go on that node. // Expand the cluster to 3 nodes. The 4 small jobs will stay on the 
+void initializeBindings public ( ) {,,void initializeBindings public ( ) { 
+"void ccsClusterInfoUpdate private static ( ,",,"void ccsClusterInfoUpdate private static ( , "
+void neo4jIsUpWithOneSessionExpiredException ( ) { } @,Test (0.000),void neo4jIsUpWithOneSessionExpiredException ( ) { } @ Test
+"Validator get public static ( , ) { } ApplicationContext applicationContext Validator validator if",return (0.000),"Validator get public static ( , ) { } ApplicationContext applicationContext Validator validator if return ;"
+readVLongArray public ( ) throws,,readVLongArray public ( ) throws 
+void customizeVendorProperties protected ( ) { } @ Override vendorProperties ; if if Map super,. (0.000),void customizeVendorProperties protected ( ) { } @ Override vendorProperties ; if if Map super . customizeVendorProperties ( ) { }
+"DataStream resolveDataStream public static ( , ) { // We do not consider concrete indices - only data streams and data stream aliases. // Locate the write index for the abstraction, and check if it has a data stream associated with it.",,"DataStream resolveDataStream public static ( , ) { // We do not consider concrete indices - only data streams and data stream aliases. // Locate the write index for the abstraction, and check if it has a data stream associated with it. "
+void testRewriteCompoundRetrieverShouldThrowForPartialResults public,,void testRewriteCompoundRetrieverShouldThrowForPartialResults public 
+"void sendResponse private ( , , , , , , )",,"void sendResponse private ( , , , , , , ) "
+"TDigestState create public static ( , , ) {",} (0.000),"TDigestState create public static ( , , ) { }"
+"void assertEqualInstances protected ( , ) { } @",Override (0.000),"void assertEqualInstances protected ( , ) { } @ Override"
+void doRun protected ( ) { } @ Override ; if,,void doRun protected ( ) { } @ Override ; if 
+"void addRandomStoredFields static ( , ) { } Document doc numFields",,"void addRandomStoredFields static ( , ) { } Document doc numFields "
+void checkIntegrity public ( ),throws (0.000),void checkIntegrity public ( ) throws
+boolean equals public ( ) { } @ Override,Object (0.005),boolean equals public ( ) { } @ Override Object
+"XContentBuilder toXContent public ( , )",throws (0.001),"XContentBuilder toXContent public ( , ) throws"
+"void write public ( , , )",throws (0.000),"void write public ( , , ) throws"
+String fetchData public ( ) {,,String fetchData public ( ) { 
+void testAliasFilterWithNowInRangeFilterAndQuery public ( ) { } ;,,void testAliasFilterWithNowInRangeFilterAndQuery public ( ) { } ; 
+"void handle private ( , , ) { } ExecuteContext context SQLExceptionTranslator translator",SQLException (0.000),"void handle private ( , , ) { } ExecuteContext context SQLExceptionTranslator translator SQLException exception DataAccessException ;"
+void recordCachePopulationMetrics public (,,void recordCachePopulationMetrics public ( 
+"void customizeKeepAliveTimeout private ( , ) { } ConfigurableTomcatWebServerFactory factory",Duration (0.000),"void customizeKeepAliveTimeout private ( , ) { } ConfigurableTomcatWebServerFactory factory Duration keepAliveTimeout ;"
+boolean equals public ( ) { } @,Override (0.005),boolean equals public ( ) { } @ Override
+void loadConfiguration protected (,", (0.000)","void loadConfiguration protected ( ,"
+void testUnderscoreInAnalyzerName public ( ) throws IOException { } Settings ;,,void testUnderscoreInAnalyzerName public ( ) throws IOException { } Settings ; 
+void onFailure public ( ) { } @ Override Exception e ; if ;,assertCurrentThread (0.000),void onFailure public ( ) { } @ Override Exception e ; if ; assertCurrentThread ( ) { }
+"dataStreamsExclusivelyUsingTemplates static Set ( , )",,"dataStreamsExclusivelyUsingTemplates static Set ( , ) "
+EmbeddedCacheManager createEmbeddedCacheManager private,( (0.000),EmbeddedCacheManager createEmbeddedCacheManager private (
+RankVectors get public ( ) { },@ (0.000),RankVectors get public ( ) { } @
+void testOsInfo public ( ) throws IOException { },,void testOsInfo public ( ) throws IOException { } 
+boolean isBeanMethod private ( ) { } @ Contract Method method return ;,,boolean isBeanMethod private ( ) { } @ Contract Method method return ; 
+void testSendLeaderMessage ( ) { } @ Test try { } catch,( (0.000),void testSendLeaderMessage ( ) { } @ Test try { } catch ( ) var ;
+"void createBuildBwcTask static ( , , , , , , , )","{ (0.000), throws (0.000)","void createBuildBwcTask static ( , , , , , , , ) throws IOException { }"
+void customizeAndRunServer private,,void customizeAndRunServer private 
+boolean equals public (,) (0.005),boolean equals public ( )
+void runWithPrimaryShardReference ( ) { },,void runWithPrimaryShardReference ( ) { } 
+"TextMapPropagator create static ( , ) { } properties TextMapPropagator baggagePropagator TextMapPropagatorMapper ; ; if",; (0.000),"TextMapPropagator create static ( , ) { } properties TextMapPropagator baggagePropagator TextMapPropagatorMapper ; ; if ;"
+void runWhenUsingCustomResourceLoader ( ) { } @ Test ; ConfigurableApplicationContext ; String ; ; .,,void runWhenUsingCustomResourceLoader ( ) { } @ Test ; ConfigurableApplicationContext ; String ; ; . 
+void testRefreshingTokensInMixedCluster public ( ) throws Exception { // verify new nodes can refresh tokens created by old nodes and vice versa } ; for,,void testRefreshingTokensInMixedCluster public ( ) throws Exception { // verify new nodes can refresh tokens created by old nodes and vice versa } ; for 
+"BooleanQuery filtered public static ( , ) { } Query query Query filter ;",,"BooleanQuery filtered public static ( , ) { } Query query Query filter ; "
+resultsMatcher private static Matcher ( ) { } < Object > typedData if,,resultsMatcher private static Matcher ( ) { } < Object > typedData if 
+ResourceResolver getVersionResourceResolver private ( ) { } Strategy properties VersionResourceResolver ;,if (0.000),ResourceResolver getVersionResourceResolver private ( ) { } Strategy properties VersionResourceResolver ; if if return resolver ;
+"TestHttpResponse handleRequest private static ( ,",") (0.000), , (0.000)","TestHttpResponse handleRequest private static ( , ,"
+"void createDataStream public ( , ) { } CreateDataStreamClusterStateUpdateRequest request",,"void createDataStream public ( , ) { } CreateDataStreamClusterStateUpdateRequest request "
+String determineUsername public ( ) {,} (0.000),String determineUsername public ( ) { }
+void onResponse public ( ) { } @,Override (0.000),void onResponse public ( ) { } @ Override
+getRangeEnd protected static Optional ( ) {,,getRangeEnd protected static Optional ( ) { 
+void main public,static (0.000),void main public static
+findByName public Optional ( ) throws,,findByName public Optional ( ) throws 
+"CohereCompletionServiceSettings fromMap public static ( ,",,"CohereCompletionServiceSettings fromMap public static ( , "
+"EngineConfig config public ( , , , , , , , , , ,",", (0.003), ) (0.001), } (0.000), null (0.000), username (0.000)","EngineConfig config public ( , , , , , , , , , , ) ( ) unassignedInfo . reason unassignedInfo . message unassignedInfo . failure unassignedInfo . failedAllocations unassignedInfo . unassignedTimeNanos unassignedInfo . unassignedTimeMillis unassignedInfo . delayed . DECIDERS_THROTTLED unassignedInfo . failedNodeIds unassignedInfo . lastAllocatedNodeId shardRouting . primary == 1 UnassignedInfo . AllocationStatus UnassignedInfo . AllocationStatus ( , 0 ) ( , 1"
+getExclusions protected Set (,,getExclusions protected Set ( 
+"parameters public static Iterable ( ) { // Don't test null, as it is not allowed but the expected message is not a type error - so we check it separately in VerifierTests } @ ParametersFactory < > ;",,"parameters public static Iterable ( ) { // Don't test null, as it is not allowed but the expected message is not a type error - so we check it separately in VerifierTests } @ ParametersFactory < > ; "
+"CacheManager createCacheManager private ( , ) throws IOException { } CacheProperties cacheProperties cachePropertiesCustomizers CachingProvider ;",Properties (0.000),"CacheManager createCacheManager private ( , ) throws IOException { } CacheProperties cacheProperties cachePropertiesCustomizers CachingProvider ; Properties ;"
+"void scenario public static ( , ) { // feed // serve drinks",,"void scenario public static ( , ) { // feed // serve drinks "
+getOptionsHelp public Collection ( ) {,} (0.000),getOptionsHelp public Collection ( ) { }
+ScriptSortBuilder randomScriptSortBuilder public static ( ) { } ScriptSortType ; ScriptSortBuilder ; if if,,ScriptSortBuilder randomScriptSortBuilder public static ( ) { } ScriptSortType ; ScriptSortBuilder ; if if 
+"Model updateModelWithEmbeddingDetails public ( , ) { } @ Override Model model","listener (0.000), embeddingSize (0.000), finalListener (0.000)","Model updateModelWithEmbeddingDetails public ( , ) { } @ Override Model model listener if else ActionListener ( ) { }"
+Properties fromPropertiesMap private ( ) { } PrometheusProperties prometheusProperties ; if Properties ; if,,Properties fromPropertiesMap private ( ) { } PrometheusProperties prometheusProperties ; if Properties ; if 
+"TypeExcludeFilter instantiateTypeExcludeFilter private ( , )",,"TypeExcludeFilter instantiateTypeExcludeFilter private ( , ) "
+"void assertSingleClusterIsTrusted private ( , , ) throws Exception",,"void assertSingleClusterIsTrusted private ( , , ) throws Exception "
+RemoteClusterPermissions doParseInstance protected ( ) throws,,RemoteClusterPermissions doParseInstance protected ( ) throws 
+Exception checkFeatureAvailable public final ( ) { } RestRequest request if,,Exception checkFeatureAvailable public final ( ) { } RestRequest request if 
+void registerTestRestTemplate private ( ) { } ConfigurableApplicationContext,context (0.000),void registerTestRestTemplate private ( ) { } ConfigurableApplicationContext context
+HttpRequest createHttpRequest public ( ) { } @ Override var ; var ; ByteArrayEntity ;,,HttpRequest createHttpRequest public ( ) { } @ Override var ; var ; ByteArrayEntity ; 
+"Field getFieldBuilderByName private static ( , )",,"Field getFieldBuilderByName private static ( , ) "
+void onResponse public ( ) { } @ Override,"Void (0.000), Releasable (0.000), response (0.000), persistentTask (0.000), AcknowledgedResponse (0.000)",void onResponse public ( ) { } @ Override response
+createDeploymentsFromPlan public static List ( ) { } < Deployment,,createDeploymentsFromPlan public static List ( ) { } < Deployment 
+String execute public ( ) { } @ Override Order order,"var (0.000), if (0.000)",String execute public ( ) { } @ Override Order order if else ( ) { }
+File createTempDir protected final ( ) { } String prefix try { },,File createTempDir protected final ( ) { } String prefix try { } 
+"void doExecute protected ( , , ) {","} (0.000), // Indices are resolved twice (they are resolved again later by the base class), but that's ok for this action type (0.000), /*
+         * This is called on the Transport thread so we can check the indexing
+         * memory pressure *quickly* but we don't want to keep the transport
+         * thread busy. Then, as soon as we have the indexing pressure in we fork
+         * to one of the write thread pools. We do this because juggling the
+         * bulk request can get expensive for a few reasons:
+         * 1. Figuring out which shard should receive a bulk request might require
+         *    parsing the _source.
+         * 2. When dispatching the sub-requests to shards we may have to compress
+         *    them. LZ4 is super fast, but slow enough that it's best not to do it
+         *    on the transport thread, especially for large sub-requests.
+         *
+         * We *could* detect these cases and only fork in then, but that is complex
+         * to get right and the fork is fairly low overhead.
+         */ (0.000), // Check if all the nodes in this cluster know about the service (0.000), // single item cache that maps the provided index name to the resolved one (0.000)","void doExecute protected ( , , ) { }"
+boolean equals public ( ) { },"@ (0.005), Object (0.000)",boolean equals public ( ) { } @
+void print public ( ) { },,void print public ( ) { } 
+Integer cancelTimeOutOrder public ( ) { //查询超时、未支付的订单及订单详情 //修改订单状态为交易取消,,Integer cancelTimeOutOrder public ( ) { //查询超时、未支付的订单及订单详情 //修改订单状态为交易取消 
+getNodePredicate static Predicate ( ) { } < DiscoveryNode > Settings,,getNodePredicate static Predicate ( ) { } < DiscoveryNode > Settings 
+"void checkDestination ( , , ) { } String name",RoutingType (0.000),"void checkDestination ( , , ) { } String name RoutingType routingType boolean shouldExist try { }"
+"void waitForShardsReadyForClosing private ( , , , ) { }",,"void waitForShardsReadyForClosing private ( , , , ) { } "
+void processItem private (,) (0.000),void processItem private ( )
+"listBlobsByPrefix public Map ( , , ) throws IOException { } < String , BlobMetadata",> (0.000),"listBlobsByPrefix public Map ( , , ) throws IOException { } < String , BlobMetadata > String path String prefix String ;"
+forwardingSubscription private Flow . Subscription ( ) { } return ; new Flow .,Subscription (0.000),forwardingSubscription private Flow . Subscription ( ) { } return ; new Flow . Subscription ( ) { }
+void onIndexModule public ( ) { } @ Override IndexModule,"indexModule (0.000), module (0.000)","void onIndexModule public ( ) { } @ Override IndexModule module if ( enabled ) { // in order to prevent scroll ids from being maliciously crafted and/or guessed, a listener is added that // attaches information to the scroll context so that we can validate the user that created the scroll against // the user that is executing a scroll operation }"
+CompressedXContent convertMappingMapToXContent private static ( ) throws IOException { } rawAdditionalMapping CompressedXContent ; if else,,CompressedXContent convertMappingMapToXContent private static ( ) throws IOException { } rawAdditionalMapping CompressedXContent ; if else 
+void handleElectionMessage protected ( ) { } @,,void handleElectionMessage protected ( ) { } @ 
+"XContentBuilder toXContent public ( , )",throws (0.001),"XContentBuilder toXContent public ( , ) throws"
+"Object handle public ( , ) { }",@ (0.000),"Object handle public ( , ) { } @"
+PeriodStyle detect public static ( ) { },,PeriodStyle detect public static ( ) { } 
+"apply Map ( ) { } < String ,",,"apply Map ( ) { } < String , "
+XContentBuilder keyToXContent protected,,XContentBuilder keyToXContent protected 
+void testFloor public ( ) { // mostly tested in other tests } AVLGroupTree ; for (,,void testFloor public ( ) { // mostly tested in other tests } AVLGroupTree ; for ( 
+"readStepKeys static Set ( , ,",,"readStepKeys static Set ( , , "
+DataType readFrom public static ( ) throws IOException { } String name if DataType,,DataType readFrom public static ( ) throws IOException { } String name if DataType 
+"String get private ( ,",") (0.000), , (0.000)","String get private ( , )"
+String toString public,"( (0.001), static (0.000)",String toString public (
+void testMultiMatchQuery public ( ) throws Exception,,void testMultiMatchQuery public ( ) throws Exception 
+void testIllegalFormatField public ( ) throws Exception { } String ;,,void testIllegalFormatField public ( ) throws Exception { } String ; 
+void createIndicesWithRandomAliases private ( ) throws IOException { } String ... for,,void createIndicesWithRandomAliases private ( ) throws IOException { } String ... for 
+"compare public int ( , ) { } @ Override lhs rhs","for (0.000), ; (0.000)","compare public int ( , ) { } @ Override lhs rhs for ( ;"
+"void createLatestVersionedIndexIfRequired public static ( , , , ) { // The check for existence is against local cluster state, so very cheap // Creating the index involves communication with the master node, so it's more expensive but much rarer } ClusterService",,"void createLatestVersionedIndexIfRequired public static ( , , , ) { // The check for existence is against local cluster state, so very cheap // Creating the index involves communication with the master node, so it's more expensive but much rarer } ClusterService "
+"Decision canAllocateToNode private ( , ) { } IndexMetadata",,"Decision canAllocateToNode private ( , ) { } IndexMetadata "
+void doWith public ( ) throws IllegalArgumentException,,void doWith public ( ) throws IllegalArgumentException 
+String buildPropertyDeprecations private ( ),,String buildPropertyDeprecations private ( ) 
+boolean hasFieldAttribute public ( ) {,,boolean hasFieldAttribute public ( ) { 
+boolean equals public ( ) { } @,Override (0.005),boolean equals public ( ) { } @ Override
+getAsMap public Map ( ) {,,getAsMap public Map ( ) { 
+void handleElectionInvokeMessage protected ( ) { } @ Override,,void handleElectionInvokeMessage protected ( ) { } @ Override 
+boolean isEmpty ( ) { } return ; && jwks . isEmpty,,boolean isEmpty ( ) { } return ; && jwks . isEmpty 
+"void writePair private < , >",,"void writePair private < , > "
+"Driver neo4jDriver public ( , , , ) { }",@ (0.000),"Driver neo4jDriver public ( , , , ) { } @ Bean @ ConditionalOnMissingBean ApplicationContext applicationContext HealthEndpointGroups groups healthContributors reactiveHealthContributors if return ;"
+"getTransportInterceptors public List ( , ) { } @ Override <","EnvironmentPostProcessor (0.000), String (0.000), LibraryWithVersionOptions (0.000), TransportInterceptor (0.000), ConfigTreeConfigDataResource (0.000)","getTransportInterceptors public List ( , ) { } @ Override < LibraryWithVersionOptions > librariesToUpgrade librariesByName ;"
+"void innerOpenEngineAndTranslog private ( ) throws IOException { // we disable deletes since we allow for operations to be executed against the shard while recovering // but we need to make sure we don't loose deletes until we are done recovering // time elapses after the engine is created above (pulling the config settings) until we set the engine reference, during // which settings changes could possibly have happened, so here we forcefully push any config changes to the new engine. }",,"void innerOpenEngineAndTranslog private ( ) throws IOException { // we disable deletes since we allow for operations to be executed against the shard while recovering // but we need to make sure we don't loose deletes until we are done recovering // time elapses after the engine is created above (pulling the config settings) until we set the engine reference, during // which settings changes could possibly have happened, so here we forcefully push any config changes to the new engine. } "
+void testMultipleIndices public ( ) { // now add some aliases randomly } var ; ; ClusterState ;,,void testMultipleIndices public ( ) { // now add some aliases randomly } var ; ; ClusterState ; 
+Query createExactKnnFloatQuery private ( ) { } queryVector,,Query createExactKnnFloatQuery private ( ) { } queryVector 
+mapResponseType public Class ( ) { },@ (0.000),mapResponseType public Class ( ) { } @
+"void deleteBlobsIgnoringIfNotExists public ( , ) throws IOException { } @ Override OperationPurpose purpose blobNames","if (0.000), IOException (0.000)","void deleteBlobsIgnoringIfNotExists public ( , ) throws IOException { } @ Override OperationPurpose purpose blobNames if ;"
+"ProjectGenerationResponse createResponse private ( , ) throws IOException { }",,"ProjectGenerationResponse createResponse private ( , ) throws IOException { } "
+void onApplicationEvent public ( ) { } @ Override ContextClosedEvent event for ( MeterRegistry,meterRegistry (0.000),void onApplicationEvent public ( ) { } @ Override ContextClosedEvent event for ( MeterRegistry meterRegistry : ) this . meterRegistries { }
+Query rewrite public ( ) throws IOException { } @ Override IndexSearcher searcher,"Query (0.000), if (0.000), IndexReader (0.000)",Query rewrite public ( ) throws IOException { } @ Override IndexSearcher searcher Query ;
+boolean isFullMatch public ( ) { } for ( ConditionAndOutcome conditionAndOutcomes : this ),return (0.000),boolean isFullMatch public ( ) { } for ( ConditionAndOutcome conditionAndOutcomes : this ) return true ;
+getIndexFoldersDeletionListeners public List ( ) { } @ Override <,,getIndexFoldersDeletionListeners public List ( ) { } @ Override < 
+void addRawBlock private ( ) { } BytesRefBlock block BytesRef,; (0.000),void addRawBlock private ( ) { } BytesRefBlock block BytesRef ;
+"resolveSchemaResources private List ( ,",") (0.000), , (0.000)","resolveSchemaResources private List ( , )"
+"Query termsQuery public ( , ) { } @ Override values SearchExecutionContext context ;","; (0.000), if (0.000)","Query termsQuery public ( , ) { } @ Override values SearchExecutionContext context ; ;"
+void sendResponse public ( ) { } @ Override RestResponse response boolean ; try success,,void sendResponse public ( ) { } @ Override RestResponse response boolean ; try success 
+"get static < > ValueObject ( , ,",", (0.000), ) (0.000)","get static < > ValueObject ( , , ,"
+"ConditionOutcome getMatchOutcome private ( ,",", (0.000), ) (0.000)","ConditionOutcome getMatchOutcome private ( , )"
+zip64Bytes private ( ) throws,,zip64Bytes private ( ) throws 
+void testInvalidFeatures public ( ) { } ; ; for ( ; ) RestRequest,,void testInvalidFeatures public ( ) { } ; ; for ( ; ) RestRequest 
+void setRefreshPending private ( ) { } Engine engine ; ;,,void setRefreshPending private ( ) { } Engine engine ; ; 
+"Headers contentRangeHeader private static ( , , ) { }",,"Headers contentRangeHeader private static ( , , ) { } "
+String distributionProjectPath private static (,,String distributionProjectPath private static ( 
+SearchRequestBuilder buildDataSummarySearchRequestBuilder private ( ) { } QueryBuilder ; if return,,SearchRequestBuilder buildDataSummarySearchRequestBuilder private ( ) { } QueryBuilder ; if return 
+void testWritableArrays public ( ) throws IOException { } ; ; ; BytesStreamOutput,,void testWritableArrays public ( ) throws IOException { } ; ; ; BytesStreamOutput 
+void testOpenAiEmbeddings public,( (0.000),void testOpenAiEmbeddings public (
+boolean has public static ( ) { } BeanFactory beanFactory return,; (0.000),boolean has public static ( ) { } BeanFactory beanFactory return ;
+Ssl ssl private,( (0.000),Ssl ssl private (
+void maybeTimeout private (,,void maybeTimeout private ( 
+void configurePathMatch public ( ) { } @ Override PathMatchConfigurer configurer if (,,void configurePathMatch public ( ) { } @ Override PathMatchConfigurer configurer if ( 
+T get public,"( (0.000), < (0.000), final (0.000)",T get public (
+Warnings warnings private ( ) { } if return warnings ; ( ) { },warnings (0.001),Warnings warnings private ( ) { } if return warnings ; ( ) { } warnings == null ;
+void testBuildTable public,,void testBuildTable public 
+"void checkDimensionExceeded private ( , ) { } index",,"void checkDimensionExceeded private ( , ) { } index "
+String camelCaseToUnderscore public static (,) (0.000),String camelCaseToUnderscore public static ( )
+boolean equals public ( ) { } @ Override Object obj if if,"if (0.000), return (0.000), Request (0.000), ; (0.000), StandardConfigDataResource (0.000)",boolean equals public ( ) { } @ Override Object obj if if Request ;
+"convertErrors private List ( , ,",) (0.000),"convertErrors private List ( , , )"
+h3Rotate60cw public static long,,h3Rotate60cw public static long 
+void testAnalyzerWithTwoTextsAndNoIndexName public ( ) throws IOException { } ; for ( String analyzer,,void testAnalyzerWithTwoTextsAndNoIndexName public ( ) throws IOException { } ; for ( String analyzer 
+NumericDoubleValues select public ( ),,NumericDoubleValues select public ( ) 
+String randomVersionNumber private,,String randomVersionNumber private 
+boolean matches public ( ) {,"} (0.000), // ingest metadata and IngestCtxMap will not be the same (timestamp differs every time) (0.000)",boolean matches public ( ) { }
+EsqlQueryResponse deserialize static ( ) throws IOException { } BlockStreamInput in,,EsqlQueryResponse deserialize static ( ) throws IOException { } BlockStreamInput in 
+void copyExtraConfigFiles private ( ) { } if ; (,,void copyExtraConfigFiles private ( ) { } if ; ( 
+void useLastModified ( ) { } @ Test,; (0.000),void useLastModified ( ) { } @ Test ;
+NamedExpression enrichFieldName private,,NamedExpression enrichFieldName private 
+void addApplicationConverters public static ( ) { } ConverterRegistry registry ; ;,,void addApplicationConverters public static ( ) { } ConverterRegistry registry ; ; 
+"void createIndex private ( , ) { } SystemIndexMigrationInfo migrationInfo listener CreateIndexClusterStateUpdateRequest ;",,"void createIndex private ( , ) { } SystemIndexMigrationInfo migrationInfo listener CreateIndexClusterStateUpdateRequest ; "
+void setTestSysProps private static ( ) { // Enable Netty leak detection and monitor logger for logged leak errors // We have to disable setting the number of available processors as tests in the same JVM randomize processors and will step on each // other if we allow them to set the number of available processors as it's set-once in Netty. // sometimes use the java.time date formatters } @,,void setTestSysProps private static ( ) { // Enable Netty leak detection and monitor logger for logged leak errors // We have to disable setting the number of available processors as tests in the same JVM randomize processors and will step on each // other if we allow them to set the number of available processors as it's set-once in Netty. // sometimes use the java.time date formatters } @ 
+getLifecyclePolicies protected List ( ) { } @ Override < LifecyclePolicy >,,getLifecyclePolicies protected List ( ) { } @ Override < LifecyclePolicy > 
+void customize public ( ) { } @ Override PoolingAsyncClientConnectionManagerBuilder,,void customize public ( ) { } @ Override PoolingAsyncClientConnectionManagerBuilder 
+"ConditionOutcome getMatchOutcome public ( , ) { } @ Override ConditionContext context AnnotatedTypeMetadata",metadata (0.001),"ConditionOutcome getMatchOutcome public ( , ) { } @ Override ConditionContext context AnnotatedTypeMetadata metadata ;"
+getRegistrars private Collection ( ) { } < ErrorPageRegistrar >,if (0.000),getRegistrars private Collection ( ) { } < ErrorPageRegistrar > if return ;
+BytesReference toBytesReference private,static (0.000),BytesReference toBytesReference private static
+void onLagDetected public,,void onLagDetected public 
+Path createLayerFile private ( ) throws IOException { } TarArchive tarArchive,,Path createLayerFile private ( ) throws IOException { } TarArchive tarArchive 
+"findCities public Page ( , ) { } @ Override <",,"findCities public Page ( , ) { } @ Override < "
+void resolveGraph ( ) { } @ TaskAction ;,,void resolveGraph ( ) { } @ TaskAction ; 
+void overrideOldestIndexVersion private,,void overrideOldestIndexVersion private 
+parsePolicyName private static,,parsePolicyName private static 
+TransportException doFailToSend private ( ) throws InterruptedException { } RuntimeException failToSendException,,TransportException doFailToSend private ( ) throws InterruptedException { } RuntimeException failToSendException 
+"void process static ( , , , ) { } @ Evaluator builder position","DoubleBlock (0.000), LongBlock (0.000), BooleanBlock (0.000), IntBlock (0.000)","void process static ( , , , ) { } @ Evaluator builder position LongBlock values percentile LongSortingScratch scratch ;"
+"String resolveExpression static ( , ) {",,"String resolveExpression static ( , ) { "
+Result getResult ( ) { } ; if if if Result,,Result getResult ( ) { } ; if if if Result 
+"health public WebEndpointResponse ( , , ,",", (0.000)","health public WebEndpointResponse ( , , , ,"
+MimeType getContentType public,( (0.000),MimeType getContentType public (
+"void restoreSnapshot public ( , , ) { // Try and fill in any missing repository UUIDs in case they're needed during the restore // AtomicReference just so we have somewhere to hold these objects, there's no interesting concurrency here }",,"void restoreSnapshot public ( , , ) { // Try and fill in any missing repository UUIDs in case they're needed during the restore // AtomicReference just so we have somewhere to hold these objects, there's no interesting concurrency here } "
+void testCanMatch public ( ) throws Exception { } ; ; ; BytesReference ;,,void testCanMatch public ( ) throws Exception { } ; ; ; BytesReference ; 
+"SortedDocsProducer createSortedDocsProducerOrNull ( , ) { } @ Override IndexReader reader Query query",,"SortedDocsProducer createSortedDocsProducerOrNull ( , ) { } @ Override IndexReader reader Query query "
+JSONStringer key public ( ) throws JSONException { },String (0.000),JSONStringer key public ( ) throws JSONException { } String
+"boolean dummyEntityFitsOnLeastLoadedNode static ( , // total up requirements... , , ) { // Note: we check least loaded based _only_ on memory... // Check if the dummy entity could be accommodated } perNodeJobRequirements perNodeMemoryInBytes",,"boolean dummyEntityFitsOnLeastLoadedNode static ( , // total up requirements... , , ) { // Note: we check least loaded based _only_ on memory... // Check if the dummy entity could be accommodated } perNodeJobRequirements perNodeMemoryInBytes "
+"buildIndexAliasFilters Map ( , ,",) (0.000),"buildIndexAliasFilters Map ( , , )"
+void parseRequestConfig public (,", (0.000)","void parseRequestConfig public ( ,"
+void testReplaceSortByExpressions public (,,void testReplaceSortByExpressions public ( 
+"map protected Map ( ) { } < String , Object",> (0.000),"map protected Map ( ) { } < String , Object > ;"
+void testIntersectsOnTwoPointFieldAndOneCentroidUsesDocValues public ( ),,void testIntersectsOnTwoPointFieldAndOneCentroidUsesDocValues public ( ) 
+String oldClusterVersionCompatibleEmbeddingConfig private ( ) {,} (0.000),String oldClusterVersionCompatibleEmbeddingConfig private ( ) { }
+URL toURL protected ( ) {,} (0.000),URL toURL protected ( ) { }
+XLMRobertaTokenizer build public ( ) throws IOException { } if return ;,( (0.000),XLMRobertaTokenizer build public ( ) throws IOException { } if return ; ( ) { }
+recoverySourceSize long ( ) throws IOException { } segmentDocId if assert,,recoverySourceSize long ( ) throws IOException { } segmentDocId if assert 
+"Model updateModelWithEmbeddingDetails public ( , ) {",} (0.000),"Model updateModelWithEmbeddingDetails public ( , ) { }"
+ClientYamlTestClient clientYamlTestClient protected ( ) { } String,apiName (0.000),ClientYamlTestClient clientYamlTestClient protected ( ) { } String apiName
+void executeWithCacheBindMountsExecutesPhases ( ) throws Exception {,} (0.000),void executeWithCacheBindMountsExecutesPhases ( ) throws Exception { }
+"void evaluate public ( , ) { } ClientYamlTestExecutionContext context String testCandidateDescription if if if",,"void evaluate public ( , ) { } ClientYamlTestExecutionContext context String testCandidateDescription if if if "
+boolean isMultiPartUpload private ( ) { } String request,,boolean isMultiPartUpload private ( ) { } String request 
+boolean definesAllocationRules private static,,boolean definesAllocationRules private static 
+void testShardChangesWithDefaultDocType public ( ) throws Exception {,,void testShardChangesWithDefaultDocType public ( ) throws Exception { 
+PointInTimeBuilder pointInTimeBuilder public ( ) { } if return,,PointInTimeBuilder pointInTimeBuilder public ( ) { } if return 
+ServerWebExchangeMatcher createDelegate protected ( ) { } @ Override PathMappedEndpoints,,ServerWebExchangeMatcher createDelegate protected ( ) { } @ Override PathMappedEndpoints 
+"XContentBuilder toXContent public ( , ) throws IOException { } @ Override","XContentBuilder (0.001), doc (0.000), RestRequest (0.000), LeafReaderContext (0.000), VectorSimilarityFunction (0.000)","XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder builder Params params ;"
+extractPathParameters private Map ( ) {,} (0.000),extractPathParameters private Map ( ) { }
+void waitForExit public ( ) { } if ( ) { } process !=,,void waitForExit public ( ) { } if ( ) { } process != 
+void addRawBlock private ( ) {,} (0.000),void addRawBlock private ( ) { }
+"void addParam private static ( , ,",,"void addParam private static ( , , "
+FailureAnalysis analyzeBindValidationException private ( ) { } ExceptionDetails details StringBuilder ; for (,ObjectError (0.000),FailureAnalysis analyzeBindValidationException private ( ) { } ExceptionDetails details StringBuilder ; for ( ObjectError error : ) return ;
+void scheduleNext private (,,void scheduleNext private ( 
+"AzureAiStudioEmbeddingsServiceSettings fromMap public static ( , ) { } map ConfigurationParseContext context ValidationException",; (0.000),"AzureAiStudioEmbeddingsServiceSettings fromMap public static ( , ) { } map ConfigurationParseContext context ValidationException ;"
+"runEsqlAsync public static Map ( , , ) throws IOException { // assert initial contents, if any, are the same as async get contents }",,"runEsqlAsync public static Map ( , , ) throws IOException { // assert initial contents, if any, are the same as async get contents } "
+void testMultiValueAllSet public ( ) throws Exception { // the segments are force merged to a single segment so that the sorted binary doc values can be asserted within a single segment. // Previously we used the SlowCompositeReaderWrapper but this is an unideal solution so force merging is a better idea. } ; ; ; ;,,void testMultiValueAllSet public ( ) throws Exception { // the segments are force merged to a single segment so that the sorted binary doc values can be asserted within a single segment. // Previously we used the SlowCompositeReaderWrapper but this is an unideal solution so force merging is a better idea. } ; ; ; ; 
+ConstantScoreWeight getContainsWeight private,,ConstantScoreWeight getContainsWeight private 
+read public int (,") (0.000), , (0.000)",read public int ( )
+Customer findOne public ( ) { } @ Override,,Customer findOne public ( ) { } @ Override 
+Literal asLiteral public ( ) { } if return,,Literal asLiteral public ( ) { } if return 
+void destroySilently private ( ) { } try {,} (0.000),void destroySilently private ( ) { } try { }
+URL toURL private ( ) { } File file try {,,URL toURL private ( ) { } File file try { 
+void testDeprecateTranslogRetentionSettings public ( ) { } @ UpdateForV9 @,,void testDeprecateTranslogRetentionSettings public ( ) { } @ UpdateForV9 @ 
+BeanPostProcessor dataSourceWrapper static,( (0.000),BeanPostProcessor dataSourceWrapper static (
+"void getForecastStats public ( , , , ) { } String jobId TaskId",parentTaskId (0.000),"void getForecastStats public ( , , , ) { } String jobId TaskId parentTaskId handler errorHandler String ;"
+void testScrollResponseBatchingBehavior public,,void testScrollResponseBatchingBehavior public 
+PhysicalPlan mapBinary private ( ) { // special handling for inlinejoin - join + subquery which has to be executed first (async) and replaced by its result } BinaryPlan binary if return ; (,,PhysicalPlan mapBinary private ( ) { // special handling for inlinejoin - join + subquery which has to be executed first (async) and replaced by its result } BinaryPlan binary if return ; ( 
+"void handle private ( ,",", (0.000)","void handle private ( , ,"
+AccessLogValve findAccessLogValve private (,) (0.000),AccessLogValve findAccessLogValve private ( )
+void register static ( ) { } BeanDefinitionRegistry registry ;,if (0.000),void register static ( ) { } BeanDefinitionRegistry registry ; if Assert . notNull ( ) { }
+"void extractObjects private static ( , ) { }",,"void extractObjects private static ( , ) { } "
+String createSchema private ( ) { } ; ; String ; ; ;,for (0.000),String createSchema private ( ) { } ; ; String ; ; ; for ( ;
+"XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException { } @ Override XContentBuilder builder Params","params (0.002), builderParams (0.000)","XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException { } @ Override XContentBuilder builder Params params boolean ;"
+"XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException",{ (0.000),"XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException {"
+String asHash private static ( ) { } String currentContext try {,} (0.000),String asHash private static ( ) { } String currentContext try { }
+"HostMetadata fromSource // remove fallback to the ""profiling.host.machine"" field and remove it from the component template ""profiling-hosts"". public",,"HostMetadata fromSource // remove fallback to the ""profiling.host.machine"" field and remove it from the component template ""profiling-hosts"". public "
+SslBundle getPemSslBundle private ( ) { } @ Nullable RunningService service,,SslBundle getPemSslBundle private ( ) { } @ Nullable RunningService service 
+void binaryField public,( (0.000),void binaryField public (
+boolean allowsDashIgnoringEqualityCheck public ( ) {,} (0.000),boolean allowsDashIgnoringEqualityCheck public ( ) { }
+boolean incrementToken public ( ) throws,IOException (0.000),boolean incrementToken public ( ) throws IOException
+"void updateLocalCheckpoint public synchronized ( , ) { } String allocationId localCheckpoint assert ;",,"void updateLocalCheckpoint public synchronized ( , ) { } String allocationId localCheckpoint assert ; "
+"void maybeSet public static < > ( , ) { } T","T (0.000), String (0.000)","void maybeSet public static < > ( , ) { } T T value predicate return ;"
+"T convert < > ( , , ) { }",,"T convert < > ( , , ) { } "
+TypeResolution resolveType protected ( ) { },@ (0.000),TypeResolution resolveType protected ( ) { } @
+prepareProcessPage public GroupingAggregatorFunction,. (0.000),prepareProcessPage public GroupingAggregatorFunction .
+boolean isMatch private (,", (0.000)","boolean isMatch private ( ,"
+"XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder","builder (0.002), b (0.000)","XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder builder Params params ;"
+"merge private static List ( , )",{ (0.000),"merge private static List ( , ) {"
+void addRawBlock private ( ) { } BytesRefBlock block BytesRef ;,for (0.000),void addRawBlock private ( ) { } BytesRefBlock block BytesRef ; for ( ;
+E readOptionalEnum public < > ( ) throws IOException { } @,"SuppressWarnings (0.000), Nullable (0.000)","E readOptionalEnum public < > ( ) throws IOException { } @ SuppressWarnings A if else ( ) extends EsField ( ) { // it's safe to cast to int, since the max value for this is {@link PlanStreamOutput#MAX_SERIALIZED_ATTRIBUTES} }"
+"boolean isValidChar static ( , ) { } ch index return ; char",int (0.000),"boolean isValidChar static ( , ) { } ch index return ; char int || || ( ) isAlpha isNumeric && ( ch ) ( ch ) index != 0 ch == '-'"
+void testCreateProcessorWithInputFieldSingleOrList public,,void testCreateProcessorWithInputFieldSingleOrList public 
+extractTokenKeys private Map ( ),{ (0.000),extractTokenKeys private Map ( ) {
+void removeSnake public static ( ) { },Snake (0.000),void removeSnake public static ( ) { } Snake
+String createId public,,String createId public 
+"IntVector eval public ( , )",{ (0.000),"IntVector eval public ( , ) {"
+void validateFrozenPhaseHasSearchableSnapshotAction static ( ) { } phases ; ; Collection Optional,,void validateFrozenPhaseHasSearchableSnapshotAction static ( ) { } phases ; ; Collection Optional 
+boolean isInvalidDoc private ( ),,boolean isInvalidDoc private ( ) 
+"void notifyDone ( , , ) { } thisBatchStartTimeNS ScrollConsumableHitsResponse asyncResponse batchSize if ; ;",,"void notifyDone ( , , ) { } thisBatchStartTimeNS ScrollConsumableHitsResponse asyncResponse batchSize if ; ; "
+void filterIsRegisteredWithAsyncErrorAndRequestDispatcherTypes ( ) { } @ Test ; . run . withUserConfiguration (,) (0.000),void filterIsRegisteredWithAsyncErrorAndRequestDispatcherTypes ( ) { } @ Test ; . run . withUserConfiguration ( ) this . contextRunner ( ) -> TracingConfiguration . class ( context ) { }
+StandardRetrieverBuilder createTestInstance protected ( ) { } @ Override,,StandardRetrieverBuilder createTestInstance protected ( ) { } @ Override 
+FileResolver getFileResolver private (,,FileResolver getFileResolver private ( 
+void writeLoaderClasses private ( ) throws IOException,,void writeLoaderClasses private ( ) throws IOException 
+maybeAttachEntitlementAgent private static Stream (,,maybeAttachEntitlementAgent private static Stream ( 
+void print public ( ) { } switch ( ) { },stage (0.000),void print public ( ) { } switch ( ) { } stage . get -> -> ( ) case ABORTED throw ;
+"void append private ( , ,",", (0.000), ) (0.000)","void append private ( , , ,"
+"boolean isDesiredNodeWithinTierJoining private static ( , , ) { // Take into account the case when the desired nodes have been updated and the node in the tier would be replaced by // a new one. In that case the desired node in the tier won't be actualized as it has to join, but we still need to ensure // that at least one cluster member has the requested tier as we would prefer to minimize the shard movements in these cases.",,"boolean isDesiredNodeWithinTierJoining private static ( , , ) { // Take into account the case when the desired nodes have been updated and the node in the tier would be replaced by // a new one. In that case the desired node in the tier won't be actualized as it has to join, but we still need to ensure // that at least one cluster member has the requested tier as we would prefer to minimize the shard movements in these cases. "
+AmazonS3ClientBuilder buildClientBuilder protected ( ) { } @ Override,,AmazonS3ClientBuilder buildClientBuilder protected ( ) { } @ Override 
+ConfigurationProperty getConfigurationProperty public ( ) { } @ Override ConfigurationPropertyName name ConfigurationProperty ;,,ConfigurationProperty getConfigurationProperty public ( ) { } @ Override ConfigurationPropertyName name ConfigurationProperty ; 
+String convertToString static ( ) { } InputType inputType return ;,,String convertToString static ( ) { } InputType inputType return ; 
+"void processElement private ( , , ) {",,"void processElement private ( , , ) { "
+"void addRawInput private ( , , ) { }",positionOffset (0.000),"void addRawInput private ( , , ) { } positionOffset"
+void testMastersFirst public ( ) { } ; ; ; ; ; ; boolean ;,"if (0.000), boolean (0.000)",void testMastersFirst public ( ) { } ; ; ; ; ; ; boolean ; if else boolean ;
+DataStream createDataStream private ( ) { } String name ; ; for ( ;,,DataStream createDataStream private ( ) { } String name ; ; for ( ; 
+Bits getAcceptOrds public ( ),,Bits getAcceptOrds public ( ) 
+"void parseRequestConfig public ( , , , ) { } @ Override String inferenceEntityId TaskType",taskType (0.000),"void parseRequestConfig public ( , , , ) { } @ Override String inferenceEntityId TaskType taskType config parsedModelListener try Map ActionListener { }"
+"void registerMixinClass private static ( , ) { } Builder builder mixinClass ; ;",; (0.000),"void registerMixinClass private static ( , ) { } Builder builder mixinClass ; ; ;"
+"void doChunkedInfer protected ( , , , , , ) { } @ Override","Model (0.000), String (0.000), < (0.000), Object (0.000), Store (0.000)","void doChunkedInfer protected ( , , , , , ) { } @ Override String indexName String dataStreamName IndexMode templateIndexMode Metadata metadata Instant resolvedAt Settings indexTemplateAndCreateRequestSettings combinedTemplateMappings ;"
+getAvailableParameter private Function (,,getAvailableParameter private Function ( 
+"String prepareTemplate static ( , ) { } String template XContentType",,"String prepareTemplate static ( , ) { } String template XContentType "
+"KafkaStreamsConfiguration defaultKafkaStreamsConfig ( , ) { } @ ConditionalOnMissingBean @ Bean Environment environment KafkaConnectionDetails",connectionDetails (0.000),"KafkaStreamsConfiguration defaultKafkaStreamsConfig ( , ) { } @ ConditionalOnMissingBean @ Bean Environment environment KafkaConnectionDetails connectionDetails ;"
+"RestChannelConsumer prepareRequest public ( , ) throws IOException",{ (0.000),"RestChannelConsumer prepareRequest public ( , ) throws IOException {"
+readImmutableMap public <,,readImmutableMap public < 
+matchWildcardToResources static Set (,,matchWildcardToResources static Set ( 
+"void loadContext private ( , ) { } additionalConfiguration",String (0.000),"void loadContext private ( , ) { } additionalConfiguration String"
+void setMessageListener ( ) { },TransportMessageListener (0.000),void setMessageListener ( ) { } TransportMessageListener
+void testSkipIfUnlicensed public (,,void testSkipIfUnlicensed public ( 
+"void parseNested protected static ( , , )",,"void parseNested protected static ( , , ) "
+"getProjectsAndDependencies private Map ( ) { } < Project , > TaskExecutionGraph",,"getProjectsAndDependencies private Map ( ) { } < Project , > TaskExecutionGraph "
+"merge private < > Set ( , ) { } T < T > T",,"merge private < > Set ( , ) { } T < T > T "
+BeanPostProcessor preventDataSourceCloseBeanPostProcessor public static ( ) { } @ Bean @ ConditionalOnBean,return (0.000),BeanPostProcessor preventDataSourceCloseBeanPostProcessor public static ( ) { } @ Bean @ ConditionalOnBean return ;
+void markStoreCorrupted public ( ) throws IOException { } IOException exception ;,,void markStoreCorrupted public ( ) throws IOException { } IOException exception ; 
+boolean equals public ( ) { } @ Override,Object (0.005),boolean equals public ( ) { } @ Override Object
+PropertySummaryDescriptor getPropertySummaryDescriptor private ( ) { } @ Nullable descriptors for ( entry : ),return (0.000),PropertySummaryDescriptor getPropertySummaryDescriptor private ( ) { } @ Nullable descriptors for ( entry : ) return null ;
+void testRegisterClusterDynamicSettingDuplicate public ( ) { } try,,void testRegisterClusterDynamicSettingDuplicate public ( ) { } try 
+Manifest createLauncherManifest public,,Manifest createLauncherManifest public 
+void testRunAsRequestWithRunAsUserWithoutPermission public ( ) { } TransportRequest ; User ; Authentication ;,,void testRunAsRequestWithRunAsUserWithoutPermission public ( ) { } TransportRequest ; User ; Authentication ; 
+extractTokenKeys private Map ( ) { },< (0.000),extractTokenKeys private Map ( ) { } <
+"void collect public ( , ) throws IOException { } @ Override doc bucket if","int (0.000), ; (0.000), else (0.000)","void collect public ( , ) throws IOException { } @ Override doc bucket if else int long ( ) { }"
+"boolean supportsParameter public ( , ) { } @ Override",ParameterContext (0.000),"boolean supportsParameter public ( , ) { } @ Override ParameterContext parameterContext ExtensionContext extensionContext if return ;"
+void placeOrder protected ( ) { } Scanner scanner ;,,void placeOrder protected ( ) { } Scanner scanner ; 
+InputStream currentStream private ( ) throws,,InputStream currentStream private ( ) throws 
+void checkParsedFilterParameters ( ) { } MultiTermVectorsRequest multiRequest,,void checkParsedFilterParameters ( ) { } MultiTermVectorsRequest multiRequest 
+boolean isExistingFile private ( ) { } File archiveFile return ;,&& (0.000),boolean isExistingFile private ( ) { } File archiveFile return ; && && archiveFile . exists archiveFile != null archiveFile . isFile ( ) ( )
+void testResolveAuthorizationInfoForEmptyRestrictedRolesWithAuthentication public ( ) { } ; ;,,void testResolveAuthorizationInfoForEmptyRestrictedRolesWithAuthentication public ( ) { } ; ; 
+void tomcatConnectorCustomizersShouldBeInvoked ( ) { } @ Test TomcatReactiveWebServerFactory,; (0.000),void tomcatConnectorCustomizersShouldBeInvoked ( ) { } @ Test TomcatReactiveWebServerFactory ;
+LeafCollector getLeafCollector public ( ),{ (0.000),LeafCollector getLeafCollector public ( ) {
+"void postDelete public ( , , ) { } @ Override ShardId shardId","IndexShard (0.000), index (0.000), indexOperation (0.000)","void postDelete public ( , , ) { } @ Override ShardId shardId IndexShard indexShard Settings indexSettings if ( ) { // if this index was closed or deleted, we should eliminate the effect of the current scroll for this shard }"
+"boolean hasWebServerNamespace protected final ( , ) { } ApplicationContext applicationContext WebServerNamespace",webServerNamespace (0.000),"boolean hasWebServerNamespace protected final ( , ) { } ApplicationContext applicationContext WebServerNamespace webServerNamespace return ;"
+"void elserCase private ( , , , , , , , ) {","} (0.000), // if we are creating an index we need to authorize potential aliases created at the same time (0.000), // Determine the minimum and maximum token weight that could possibly match the weight we've got. (0.000), // now, update the mappings with the actual source (0.000), // Optimizing when there are no prerequisite actions (0.000)","void elserCase private ( , , , , , , , ) { }"
+"IntBlock eval ( , ) { } positionCount BytesRefBlock",,"IntBlock eval ( , ) { } positionCount BytesRefBlock "
+void afterTestMethod public (,) (0.000),void afterTestMethod public ( )
+Page getOutput public ( ) { } @ Override if BlockFactory ; DocVector ; return,,Page getOutput public ( ) { } @ Override if BlockFactory ; DocVector ; return 
+addInferenceConfig public ConverseRequest . Builder ( ) { } @ Override request,if (0.000),addInferenceConfig public ConverseRequest . Builder ( ) { } @ Override request if return ;
+void onRemoval public ( ) { },,void onRemoval public ( ) { } 
+"MBeanInfo getMBeanInfo private ( , ) throws InstanceNotFoundException { } MBeanServer mBeanServer ObjectName objectName try",,"MBeanInfo getMBeanInfo private ( , ) throws InstanceNotFoundException { } MBeanServer mBeanServer ObjectName objectName try "
+void indexDocs private ( ) {,} (0.000),void indexDocs private ( ) { }
+void writeTo ( ) throws JSONException { } JSONStringer stringer ; for ( entry,: (0.000),void writeTo ( ) throws JSONException { } JSONStringer stringer ; for ( entry : ) ;
+void infoPrint public static,( (0.000),void infoPrint public static (
+determineSubobjects private ObjectMapper .,,determineSubobjects private ObjectMapper . 
+void onApplicationEvent public ( ) { },@ (0.000),void onApplicationEvent public ( ) { } @
+void write ( ) throws,IOException (0.000),void write ( ) throws IOException
+boolean equals public ( ) { } @ Override,Object (0.005),boolean equals public ( ) { } @ Override Object
+boolean canHighlight public ( ) { } @ Override MappedFieldType fieldType if return false,,boolean canHighlight public ( ) { } @ Override MappedFieldType fieldType if return false 
+"void assertProjectEntity private static ( , , ) { } ProjectGenerationResponse entity String mimeType String",,"void assertProjectEntity private static ( , , ) { } ProjectGenerationResponse entity String mimeType String "
+"void setDefaultIndexTypeFields private static ( , , , ) { // default fields if not present but don't override for artificial docs } SearchExecutionContext",,"void setDefaultIndexTypeFields private static ( , , , ) { // default fields if not present but don't override for artificial docs } SearchExecutionContext "
+parseEvent public static < >,,parseEvent public static < > 
+"void combineRawInput private ( , , ) { } builder String blockVariable String offsetVariable",,"void combineRawInput private ( , , ) { } builder String blockVariable String offsetVariable "
+void logWarnings private ( ) { } RemoteDevToolsProperties ;,if (0.000),void logWarnings private ( ) { } RemoteDevToolsProperties ; if
+"boolean shouldTrackConcreteIndex private static ( , ) {",,"boolean shouldTrackConcreteIndex private static ( , ) { "
+getErrorResponse private Mono ( ) { } <,SecurityResponse (0.000),getErrorResponse private Mono ( ) { } < SecurityResponse
+void writeThrough public (,,void writeThrough public ( 
+resumeFollow public static ResumeFollowAction,,resumeFollow public static ResumeFollowAction 
+boolean addMetricIfFinite private,,boolean addMetricIfFinite private 
+void shutDownGracefully public ( ) { },@ (0.000),void shutDownGracefully public ( ) { } @
+"boolean assertConsistentProjectState private static ( , ) { } GlobalRoutingTable",,"boolean assertConsistentProjectState private static ( , ) { } GlobalRoutingTable "
+Settings restAdminSettings protected ( ) { } @,,Settings restAdminSettings protected ( ) { } @ 
+HostAndPort extractHostAndPort private ( ) { } ConnectionFactory connectionFactory OptionsCapableConnectionFactory ; if ConnectionFactoryOptions ; Object,,HostAndPort extractHostAndPort private ( ) { } ConnectionFactory connectionFactory OptionsCapableConnectionFactory ; if ConnectionFactoryOptions ; Object 
+"Query wildcardQuery public ( , , ,",) (0.000),"Query wildcardQuery public ( , , , )"
+filterDependencies protected final Set,,filterDependencies protected final Set 
+"void writeValuesMultipleBlocks private ( ,",,"void writeValuesMultipleBlocks private ( , "
+createRouterFunction RouterFunction ( ),{ (0.000),createRouterFunction RouterFunction ( ) {
+String getCastEvaluator public static (,,String getCastEvaluator public static ( 
+"SystemIndexMigrationInfo build static ( , , , ) {",,"SystemIndexMigrationInfo build static ( , , , ) { "
+void checkTemplateLocationExists public ( ) { } if ( ),{ (0.000),void checkTemplateLocationExists public ( ) { } if ( ) { }
+getHttpPortInternal private List ( ) { } < String > try,( (0.000),getHttpPortInternal private List ( ) { } < String > try ( ) { }
+"buildCache private static Cache ( ) { } < Object ,",,"buildCache private static Cache ( ) { } < Object , "
+"RestChannelConsumer prepareRequest protected ( , ) throws IOException { } @",Override (0.000),"RestChannelConsumer prepareRequest protected ( , ) throws IOException { } @ Override XContentBuilder builder Params params ;"
+boolean equals public ( ) { } @ Override,Object (0.005),boolean equals public ( ) { } @ Override Object
+"boolean matches ( ,",", (0.000)","boolean matches ( , ,"
+ap private static,,ap private static 
+void testIsEmpty public (,,void testIsEmpty public ( 
+"Nested nested private ( , ) throws IOException",,"Nested nested private ( , ) throws IOException "
+void forEach private ( ) { } action if Consumer (,,void forEach private ( ) { } action if Consumer ( 
+BuildProperties get public static,,BuildProperties get public static 
+"boolean bind private < > ( , , , ) { }","T (0.000), N (0.000), @ (0.000), P (0.000)","boolean bind private < > ( , , , ) { } T ConfigurableTomcatWebServerFactory factory value type consumer ;"
+"void indexRandom public ( , , ) { } boolean forceRefresh String",,"void indexRandom public ( , , ) { } boolean forceRefresh String "
+toXContentChunked public Iterator ( ) { } @ Override < > params var ; if,,toXContentChunked public Iterator ( ) { } @ Override < > params var ; if 
+boolean incrementToken public ( ) throws IOException {,} (0.000),boolean incrementToken public ( ) throws IOException { }
+void onResponse public ( ) { } @ Override,"Void (0.000), Releasable (0.000), response (0.000), persistentTask (0.000), AcknowledgedResponse (0.000)",void onResponse public ( ) { } @ Override Releasable
+String generateSearcherId static,,String generateSearcherId static 
+IndexService getIndexService private ( ) { },,IndexService getIndexService private ( ) { } 
+boolean resolved public ( ) { // resolve the join if // - the children are resolved // - the condition (if present) is resolved to a boolean,,boolean resolved public ( ) { // resolve the join if // - the children are resolved // - the condition (if present) is resolved to a boolean 
+void stop public ( ) throws InterruptedException { },,void stop public ( ) throws InterruptedException { } 
+"Object postProcessAfterInitialization public ( , ) { } @ Override Object bean String beanName if",return (0.000),"Object postProcessAfterInitialization public ( , ) { } @ Override Object bean String beanName if return bean ;"
+void prepareWebApplicationContext protected (,,void prepareWebApplicationContext protected ( 
+parseAllHints private List ( ) throws Exception { } < ConfigurationMetadataHint > JSONObject root,,parseAllHints private List ( ) throws Exception { } < ConfigurationMetadataHint > JSONObject root 
+Query rewrite public ( ) throws IOException { } @ Override,"IndexSearcher (0.000), QueryRewriteContext (0.000), @ (0.000)",Query rewrite public ( ) throws IOException { } @ Override QueryRewriteContext ctx if if return ;
+String toString private static ( ),{ (0.000),String toString private static ( ) {
+"indexRandomNumbers private int ( , , ) throws Exception { } String",,"indexRandomNumbers private int ( , , ) throws Exception { } String "
+void setupTaskMock private ( ) { } ClusterService clusterService ClusterState ;,; (0.000),void setupTaskMock private ( ) { } ClusterService clusterService ClusterState ; ;
+boolean includeBindingErrors private ( ),{ (0.000),boolean includeBindingErrors private ( ) {
+"KnnVectorQueryBuilder toQueryBuilder public ( ) { // We perform validation here instead of the constructor because it makes the errors // much clearer. Otherwise, the error message is deeply nested under parsing exceptions. } if if if return",,"KnnVectorQueryBuilder toQueryBuilder public ( ) { // We perform validation here instead of the constructor because it makes the errors // much clearer. Otherwise, the error message is deeply nested under parsing exceptions. } if if if return "
+"RestChannelConsumer innerPrepareRequest public ( , ) throws IOException {",} (0.000),"RestChannelConsumer innerPrepareRequest public ( , ) throws IOException { }"
+void onApplicationEvent public ( ),{ (0.000),void onApplicationEvent public ( ) {
+"Query randomTermsQuery protected ( ,",,"Query randomTermsQuery protected ( , "
+void writeTo public ( ) throws IOException,{ (0.001),void writeTo public ( ) throws IOException {
+ProjectMetadata buildProjectMetadata private static ( ) {,,ProjectMetadata buildProjectMetadata private static ( ) { 
+AutoFollowPattern readFrom public static ( ) throws,,AutoFollowPattern readFrom public static ( ) throws 
+BuildRequest customizeRunImage private ( ) { } BuildRequest request String,,BuildRequest customizeRunImage private ( ) { } BuildRequest request String 
+w3c private Propagation . Factory,( (0.000),w3c private Propagation . Factory (
+XContentBuilder toXContent public (,", (0.001), ) (0.000)","XContentBuilder toXContent public ( ,"
+void testMergeIncompatibleCapabilitiesOfObjectFields public ( ),,void testMergeIncompatibleCapabilitiesOfObjectFields public ( ) 
+Block evalNullable public ( ) { } @ Override,Block (0.000),Block evalNullable public ( ) { } @ Override Block
+"IndexOutput createOutput public ( , ) throws",,"IndexOutput createOutput public ( , ) throws "
+boolean isUnpackRequired private ( ) { } Artifact artifact,if (0.000),boolean isUnpackRequired private ( ) { } Artifact artifact if
+"void performSync ( , , ) throws",,"void performSync ( , , ) throws "
+Object getAnnotationValue private ( ) { } AnnotationValue annotationValue Object,,Object getAnnotationValue private ( ) { } AnnotationValue annotationValue Object 
+void persist public ( ) { } @ Override E entity Transaction ; try tx,,void persist public ( ) { } @ Override E entity Transaction ; try tx 
+void customizeVendorProperties protected (,) (0.000),void customizeVendorProperties protected ( )
+"void runReadyDeletions private ( , ) { }",,"void runReadyDeletions private ( , ) { } "
+void refreshMetadata synchronized ( ) { },,void refreshMetadata synchronized ( ) { } 
+void reorderXmlConvertersToEnd private ( ) {,} (0.000),void reorderXmlConvertersToEnd private ( ) { }
+"SecurityFilterChain managementSecurityFilterChain ( , ) throws Exception { } @ Bean @ Order Environment",,"SecurityFilterChain managementSecurityFilterChain ( , ) throws Exception { } @ Bean @ Order Environment "
+boolean isNegative private ( ) { } Duration sessionTimeout return ; || sessionTimeout,== (0.000),boolean isNegative private ( ) { } Duration sessionTimeout return ; || sessionTimeout == null sessionTimeout . isNegative ( )
+void assertHasExpectedLayers private ( ) throws IOException { } Buildpack,,void assertHasExpectedLayers private ( ) throws IOException { } Buildpack 
+String removeEmbeddedSlashDotDotSlash private static ( ) { } String path ; while,return (0.000),String removeEmbeddedSlashDotDotSlash private static ( ) { } String path ; while return path ;
+"LongBlock eval public ( , ) { } positionCount valuesBlocks try int","BytesRefBlock (0.000), BooleanBlock (0.000), DoubleBlock (0.000)","LongBlock eval public ( , ) { } positionCount valuesBlocks try int BooleanBlock ( ) { }"
+void testSynthesizeIdMultipleSegments public ( ) throws,,void testSynthesizeIdMultipleSegments public ( ) throws 
+void initHandlerMethods protected ( ) { } @ Override for,( (0.000),void initHandlerMethods protected ( ) { } @ Override for ( ExposableWebEndpoint endpoint : ) if this . endpoints { }
+void testCreateOverLimitStrategy public (,,void testCreateOverLimitStrategy public ( 
+boolean equals public ( ),{ (0.005),boolean equals public ( ) {
+void testHttpHeadersSuccessfulValidation public ( ) throws InterruptedException,,void testHttpHeadersSuccessfulValidation public ( ) throws InterruptedException 
+LeafBucketCollector getLeafCollector private,( (0.000),LeafBucketCollector getLeafCollector private (
+"void handleRequest public ( , , ) { // limit total size to 10MiB",,"void handleRequest public ( , , ) { // limit total size to 10MiB "
+"boolean remainderIsDashes private ( , , ) {",,"boolean remainderIsDashes private ( , , ) { "
+"handle private < > WebEndpointResponse ( , , ) throws SchedulerException {",} (0.000),"handle private < > WebEndpointResponse ( , , ) throws SchedulerException { }"
+"AppliedQueryRules applyRule public ( , ) { } AppliedQueryRules",,"AppliedQueryRules applyRule public ( , ) { } AppliedQueryRules "
+"T bind public < > @ Nullable ( , , , ) { } @","Override (0.000), SuppressWarnings (0.000)","T bind public < > @ Nullable ( , , , ) { } @ SuppressWarnings T index type boolean cacheEntry AsciiBytes nameAlias try ( ) extends FileHeader int Class { }"
+WebServer getWebServer public ( ) { } @,Override (0.000),WebServer getWebServer public ( ) { } @ Override
+void testSeeds public ( ) throws Exception { } ;,,void testSeeds public ( ) throws Exception { } ; 
+"parse public MetadataFieldMapper . Builder ( , ,",,"parse public MetadataFieldMapper . Builder ( , , "
+void addRawBlock private ( ) { } LongBlock block,for (0.000),void addRawBlock private ( ) { } LongBlock block for
+void checkNotScoped protected ( ) { // Scoping isn't allowed when we have only one instance. } if if ( ) {,,void checkNotScoped protected ( ) { // Scoping isn't allowed when we have only one instance. } if if ( ) { 
+maxSimDotProduct public float ( ) { } @ Override query ; ;,; (0.000),maxSimDotProduct public float ( ) { } @ Override query ; ; ;
+get public static List (,,get public static List ( 
+void convertWhenCanConvertDirectlySkipsStringConversion ( ) { } @,ConversionServiceTest (0.000),void convertWhenCanConvertDirectlySkipsStringConversion ( ) { } @ ConversionServiceTest
+"boolean hasChanged public ( , ) { }",,"boolean hasChanged public ( , ) { } "
+TypeResolution resolveType protected ( ) { } @ Override var ; if,if (0.000),TypeResolution resolveType protected ( ) { } @ Override var ; if if return ;
+void setup static ( ) { } Thread thread UncaughtExceptionHandler ; if handler =,( (0.000),void setup static ( ) { } Thread thread UncaughtExceptionHandler ; if handler = ( ) { }
+boolean unpause public ( ) {,,boolean unpause public ( ) { 
+void preInitializeLeakyClasses private ( ) { } try { },catch (0.000),void preInitializeLeakyClasses private ( ) { } try { } catch ( ) return ;
+void convertWhenUsingTypeConverterConversionServiceFromMultipleThreads ( ) { } @ Test,,void convertWhenUsingTypeConverterConversionServiceFromMultipleThreads ( ) { } @ Test 
+void testSyntheticSourceInvalid public final (,,void testSyntheticSourceInvalid public final ( 
+"void visit public ( , , , , ,",,"void visit public ( , , , , , "
+void verifyCloudContainerInstallation private static ( ) { // Cloud uses `wget` to install plugins / bundles.,,void verifyCloudContainerInstallation private static ( ) { // Cloud uses `wget` to install plugins / bundles. 
+Builder attach public ( ) { },,Builder attach public ( ) { } 
+"void process static ( , , , , ) { } @ Evaluator builder",position (0.000),"void process static ( , , , , ) { } @ Evaluator builder position BooleanBlock field1 BooleanBlock field2 ;"
+"boolean indexSettingsMatchRepositoryMetadata private static ( , ) { } IndexMetadata indexMetadata RepositoryMetadata repositoryMetadata if",,"boolean indexSettingsMatchRepositoryMetadata private static ( , ) { } IndexMetadata indexMetadata RepositoryMetadata repositoryMetadata if "
+void testReadRetriesAfterMeaningfulProgress public ( ) throws Exception { } ; ; BlobContainer ;,,void testReadRetriesAfterMeaningfulProgress public ( ) throws Exception { } ; ; BlobContainer ; 
+Warnings warnings private ( ) { } if return warnings,; (0.001),Warnings warnings private ( ) { } if return warnings ;
+void abort ( ) { } Thread ; if shutdownThread = (,) (0.000),void abort ( ) { } Thread ; if shutdownThread = ( ) { }
+void initPrimaries private ( ) { } ; Builder ; for ( ; ) ;,,void initPrimaries private ( ) { } ; Builder ; for ( ; ) ; 
+"ConfigurationMetadata readMetadata private ( , )",,"ConfigurationMetadata readMetadata private ( , ) "
+void writeOptionalEnum public < > ( ) throws,,void writeOptionalEnum public < > ( ) throws 
+void bindTo public ( ) { } @ Override,MeterRegistry (0.000),void bindTo public ( ) { } @ Override MeterRegistry
+execute Tuple ( ) { } <,,execute Tuple ( ) { } < 
+void advanceMaxSeqNoOfUpdatesOrDeletes public ( ) { } @ Override maxSeqNoOfUpdatesOnPrimary if ; long ( ),,void advanceMaxSeqNoOfUpdatesOrDeletes public ( ) { } @ Override maxSeqNoOfUpdatesOnPrimary if ; long ( ) 
+"void translateToChunkedResult private static ( , , ) {",,"void translateToChunkedResult private static ( , , ) { "
+void testProcessClosedIndexState public ( ) { // Index initially exists // Now close it,,void testProcessClosedIndexState public ( ) { // Index initially exists // Now close it 
+buildDigests private static Map,,buildDigests private static Map 
+void indexPoints private ( ) throws IOException { } Request ; Response,,void indexPoints private ( ) throws IOException { } Request ; Response 
+void validateNoReadOnlySuffix public static ( ),,void validateNoReadOnlySuffix public static ( ) 
+boolean isElementDeprecated private ( ) { } Element element return ; ||,hasAnnotation (0.000),"boolean isElementDeprecated private ( ) { } Element element return ; || hasAnnotation hasAnnotation ( element , ) ( element , ) "" java.lang.Deprecated "" this . deprecatedConfigurationPropertyAnnotation"
+"void addRawBlock private ( , ) { } DoubleBlock block BooleanVector",mask (0.000),"void addRawBlock private ( , ) { } DoubleBlock block BooleanVector mask for ( ;"
+MethodSpec realEval private ( ),,MethodSpec realEval private ( ) 
+"void maybeTrack public ( , ) { } @ Override String rawRequest Headers",,"void maybeTrack public ( , ) { } @ Override String rawRequest Headers "
+"JSONObject put public ( , ) throws JSONException { } String name Object value if","if (0.000), return (0.000)","JSONObject put public ( , ) throws JSONException { } String name Object value if if ;"
+"void retryWithoutIncrementingFailureCount private ( , , , ) { // group failures to decide whether to report it below }",,"void retryWithoutIncrementingFailureCount private ( , , , ) { // group failures to decide whether to report it below } "
+ConfigDataEnvironmentContributor getNextToProcess private,( (0.000),ConfigDataEnvironmentContributor getNextToProcess private (
+void completeOrFailIfRequired ( ) { // A task can only be completed or failed once - trying multiple times just causes log spam } Exception error if if else ( ),,void completeOrFailIfRequired ( ) { // A task can only be completed or failed once - trying multiple times just causes log spam } Exception error if if else ( ) 
+void testReadMultiTwoBytesLimit1 public ( ) throws IOException { } Directory,,void testReadMultiTwoBytesLimit1 public ( ) throws IOException { } Directory 
+void getWhenJarIsSigned ( ) throws Exception { } @ Test File ; try file,,void getWhenJarIsSigned ( ) throws Exception { } @ Test File ; try file 
+void main public static ( ),"{ (0.000), throws (0.000)",void main public static ( ) {
+void testRetentionLeaseSyncedOnRemove public ( ) throws Exception { } ;,,void testRetentionLeaseSyncedOnRemove public ( ) throws Exception { } ; 
+"void configureWebAppContext protected final ( , ) { } WebAppContext context ServletContextInitializer ... ; ;",if (0.000),"void configureWebAppContext protected final ( , ) { } WebAppContext context ServletContextInitializer ... ; ; if String ;"
+"void assertSplitMetadata private static ( , ,",,"void assertSplitMetadata private static ( , , "
+objectToDouble public static double ( ) { } Object value ; if else return,,objectToDouble public static double ( ) { } Object value ; if else return 
+OptionalInt getMaskTokenId public (,) (0.000),OptionalInt getMaskTokenId public ( )
+void unregister private ( ) { } ObjectName objectName try { } catch ( ),catch (0.000),void unregister private ( ) { } ObjectName objectName try { } catch ( ) catch ( ) if ;
+TypeSpec factory private ( ) { } ; ; ; if ; ; ; ;,,TypeSpec factory private ( ) { } ; ; ; if ; ; ; ; 
+"void checkSystemIndexAccess private static ( , , , ,",,"void checkSystemIndexAccess private static ( , , , , "
+getDelegates private Collection ( ) { } < TypeExcludeFilter > ; if return,delegates (0.000),getDelegates private Collection ( ) { } < TypeExcludeFilter > ; if return delegates ;
+void testTotalTests public ( ) { } TranslogStats ; ;,,void testTotalTests public ( ) { } TranslogStats ; ; 
+collectByRepo private static Map (,,collectByRepo private static Map ( 
+Attribute toAttribute public ( ) { } @ Override if return lazyAttribute ;,,Attribute toAttribute public ( ) { } @ Override if return lazyAttribute ; 
+void waitForSearchTasksToFinish private ( ) throws Exception,,void waitForSearchTasksToFinish private ( ) throws Exception 
+Warnings warnings private ( ) {,} (0.001),Warnings warnings private ( ) { }
+MemberPath of public static ( ) {,} (0.000),MemberPath of public static ( ) { }
+Warnings warnings private ( ) { } if return warnings ; ( ),{ (0.001),Warnings warnings private ( ) { } if return warnings ; ( ) { }
+boolean isCompositeWithOnlyUserDefinedComposites private ( ),{ (0.000),boolean isCompositeWithOnlyUserDefinedComposites private ( ) {
+"ServerConnector createServerConnector private ( , , ) { } Server server sslContextFactory HttpConfiguration config",if (0.000),"ServerConnector createServerConnector private ( , , ) { } Server server sslContextFactory HttpConfiguration config if ;"
+DatabaseDriver fromJdbcUrl public static ( ) { } String,,DatabaseDriver fromJdbcUrl public static ( ) { } String 
+"renderInternal protected Mono ( , , ) { } @ Override < Void > model",MediaType (0.000),"renderInternal protected Mono ( , , ) { } @ Override < Void > model MediaType contentType ServerWebExchange exchange Resource ;"
+"DoubleBlock eval public ( , ) { } positionCount","DoubleVector (0.000), LongBlock (0.000), IntBlock (0.000), DoubleBlock (0.000), LongVector (0.000)","DoubleBlock eval public ( , ) { } positionCount IntBlock"
+QueryBuilder doIndexMetadataRewrite protected (,) (0.000),QueryBuilder doIndexMetadataRewrite protected ( )
+"boolean hasWebServerNamespace protected final ( , ) { } ApplicationContext",applicationContext (0.000),"boolean hasWebServerNamespace protected final ( , ) { } ApplicationContext applicationContext WebServerNamespace webServerNamespace return ;"
+LocalBaggageFields extractFrom static ( ) { } builder ; for ( BaggagePropagationConfig,config (0.000),LocalBaggageFields extractFrom static ( ) { } builder ; for ( BaggagePropagationConfig config : ) return ;
+void totalOperations public synchronized ( ) { } total ;,,void totalOperations public synchronized ( ) { } total ; 
+Server createJettyServer protected ( ) { } ServletHttpHandlerAdapter servlet ; InetSocketAddress ;,Server (0.000),Server createJettyServer protected ( ) { } ServletHttpHandlerAdapter servlet ; InetSocketAddress ; Server ;
+void start public ( ) { } @ Override,if (0.000),void start public ( ) { } @ Override if
+"void setFile private ( , ) { } URL context String",,"void setFile private ( , ) { } URL context String "
+void setUpSSL protected ( ) { } @ Override if else,,void setUpSSL protected ( ) { } @ Override if else 
+"checkForScaleDown Optional ( , , ) { // We consider a scale down if we are not fully utilizing the tier // Or our largest job could be on a smaller node (meaning the same size tier but smaller nodes are possible). } < MlMemoryAutoscalingCapacity > nodeLoads",,"checkForScaleDown Optional ( , , ) { // We consider a scale down if we are not fully utilizing the tier // Or our largest job could be on a smaller node (meaning the same size tier but smaller nodes are possible). } < MlMemoryAutoscalingCapacity > nodeLoads "
+"getRandomSignificantTerms InternalMappedSignificantTerms ( ) { } < , >",,"getRandomSignificantTerms InternalMappedSignificantTerms ( ) { } < , > "
+void verify public static ( ) throws IOException { } IndexOutput,,void verify public static ( ) throws IOException { } IndexOutput 
+void testIterable public,,void testIterable public 
+"void collect public ( , ) { // Gathering mode } BytesRef value bucket assert ; ;",,"void collect public ( , ) { // Gathering mode } BytesRef value bucket assert ; ; "
+void validate public ( ) { } @,Override (0.000),void validate public ( ) { } @ Override
+void maybeFSyncTranslogs private ( ) { } if ( ) { } == for,,void maybeFSyncTranslogs private ( ) { } if ( ) { } == for 
+"boolean isUsingSources private static ( , ) { } @ Contract attached MutablePropertySources sources return",,"boolean isUsingSources private static ( , ) { } @ Contract attached MutablePropertySources sources return "
+"boolean shouldUseFileResolution private ( , ) { } String location Resource",,"boolean shouldUseFileResolution private ( , ) { } String location Resource "
+"compare public int ( , ) { } @ Override JarEntry o1",JarEntry (0.000),"compare public int ( , ) { } @ Override JarEntry o1 JarEntry o2 Integer ;"
+getDefaultConverters private List ( ) { } < > ; if else ;,return (0.000),getDefaultConverters private List ( ) { } < > ; if else ; return converters ;
+Decision shouldFilter private (,,Decision shouldFilter private ( 
+SortedBinaryDocValues toString private static,,SortedBinaryDocValues toString private static 
+JedisConnectionFactory createJedisConnectionFactory private ( ) { } builderCustomizers JedisClientConfiguration ; return ; ObjectProvider clientConfiguration =,,JedisConnectionFactory createJedisConnectionFactory private ( ) { } builderCustomizers JedisClientConfiguration ; return ; ObjectProvider clientConfiguration = 
+SSLSocketFactory getSmtpSslSocketFactory private ( ) {,,SSLSocketFactory getSmtpSslSocketFactory private ( ) { 
+ConfigurationClassFilter getConfigurationClassFilter private ( ) { } ConfigurationClassFilter ; if return configurationClassFilter ;,configurationClassFilter (0.000),ConfigurationClassFilter getConfigurationClassFilter private ( ) { } ConfigurationClassFilter ; if return configurationClassFilter ; configurationClassFilter = ( ) { }
+"void mockTokenForRefreshToken private ( , , , , ) throws IOException { }","@ (0.000), String (0.000), T (0.000), IndexOutput (0.000), OperationPurpose (0.000)","void mockTokenForRefreshToken private ( , , , , ) throws IOException { } IndexOutput binarizedVectorData IndexOutput binarizedQueryData FloatVectorValues floatVectorValues centroid BinaryQuantizer binaryQuantizer DocsWithFieldSet ;"
+void setCloseDataSourceOnceMigrated public ( ) { } @,Override (0.000),void setCloseDataSourceOnceMigrated public ( ) { } @ Override
+void writeTo public ( ),throws (0.001),void writeTo public ( ) throws
+toXContentChunked public Iterator ( ) { } @ Override < > outerParams ;,,toXContentChunked public Iterator ( ) { } @ Override < > outerParams ; 
+"void addClasspathPermissions static ( ) throws IOException { // add permissions to everything in classpath // really it should be covered by lib/, but there could be e.g. agents or similar configured) } @",,"void addClasspathPermissions static ( ) throws IOException { // add permissions to everything in classpath // really it should be covered by lib/, but there could be e.g. agents or similar configured) } @ "
+String extractBase64EncodedToken private,,String extractBase64EncodedToken private 
+"boolean isMatch private ( , , ) { } MethodMetadata candidate Source",source (0.000),"boolean isMatch private ( , , ) { } MethodMetadata candidate Source source NoSuchBeanDefinitionException cause if String ;"
+HttpServer apply public ( ) { } @ Override HttpServer server if CompressionPredicate,; (0.000),HttpServer apply public ( ) { } @ Override HttpServer server if CompressionPredicate ;
+"SamlRealm create public static ( , , , , ) throws Exception {",} (0.000),"SamlRealm create public static ( , , , , ) throws Exception { }"
+"T create public < > ( , ) { } @ Override T",,"T create public < > ( , ) { } @ Override T "
+"void assertBusy public static ( , , ) throws",,"void assertBusy public static ( , , ) throws "
+"concreteAliases private static String ( , , ) { } [ ] AliasActions action Metadata",,"concreteAliases private static String ( , , ) { } [ ] AliasActions action Metadata "
+"SearchHit readFrom public static ( , ) throws",,"SearchHit readFrom public static ( , ) throws "
+"readListUnsafe private static List ( , ) throws IOException { } < Object > XContentParser",,"readListUnsafe private static List ( , ) throws IOException { } < Object > XContentParser "
+boolean isEscapeChar private static ( ) { } c,,boolean isEscapeChar private static ( ) { } c 
+shardMovements private static int,,shardMovements private static int 
+boolean isAccessible private,( (0.000),boolean isAccessible private (
+void writeFileChunk private (,,void writeFileChunk private ( 
+"PemSslStore load static ( , ) {",} (0.000),"PemSslStore load static ( , ) { }"
+Resource getIndexHtmlResource private ( ) {,} (0.000),Resource getIndexHtmlResource private ( ) { }
+void testErrorMessageForLiteralDateMathOverflow public ( ) throws IOException { } ; for,,void testErrorMessageForLiteralDateMathOverflow public ( ) throws IOException { } ; for 
+boolean isZip private ( ) { } InputStreamSupplier supplier try { } catch (,) (0.000),boolean isZip private ( ) { } InputStreamSupplier supplier try { } catch ( ) try ex { }
+boolean equals public ( ) { } @ Override Object o,"if (0.002), return (0.000)",boolean equals public ( ) { } @ Override Object o if if if if return false ;
+boolean equals public ( ) { } @ Override Object o,"if (0.002), return (0.000)",boolean equals public ( ) { } @ Override Object o if if Request ;
+Double getValue public ( ) { } @ Nullable Type meterType if,if (0.000),Double getValue public ( ) { } @ Nullable Type meterType if if return null ;
+void testNotifyOnShutdown public ( ) throws Exception { } CountDownLatch ; CountDownLatch ; try,,void testNotifyOnShutdown public ( ) throws Exception { } CountDownLatch ; CountDownLatch ; try 
+void onApplicationEvent public ( ) { } @ Override ApplicationEvent event if,"if (0.000), ( (0.000), else (0.000)",void onApplicationEvent public ( ) { } @ Override ApplicationEvent event if if if if ( ) { }
+calculateAllNodeFeatures public static Set ( ),,calculateAllNodeFeatures public static Set ( ) 
+boolean isMappingUpdateAction private static ( ) { } String action,,boolean isMappingUpdateAction private static ( ) { } String action 
+boolean isSecurityAutoConfigured private ( ) { } Node,,boolean isSecurityAutoConfigured private ( ) { } Node 
+"BulkItemResponse itemResponseFromXContent public static ( , ) throws IOException",,"BulkItemResponse itemResponseFromXContent public static ( , ) throws IOException "
+"loadClass public Class ( , ) throws ClassNotFoundException { }",@ (0.000),"loadClass public Class ( , ) throws ClassNotFoundException { } @ Override < > String name boolean resolve if ;"
+void testParseFieldsForAsync public ( ) throws IOException { } String ; boolean ; Locale ;,QueryBuilder (0.000),void testParseFieldsForAsync public ( ) throws IOException { } String ; boolean ; Locale ; QueryBuilder ;
+void close public final ( ) throws IOException { } @ Override if,return (0.000),void close public final ( ) throws IOException { } @ Override if return score ;
+shapeQuery private IntFunction ( ) { // TODO: Support cartesian ShapeQueryable } < Query > if,throw (0.000),shapeQuery private IntFunction ( ) { // TODO: Support cartesian ShapeQueryable } < Query > if throw ;
+FloatVectorValues wrap public static ( ) { } vectors ; return ; int dim,,FloatVectorValues wrap public static ( ) { } vectors ; return ; int dim 
+parseParameters private List ( ) throws XPathExpressionException { } < Parameter,,parseParameters private List ( ) throws XPathExpressionException { } < Parameter 
+randomMapping private Map ( ),,randomMapping private Map ( ) 
+void addClassifiedManagedDependencies private ( ) { } @,,void addClassifiedManagedDependencies private ( ) { } @ 
+String blockNodeWithIndex public,,String blockNodeWithIndex public 
+void servletPropertySourcesAreNotCopiedOverIfNotWebEnvironment ( ) { } @ Test StandardServletEnvironment ;,,void servletPropertySourcesAreNotCopiedOverIfNotWebEnvironment ( ) { } @ Test StandardServletEnvironment ; 
+"ChangedFiles getChangedFiles ( ,",) (0.000),"ChangedFiles getChangedFiles ( , )"
+"void getFromTranslog private ( , , ,",,"void getFromTranslog private ( , , , "
+"compileTemplate public static TemplateScript . Factory ( , ,",,"compileTemplate public static TemplateScript . Factory ( , , "
+void assertILMPolicyExists private (,,void assertILMPolicyExists private ( 
+void awaitQueue public (,) (0.000),void awaitQueue public ( )
+BytesReference bytes static ( ) { } XContentBuilder xContentBuilder ; OutputStream ; if else,xContentBuilder (0.000),BytesReference bytes static ( ) { } XContentBuilder xContentBuilder ; OutputStream ; if else xContentBuilder . close stream = ( ) { }
+void testSerializeInDifferentContext public ( ),,void testSerializeInDifferentContext public ( ) 
+boolean equals public ( ) { } @,Override (0.005),boolean equals public ( ) { } @ Override
+void run public ( ) { },"@ (0.000), assert (0.000), try (0.000), var (0.000)",void run public ( ) { } assert
+void mapping private ( ) throws IOException {,} (0.000),void mapping private ( ) throws IOException { }
+boolean equals public ( ) { } @ Override Object,"obj (0.002), o (0.002), other (0.000), object (0.000)",boolean equals public ( ) { } @ Override Object o if if Status ;
+Expression partiallyFold public ( ) { } ; boolean ; for ( Condition condition :,,Expression partiallyFold public ( ) { } ; boolean ; for ( Condition condition : 
+"HttpHandler httpHandler ( , ) {",} (0.000),"HttpHandler httpHandler ( , ) { }"
+"void forEncode private ( , , , ) throws IOException {",,"void forEncode private ( , , , ) throws IOException { "
+void testRespectsAssignmentOfUnknownPrimaries public ( ) { } var ; var,,void testRespectsAssignmentOfUnknownPrimaries public ( ) { } var ; var 
+"readMapEntries private static Map ( , , ,",,"readMapEntries private static Map ( , , , "
+"ConditionOutcome getMatchOutcome public ( , ) { } @ Override",ConditionContext (0.001),"ConditionOutcome getMatchOutcome public ( , ) { } @ Override ConditionContext context AnnotatedTypeMetadata metadata AnnotationAttributes ;"
+ActionRequestValidationException validateGeneratedSnapshotName public static,,ActionRequestValidationException validateGeneratedSnapshotName public static 
+"void writeTestFile private static ( , ) { } Path",,"void writeTestFile private static ( , ) { } Path "
+void validate ( ) { // Ensure we don't have nodes with duplicate names // Ensure we do not configure older version nodes with the integTest distribution } ; ; ; if if List,,void validate ( ) { // Ensure we don't have nodes with duplicate names // Ensure we do not configure older version nodes with the integTest distribution } ; ; ; if if List 
+void awaitQueue public ( ) throws InterruptedException { } while ( ) { },. (0.000),void awaitQueue public ( ) throws InterruptedException { } while ( ) { } . isEmpty ;
+"void ensureFlattenable private ( , ) { } MapperBuilderContext context",,"void ensureFlattenable private ( , ) { } MapperBuilderContext context "
+"String format static ( , ) { }",String (0.000),"String format static ( , ) { } String"
+RankShardResult buildRankFeatureShardResult public (,,RankShardResult buildRankFeatureShardResult public ( 
+void validateDetectorsAreUnique public ( ) { },,void validateDetectorsAreUnique public ( ) { } 
+Query termQuery public,( (0.000),Query termQuery public (
+void assertNoFailures public static ( ) { } BaseBroadcastResponse response if ( ) { },,void assertNoFailures public static ( ) { } BaseBroadcastResponse response if ( ) { } 
+"Object postProcessAfterInitialization public ( , ) { } @ Override Object bean String beanName",if (0.000),"Object postProcessAfterInitialization public ( , ) { } @ Override Object bean String beanName if return bean ;"
+map public List (,) (0.000),map public List ( )
+void testByteArrayBulkGet public,,void testByteArrayBulkGet public 
+String toString public ( ) { } @,Override (0.001),String toString public ( ) { } @ Override
+SQLDialect determineSqlDialect public ( ) { } DataSource dataSource if return ; (,) (0.000),SQLDialect determineSqlDialect public ( ) { } DataSource dataSource if return ; ( ) { }
+ProjectLookup getProjectLookup public (,,ProjectLookup getProjectLookup public ( 
+void trySendRequests private ( ) { } assert ; ; synchronized if Thread,,void trySendRequests private ( ) { } assert ; ; synchronized if Thread 
+"void assertAccessLevelLombokProperties private ( , , , ) { } ConfigurationMetadata metadata source String prefix",,"void assertAccessLevelLombokProperties private ( , , , ) { } ConfigurationMetadata metadata source String prefix "
+BeanCreationException createFailure private ( ),{ (0.000),BeanCreationException createFailure private ( ) {
+"void openFullConnection private ( , ) { } listener DiscoveryNode remoteNode if if ;",,"void openFullConnection private ( , ) { } listener DiscoveryNode remoteNode if if ; "
+"void stop public ( , )",{ (0.000),"void stop public ( , ) {"
+determinePort private int ( ) { } Environment environment ; String,; (0.000),determinePort private int ( ) { } Environment environment ; String ;
+boolean isAssertThat private ( ),,boolean isAssertThat private ( ) 
+"void configure private ( , ) { } MergedContextConfiguration mergedConfig SpringApplication",,"void configure private ( , ) { } MergedContextConfiguration mergedConfig SpringApplication "
+docVersion long ( ) throws,,docVersion long ( ) throws 
+"DataSource determineDataSource private static ( , , )",,"DataSource determineDataSource private static ( , , ) "
+IndexMetadata getIndexSafe public ( ) { } Index index IndexMetadata ;,if (0.000),IndexMetadata getIndexSafe public ( ) { } Index index IndexMetadata ; if throw ;
+"Zip64Locator find private static ( , ) throws IOException",,"Zip64Locator find private static ( , ) throws IOException "
+T accept public < > ( ) { } @,,T accept public < > ( ) { } @ 
+void testMachineLearningCloseJobActionNotRestricted public ( ) throws,,void testMachineLearningCloseJobActionNotRestricted public ( ) throws 
+void failIfCorrupted private static ( ) throws IOException { } Directory directory ; ; for,,void failIfCorrupted private static ( ) throws IOException { } Directory directory ; ; for 
+parse public static List ( ) throws IOException {,,parse public static List ( ) throws IOException { 
+"determineImports private Set ( , ) { // The source itself is the import } @ Nullable < Object",,"determineImports private Set ( , ) { // The source itself is the import } @ Nullable < Object "
+EqlSearchResponse qualifyHits private static (,,EqlSearchResponse qualifyHits private static ( 
+void loadData private static (,,void loadData private static ( 
+"String expandPlaceholders private ( , ) throws IOException { } String content properties",,"String expandPlaceholders private ( , ) throws IOException { } String content properties "
+"void check private ( , , ) { } ArtifactVersion currentVersion VersionRange versionRange",,"void check private ( , , ) { } ArtifactVersion currentVersion VersionRange versionRange "
+"flatMapResponse private Mono ( , , ) { }",< (0.000),"flatMapResponse private Mono ( , , ) { } <"
+void destroy public ( ) throws Exception { },@ (0.000),void destroy public ( ) throws Exception { } @
+void postIndexAsyncActions private,,void postIndexAsyncActions private 
+"deserialize protected Map ( ) { } < String , Object > String json",,"deserialize protected Map ( ) { } < String , Object > String json "
+"void onStartup public ( , ) throws ServletException { } @ Override",classes (0.000),"void onStartup public ( , ) throws ServletException { } @ Override classes ServletContext servletContext for ( ServletContextInitializer initializer : ) Set this . initializers { }"
+"void validateAlias static ( , )",,"void validateAlias static ( , ) "
+void executePhase private ( ) { } SearchPhase phase try,,void executePhase private ( ) { } SearchPhase phase try 
+void setScorer public ( ) throws IOException { } @ Override Scorable,scorer (0.000),void setScorer public ( ) throws IOException { } @ Override Scorable scorer @ Override doc ;
+"void checkExpected private static ( , , , ,",,"void checkExpected private static ( , , , , "
+void testDispatchFailsWithPlainText public ( ) { } String ;,,void testDispatchFailsWithPlainText public ( ) { } String ; 
+OnDiskStateMetadata loadOnDiskStateMetadataFromUserData public,,OnDiskStateMetadata loadOnDiskStateMetadataFromUserData public 
+void addToMappings public ( ) throws IOException { } XContentBuilder mappingsBuilder ; ; String,,void addToMappings public ( ) throws IOException { } XContentBuilder mappingsBuilder ; ; String 
+interceptHandler public < > TransportRequestHandler (,", (0.000)","interceptHandler public < > TransportRequestHandler ( ,"
+"LatLng hex2dToGeo static ( , ,",,"LatLng hex2dToGeo static ( , , "
+Block eval public ( ) { },@ (0.001),Block eval public ( ) { } @
+boolean equals public ( ) { } @ Override Object o if if ElasticsearchCluster ;,,boolean equals public ( ) { } @ Override Object o if if ElasticsearchCluster ; 
+"boolean areCompatible public static ( , ) { } DataType left DataType right if","if (0.000), else (0.000)","boolean areCompatible public static ( , ) { } DataType left DataType right if if return ;"
+"void addAsRegistrationBean private < , > ( , , , ) { } T B",,"void addAsRegistrationBean private < , > ( , , , ) { } T B "
+observeDouble Collection ( ) { } < DoubleWithAttributes > getValue ; for ( AdaptiveAllocationsScaler scaler,,observeDouble Collection ( ) { } < DoubleWithAttributes > getValue ; for ( AdaptiveAllocationsScaler scaler 
+dehexchar public static int,,dehexchar public static int 
+ObjectMapper findParentMapper ( ) { } String leafFieldPath var ; ; ObjectMapper,,ObjectMapper findParentMapper ( ) { } String leafFieldPath var ; ; ObjectMapper 
+void testResizeChangeIndexMode public (,,void testResizeChangeIndexMode public ( 
+"readDirectlyIfAlreadyClosed private int ( , , ) throws IOException { } position ByteBuffer b Exception",,"readDirectlyIfAlreadyClosed private int ( , , ) throws IOException { } position ByteBuffer b Exception "
+"void addCustomTopicMapping private ( , ) { } DefaultTopicResolver topicResolver TypeMapping",typeMapping (0.000),"void addCustomTopicMapping private ( , ) { } DefaultTopicResolver topicResolver TypeMapping typeMapping String ;"
+void testEvalWhere public ( ),,void testEvalWhere public ( ) 
+void setupSuiteScopeCluster public ( ) throws Exception {,"} (0.000), // dummy docs (0.000), // random cities with no location (0.000), // TODO: would be nice to have more random data here (0.000), // creating an index to test the empty buckets functionality. The way it (0.000)",void setupSuiteScopeCluster public ( ) throws Exception { }
+boolean isReadyForSecurityMigration public ( ) { } securityMigration,,boolean isReadyForSecurityMigration public ( ) { } securityMigration 
+"LettuceConnectionFactory createConnectionFactory private ( , ,",) (0.000),"LettuceConnectionFactory createConnectionFactory private ( , , )"
+BytesRef serializeDigest static ( ) { } TDigestState digest ByteArrayOutputStream,,BytesRef serializeDigest static ( ) { } TDigestState digest ByteArrayOutputStream 
+void setURI public (,,void setURI public ( 
+void configureUtf8Encoding private ( ) { },,void configureUtf8Encoding private ( ) { } 
+void testSingleCountWithStatsFilter public ( ) { // an optimizer that filters out the ExtractAggregateCommonFilter rule } @ SuppressWarnings var ; var,,void testSingleCountWithStatsFilter public ( ) { // an optimizer that filters out the ExtractAggregateCommonFilter rule } @ SuppressWarnings var ; var 
+"SearchSourceBuilder buildExpandSearchSourceBuilder private static ( , ) { } InnerHitBuilder",,"SearchSourceBuilder buildExpandSearchSourceBuilder private static ( , ) { } InnerHitBuilder "
+void executeRegisteredJobs private ( ) throws JobExecutionException { } JobParameters jobParameters,,void executeRegisteredJobs private ( ) throws JobExecutionException { } JobParameters jobParameters 
+DocWriteResponse readResponse private static ( ) throws IOException { } StreamInput in ;,"return (0.000), var (0.000), ; (0.000), WildcardOptions (0.000), if (0.000)",DocWriteResponse readResponse private static ( ) throws IOException { } StreamInput in ; var ;
+sessionsForUsername public Mono ( ) { } @,ReadOperation (0.000),sessionsForUsername public Mono ( ) { } @ ReadOperation
+getCorrectiveTerms public ( ) { } @ Override float [ ] ord,if (0.000),getCorrectiveTerms public ( ) { } @ Override float [ ] ord if return corrections ;
+Block eval public ( ) { } @ Override,Page (0.001),Block eval public ( ) { } @ Override Page
+"void addRawInput public ( , ) { // Some positions masked away, others kept } @ Override Page",page (0.000),"void addRawInput public ( , ) { // Some positions masked away, others kept } @ Override Page page BooleanVector mask if if IntBlock ;"
+"sum private double ( , , , ) {",,"sum private double ( , , , ) { "
+"Exception useOrSuppressIfDifferent static ( , ) { } Exception first Exception second",,"Exception useOrSuppressIfDifferent static ( , ) { } Exception first Exception second "
+void doDataSourceHealthCheck private (,) (0.000),void doDataSourceHealthCheck private ( )
+EsRelation readFrom private static ( ) throws IOException,,EsRelation readFrom private static ( ) throws IOException 
+void cleanUp ( ) { } @ AfterEach,"if (0.000), ; (0.000)",void cleanUp ( ) { } @ AfterEach if
+"String getShrinkIndexName private static ( , ) throws InterruptedException ,",,"String getShrinkIndexName private static ( , ) throws InterruptedException , "
+"XContentBuilder toXContent public ( , ) throws IOException { } @ Override","XContentBuilder (0.001), doc (0.000), RestRequest (0.000), LeafReaderContext (0.000), VectorSimilarityFunction (0.000)","XContentBuilder toXContent public ( , ) throws IOException { } @ Override XContentBuilder builder Params params ;"
+FieldSortBuilder mutate protected ( ),,FieldSortBuilder mutate protected ( ) 
+"getCentroid static ( , ) { } float [ ] KnnVectorsReader vectorsReader String",fieldName (0.000),"getCentroid static ( , ) { } float [ ] KnnVectorsReader vectorsReader String fieldName if if return null ;"
+"void indexDocs public static ( , , , , , ) { } Client",client (0.000),"void indexDocs public static ( , , , , , ) { } Client client String modelId boolean isWaitForCompletion isBeingDownloadedListener Runnable createModelAction TimeValue timeout ;"
+"GoogleAiStudioModel parsePersistedConfigWithSecrets public ( , , , ) { } @ Override String inferenceEntityId TaskType",taskType (0.000),"GoogleAiStudioModel parsePersistedConfigWithSecrets public ( , , , ) { } @ Override String inferenceEntityId TaskType taskType config parsedModelListener try Map ActionListener { }"
+void runQuery private ( ) throws Exception,{ (0.000),void runQuery private ( ) throws Exception {
+"BytesRefBlock eval public ( , , , ) { } positionCount BytesRefBlock","strBlock (0.000), unitBlock (0.000)","BytesRefBlock eval public ( , , , ) { } positionCount BytesRefBlock unitBlock LongBlock startTimestampBlock LongBlock endTimestampBlock try int ( ) { }"
+void execute ( ) { } @ TaskAction ; ; ; ;,,void execute ( ) { } @ TaskAction ; ; ; ; 
+void build public (,) (0.000),void build public ( )
+"QueryBuilder buildJobWildcardQuery public static ( , ) { } tokens boolean excludeDeleting QueryBuilder",,"QueryBuilder buildJobWildcardQuery public static ( , ) { } tokens boolean excludeDeleting QueryBuilder "
+User stripRoles static ( ),,User stripRoles static ( ) 
+void start ( ) { } Series series,if (0.000),void start ( ) { } Series series if
+JvmStats jvmStats public static,,JvmStats jvmStats public static 
+void forceImmutableCollectionsSeed private static ( ),,void forceImmutableCollectionsSeed private static ( ) 
+"void failIfOverShardCountLimit private static ( , )",,"void failIfOverShardCountLimit private static ( , ) "
+getInitialUrls public URL (,) (0.000),getInitialUrls public URL ( )
+"void doAddSortedField private ( ,",", (0.000)","void doAddSortedField private ( , ,"
+void testAutoFollowPatterns public ( ) throws Exception {,,void testAutoFollowPatterns public ( ) throws Exception { 
+void testSetMinCompetitiveScoreIsEnabledTopDocsOnly public ( ) throws IOException { // without aggs no need to disable set min competitive score } Weight ; ; Float,,void testSetMinCompetitiveScoreIsEnabledTopDocsOnly public ( ) throws IOException { // without aggs no need to disable set min competitive score } Weight ; ; Float 
+void testMultiValuedField public ( ),,void testMultiValuedField public ( ) 
+getUpgradedNodeIds private List ( ) throws IOException { } < String,> (0.000),getUpgradedNodeIds private List ( ) throws IOException { } < String > File ;
+URL getResource public ( ) { } @ Override,String (0.000),URL getResource public ( ) { } @ Override String
+"Trigger createPeriodicTrigger private ( , , ) { }",Duration (0.000),"Trigger createPeriodicTrigger private ( , , ) { } Duration"
+boolean doEquals protected ( ) { } @ Override FuzzyQueryBuilder other return,,boolean doEquals protected ( ) { } @ Override FuzzyQueryBuilder other return 
+void printBoostAndQueryName protected final (,,void printBoostAndQueryName protected final ( 
+void writeTo public ( ) throws IOException { } @ Override StreamOutput,out (0.001),void writeTo public ( ) throws IOException { } @ Override StreamOutput out ;
+"booleanArrayOf public static boolean ( , ) { }",,"booleanArrayOf public static boolean ( , ) { } "
+void repackagedJarContainsTheLayersIndexByDefault ( ) { } @ TestTemplate MavenBuild,,void repackagedJarContainsTheLayersIndexByDefault ( ) { } @ TestTemplate MavenBuild 
+"void hash static ( ,",,"void hash static ( , "
+void testAbort public ( ) throws IOException { } var,; (0.000),void testAbort public ( ) throws IOException { } var ;
+void testRespectsAssignmentByGatewayAllocators public ( ) { } var ; var ; var ;,"var (0.000), for (0.000), while (0.000), ; (0.000)",void testRespectsAssignmentByGatewayAllocators public ( ) { } var ; var ; var ; for ( ;
+"void onMissingJoin protected ( ) { // The remote node did not include a join vote in its publish response. We do not persist joins, so it could be that the remote // node voted for us and then rebooted, or it could be that it voted for a different node in this term. If we don't have a copy // of a join from this node then we assume the latter and bump our term to obtain a vote from this node. } @",,"void onMissingJoin protected ( ) { // The remote node did not include a join vote in its publish response. We do not persist joins, so it could be that the remote // node voted for us and then rebooted, or it could be that it voted for a different node in this term. If we don't have a copy // of a join from this node then we assume the latter and bump our term to obtain a vote from this node. } @ "
+"void execute public ( , , ) { } @ Override TestRequest request TestTask",task (0.000),"void execute public ( , , ) { } @ Override TestRequest request TestTask task listener ;"
+"mergeAndRecalculateCentroids static int ( , , ) throws IOException { } MergeState mergeState",FieldInfo (0.000),"mergeAndRecalculateCentroids static int ( , , ) throws IOException { } MergeState mergeState FieldInfo fieldInfo mergedCentroid boolean ;"
+void invariant public ( ),,void invariant public ( ) 
+boolean isFinished public ( ) { } @ Override return ;,"finished (0.000), && (0.000)",boolean isFinished public ( ) { } @ Override return ; finished && ( ) || next == null == false next . hasNext ( )
+boolean equals public ( ),{ (0.005),boolean equals public ( ) {
+void getWhenNoSignatureFileReturnsNone ( ) throws Exception { } @ Test,,void getWhenNoSignatureFileReturnsNone ( ) throws Exception { } @ Test 
+void testFilterByFrequency public ( ) throws Exception,,void testFilterByFrequency public ( ) throws Exception 
+TemporalAmount parseTemporalAmount public static (,", (0.000)","TemporalAmount parseTemporalAmount public static ( ,"
+"RestChannelConsumer innerPrepareRequest protected ( ,",) (0.000),"RestChannelConsumer innerPrepareRequest protected ( , )"
+ResolvedIndices resolvePITIndices ( ) { } SearchRequest request,,ResolvedIndices resolvePITIndices ( ) { } SearchRequest request 
+"void addRawInput public ( , ) { // Some positions masked away, others kept } @",Override (0.000),"void addRawInput public ( , ) { // Some positions masked away, others kept } @ Override Page page BooleanVector mask if if BytesRefBlock ;"
+"boolean process static ( , , ) { } @ Evaluator BytesRef",str (0.000),"boolean process static ( , , ) { } @ Evaluator BytesRef str BytesRef regex BytesRef newStr if if return ;"
+void callClusterStateListener private,,void callClusterStateListener private 
+boolean includeBindingErrors private ( ) { } ServletWebRequest,request (0.000),boolean includeBindingErrors private ( ) { } ServletWebRequest request
+parseApplicationPrivileges public static,,parseApplicationPrivileges public static 
+void testFollowTsdbIndex public ( ) throws Exception { } ;,,void testFollowTsdbIndex public ( ) throws Exception { } ; 
+"void writeBlob ( , ,",,"void writeBlob ( , , "
+"void ccsClusterInfoUpdate private static ( ,",,"void ccsClusterInfoUpdate private static ( , "
+boolean isFatalEnabled public ( ) { } @ Override,synchronized (0.000),boolean isFatalEnabled public ( ) { } @ Override synchronized
+boolean nonEmpty private static ( ) { } grantedFields return ;,,boolean nonEmpty private static ( ) { } grantedFields return ; 
+void testRemoteClusterOnlyCCSSuccessfulResult public ( ) throws Exception { } ; String,,void testRemoteClusterOnlyCCSSuccessfulResult public ( ) throws Exception { } ; String 
+"void bucketToXContent private ( , , ) throws IOException { } XContentBuilder builder","Params (0.000), params (0.000)","void bucketToXContent private ( , , ) throws IOException { } XContentBuilder builder Params params ToXContent custom ;"
+"void safeAwait public static ( , ) { } CountDownLatch",,"void safeAwait public static ( , ) { } CountDownLatch "
+resolveType protected Expression . TypeResolution ( ) { },,resolveType protected Expression . TypeResolution ( ) { } 
+"void assertMetadataEquals private static ( , ) { } ClusterState state1 ClusterState state2",,"void assertMetadataEquals private static ( , ) { } ClusterState state1 ClusterState state2 "
+void stop public ( ) { } @ Override if,( (0.000),void stop public ( ) { } @ Override if ( ) { }
+"Version bestEffortExtractNodeVersionFromMappings private static ( , ) { }",,"Version bestEffortExtractNodeVersionFromMappings private static ( , ) { } "
+InternalAggregation get public ( ) { } @ Override ; if try final boolean,,InternalAggregation get public ( ) { } @ Override ; if try final boolean 
+"bulkIndex private static int ( , , , ) {",,"bulkIndex private static int ( , , , ) { "
+"filter static Map ( , , ) { } @",,"filter static Map ( , , ) { } @ "
+"boolean returnSuccessWithEmptyResult static ( ,",,"boolean returnSuccessWithEmptyResult static ( , "
+void setBootstrapMasterNodeIndex public (,,void setBootstrapMasterNodeIndex public ( 
+void generateProject protected ( ) throws IOException { } @ Override OptionSet,,void generateProject protected ( ) throws IOException { } @ Override OptionSet 
+void load public,,void load public 
+"ShardAllocationDecision decideShardAllocation public ( , ) { } @ Override ShardRouting shard RoutingAllocation allocation WeightFunction",,"ShardAllocationDecision decideShardAllocation public ( , ) { } @ Override ShardRouting shard RoutingAllocation allocation WeightFunction "
+"Literal of public static ( , ) { } Source source Object value if return",,"Literal of public static ( , ) { } Source source Object value if return "
+"void masterOperation protected ( , ,",", (0.000)","void masterOperation protected ( , , ,"
+void testRegisterAsReplacedHandler public ( ) { },,void testRegisterAsReplacedHandler public ( ) { } 
+void load private,"( (0.000), static (0.000)",void load private (
+boolean doEquals protected ( ) { },@ (0.000),boolean doEquals protected ( ) { } @
+"void testRecovery_ClosedStateTransition ( ) { // Calling delayed service, which will be unhealthy till 4 seconds",,"void testRecovery_ClosedStateTransition ( ) { // Calling delayed service, which will be unhealthy till 4 seconds "
+void tearDown ( ) { } @ AfterEach if ; (,) (0.000),void tearDown ( ) { } @ AfterEach if ; ( ) { }
+boolean existsOrFallbackExists public ( ) { },,boolean existsOrFallbackExists public ( ) { } 
+void process default ( ),,void process default ( ) 
+"void testSimplePointInPolygon public ( ) throws IOException , ParseException { // data that intersects and is within the polygon // data that intersects but is not within the polygon // data that does not intersect } ;",,"void testSimplePointInPolygon public ( ) throws IOException , ParseException { // data that intersects and is within the polygon // data that intersects but is not within the polygon // data that does not intersect } ; "
+"buildChildInnerHits private static Map ( , ) throws IOException {",,"buildChildInnerHits private static Map ( , ) throws IOException { "
+"jvmOptionExpansions private Map ( ) { } < String , String >","; (0.000), try (0.000), response (0.000), attributes (0.000), input (0.000)","jvmOptionExpansions private Map ( ) { } < String , String > ;"
+void cleanLuceneIndex public static ( ) throws IOException { } Directory directory try try,,void cleanLuceneIndex public static ( ) throws IOException { } Directory directory try try 
+void assertStoredBinaryFields ( ) throws Exception { } count var ; ; ; ; ;,,void assertStoredBinaryFields ( ) throws Exception { } count var ; ; ; ; ; 
+getPackagesToScan private Set ( ) { } < String > AnnotationMetadata metadata AnnotationAttributes ; ;,; (0.000),getPackagesToScan private Set ( ) { } < String > AnnotationMetadata metadata AnnotationAttributes ; ; ;
+"collectTerms private Collection ( , ) throws IOException { }",,"collectTerms private Collection ( , ) throws IOException { } "
+"dataNodes private List ( , ) throws IOException { } <",,"dataNodes private List ( , ) throws IOException { } < "
+"IntVector eval public ( , ) { } positionCount BytesRefVector vVector",,"IntVector eval public ( , ) { } positionCount BytesRefVector vVector "
+DirectoryReader getDirectoryReader public (,,DirectoryReader getDirectoryReader public ( 
+getAvgShardSizeInBytes private long ( ) throws IOException { } ; ; for,,getAvgShardSizeInBytes private long ( ) throws IOException { } ; ; for 
+boolean equals public (,) (0.005),boolean equals public ( )
+getContext protected Supplier ( ) { },,getContext protected Supplier ( ) { } 
+IndexMode readIndexMode public static ( ) throws IOException { } StreamInput in if else (,) (0.000),IndexMode readIndexMode public static ( ) throws IOException { } StreamInput in if else ( ) { }
+"void verifySession protected ( , , ) throws SSLException { }",@ (0.000),"void verifySession protected ( , , ) throws SSLException { } @ Override HttpHost host IOSession iosession SSLSession session if ( ) { }"
+DataStream removeBackingIndex public ( ) { } Index,,DataStream removeBackingIndex public ( ) { } Index 
+void testVariousPartitionSizes public ( ) throws Exception { } for (,,void testVariousPartitionSizes public ( ) throws Exception { } for ( 
+"boolean addDocumentToRedirectRequests private ( , , ) { // Convert the document into a failure document // Store for second phase } BulkItemRequest request Exception cause",,"boolean addDocumentToRedirectRequests private ( , , ) { // Convert the document into a failure document // Store for second phase } BulkItemRequest request Exception cause "
+boolean anyExists private,,boolean anyExists private 
+BytesReference getSourceRef public ( ) { } assert ; if try hasReferences ( ) {,,BytesReference getSourceRef public ( ) { } assert ; if try hasReferences ( ) { 
+StatisticsHandler findStatisticsHandler private ( ) { } Handler handler if if return null ;,( (0.000),StatisticsHandler findStatisticsHandler private ( ) { } Handler handler if if return null ; ( ) { }
+void testDisableFastVectorHighlighter public ( ) throws Exception { } ;,,void testDisableFastVectorHighlighter public ( ) throws Exception { } ; 
+mapEndpoints private < > Map ( ) { } E <,,mapEndpoints private < > Map ( ) { } E < 
+void testFunctionResolving public ( ) {,,void testFunctionResolving public ( ) { 
+void delete private ( ) { } try {,} (0.000),void delete private ( ) { } try { }
+String tmpDir protected final,,String tmpDir protected final 
+void testRelocateWhileWaitingForRefresh public ( ) { } ; String ; ; ; ; for,( (0.000),void testRelocateWhileWaitingForRefresh public ( ) { } ; String ; ; ; ; for ( ;
+"T getProperty private < > @ Nullable ( , , ) { }","@ (0.000), T (0.000)","T getProperty private < > @ Nullable ( , , ) { } T ConfigurationPropertyName name target Context context if for ( ConfigurationPropertySource source : ) return null ;"
+"Result isConditionMet public ( , ) { // check if the (potentially) derived index exists } @ Override Index index ClusterState clusterState",,"Result isConditionMet public ( , ) { // check if the (potentially) derived index exists } @ Override Index index ClusterState clusterState "
+"fields private static List ( ,",,"fields private static List ( , "
+RetentionLeases getRetentionLeases public ( ) { },,RetentionLeases getRetentionLeases public ( ) { } 
+boolean isFinished public,"( (0.000), final (0.000)",boolean isFinished public (
+void maxConcurrentShardRequests public ( ) { } maxConcurrentShardRequests if ;,,void maxConcurrentShardRequests public ( ) { } maxConcurrentShardRequests if ; 
+slope private double ( ) { },,slope private double ( ) { } 
+boolean isAlreadyPackaged protected final ( ) { },,boolean isAlreadyPackaged protected final ( ) { } 
+void testHandleDocumentFailure public (,,void testHandleDocumentFailure public ( 
+"PKCS8EncodedKeySpec createKeySpecForPkcs8 private static ( , ) { } bytes",String (0.000),"PKCS8EncodedKeySpec createKeySpecForPkcs8 private static ( , ) { } bytes String password DerElement ;"
+build public List (,) (0.000),build public List ( )
+boolean isPassedToParent private ( ) { } Throwable ex return ; || isLogConfigurationMessage ! (,ex (0.000),boolean isPassedToParent private ( ) { } Throwable ex return ; || isLogConfigurationMessage ! ( ex ) isRegistered ( ex )
+"void doDelete public ( , ) { } @ Override HttpServletRequest req HttpServletResponse resp ;","try (0.000), ; (0.000)","void doDelete public ( , ) { } @ Override HttpServletRequest req HttpServletResponse resp ; ;"
+"void doChunkedInfer protected ( , ,",", (0.000)","void doChunkedInfer protected ( , , ,"
+FunctionDefinition def // These are ambiguous if you aren't using ctor references but we always do protected static <,> (0.000),FunctionDefinition def // These are ambiguous if you aren't using ctor references but we always do protected static < >
+AccessLogValve findAccessLogValve private ( ) { } TomcatReactiveWebServerFactory factory for ( Valve engineValve : ),,AccessLogValve findAccessLogValve private ( ) { } TomcatReactiveWebServerFactory factory for ( Valve engineValve : ) 
+"Settings mergePluginSettings static ( , ) { } pluginMap Settings originalSettings ; ; for",,"Settings mergePluginSettings static ( , ) { } pluginMap Settings originalSettings ; ; for "
+boolean equals public ( ) { } @ Override Object object if,if (0.000),boolean equals public ( ) { } @ Override Object object if if GoogleAiStudioEmbeddingsServiceSettings ;
+"snapshotShards private Map ( , , , ) throws IOException { } < ShardId",,"snapshotShards private Map ( , , , ) throws IOException { } < ShardId "
+boolean present static ( ) { } ClassLoader,classLoader (0.000),boolean present static ( ) { } ClassLoader classLoader
+boolean equals public ( ) { } @ Override Object obj return ; &&,"( (0.000), @ (0.000), && (0.000), super (0.000), sameClassAs (0.000)",boolean equals public ( ) { } @ Override Object obj return ; && @ Nullable && . equals ( ) ( ) this . filters ( ) obj != null == . filters getClass obj . getClass ( ) ( ) ( ) ( StackId ) obj
+"void collectAliasDuplicates private static ( , , , ) { } indicesMap",DataStreamMetadata (0.000),"void collectAliasDuplicates private static ( , , , ) { } indicesMap DataStreamMetadata dataStreamMetadata aliasDuplicatesWithDataStreams duplicates for ( String alias : aliasDuplicatesWithDataStreams ) ImmutableOpenMap Set ArrayList { // reported var avoids adding a message twice if an index alias has the same name as a data stream. // This is for adding an error message for when a data stream alias has the same name as a data stream. }"
+"void addRawInput private ( , , ) { } positionOffset IntBlock groups DoubleBlock",values (0.000),"void addRawInput private ( , , ) { } positionOffset IntBlock groups DoubleBlock values for ( ;"
+"binarySearch private static int ( , , , ,",,"binarySearch private static int ( , , , , "
+boolean isUsingTestServiceConnection private ( ),{ (0.000),boolean isUsingTestServiceConnection private ( ) {
+File getSignedJarFile private ( ) { } ; for ( String entry,,File getSignedJarFile private ( ) { } ; for ( String entry 
+void testNodeHealthStatusCounts public ( ),,void testNodeHealthStatusCounts public ( ) 
+T getValue private ( ) { } @ Nullable try { } catch ( ),"return (0.000), if (0.000)",T getValue private ( ) { } @ Nullable try { } catch ( ) return ;
+ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ),,ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ) 
+String generateId protected ( ) {,,String generateId protected ( ) { 
+ClusterRerouteRequest randomRequest private ( ) { } ClusterRerouteRequest ; ; for ( ; ) ;,,ClusterRerouteRequest randomRequest private ( ) { } ClusterRerouteRequest ; ; for ( ; ) ; 
+State of static,,State of static 
+"boolean parseBoolean static ( , , ) { } String b String",,"boolean parseBoolean static ( , , ) { } String b String "
+"concreteDataStreamAliases private static String ( , , )",,"concreteDataStreamAliases private static String ( , , ) "
+"void doWriteChunkedResponse private ( , , ) { } ChannelHandlerContext ctx",,"void doWriteChunkedResponse private ( , , ) { } ChannelHandlerContext ctx "
+Block evalBlock public ( ) { },@ (0.000),Block evalBlock public ( ) { } @
+AmazonS3Reference client public ( ) { } RepositoryMetadata repositoryMetadata S3ClientSettings ; {,,AmazonS3Reference client public ( ) { } RepositoryMetadata repositoryMetadata S3ClientSettings ; { 
+"XContentBuilder directFieldAsBase64 public ( , ) throws IOException { } String",,"XContentBuilder directFieldAsBase64 public ( , ) throws IOException { } String "
+getTypeExcludeFilterConstructor private Constructor ( ),throws (0.000),getTypeExcludeFilterConstructor private Constructor ( ) throws
+boolean assertDefaultThreadContext public static ( ) { },,boolean assertDefaultThreadContext public static ( ) { } 
+"void handleException public ( ) { // if we got disconnected from the node, or the node / shard is not in the right state (being closed) } @ Override TransportException exp Throwable ;",,"void handleException public ( ) { // if we got disconnected from the node, or the node / shard is not in the right state (being closed) } @ Override TransportException exp Throwable ; "
+ReindexDataStreamStatus mutateInstance protected ( ) throws IOException,,ReindexDataStreamStatus mutateInstance protected ( ) throws IOException 
+boolean isImperative private ( ) { },ContextHandler (0.000),boolean isImperative private ( ) { } ContextHandler
+"void killCreature ( , ) { } Creature source Creature target while",,"void killCreature ( , ) { } Creature source Creature target while "
+"void beginPollingRemoteMasterStabilityDiagnostic ( , ) { }",,"void beginPollingRemoteMasterStabilityDiagnostic ( , ) { } "
+"void tarEntries private ( , ) throws IOException { } File",,"void tarEntries private ( , ) throws IOException { } File "
+collectComments private List ( ) throws IOException { } < String > JarFile,,collectComments private List ( ) throws IOException { } < String > JarFile 
+parameters public static Iterable,( (0.000),parameters public static Iterable (
+"Model updateModelWithEmbeddingDetails public ( ,",) (0.000),"Model updateModelWithEmbeddingDetails public ( , )"
+"TokenFilterFactory chainFilters private static ( , ) { } String name filters return ; List",,"TokenFilterFactory chainFilters private static ( , ) { } String name filters return ; List "
+void onCompletion private ( ) { } ; if else currentlyExecutingBatch = null ( ),,void onCompletion private ( ) { } ; if else currentlyExecutingBatch = null ( ) 
+void rebucket private ( ) { } ; LongKeyedBucketOrds,,void rebucket private ( ) { } ; LongKeyedBucketOrds 
+JarEntryCertification getCertification private,,JarEntryCertification getCertification private 
+void destroy public ( ) throws Exception,{ (0.000),void destroy public ( ) throws Exception {
+boolean doEquals protected ( ) { } @ Override TermsQueryBuilder other return ;,,boolean doEquals protected ( ) { } @ Override TermsQueryBuilder other return ; 
+"getWatcherThreadPoolSize static int ( ,",,"getWatcherThreadPoolSize static int ( , "
+boolean decRef public ( ) { } @ Override return ; && refCounted !=,,boolean decRef public ( ) { } @ Override return ; && refCounted != 
+void main public static (,) (0.000),void main public static ( )
+void resetTelemetry private static ( ),,void resetTelemetry private static ( ) 
+size public int ( ),,size public int ( ) 
+boolean advanceExact public ( ) throws IOException { } @ Override parentDoc assert :,,boolean advanceExact public ( ) throws IOException { } @ Override parentDoc assert : 
+"similarity static int ( , ) { }",,"similarity static int ( , ) { } "
+"ClusterState stateWithAssignedPrimariesAndOneReplica public static ( ,",,"ClusterState stateWithAssignedPrimariesAndOneReplica public static ( , "
+"getTotalTimeInNanos private static long ( ) { // Here we calculate the timing in Nanoseconds for the sum of the individual subMeasurements with the goal of deriving the TTFB // (time to first byte). We use high precision time here to tell from the case when request time metric is missing (0). // The time is converted to milliseconds for later use with an APM style counter (exposed as a long), rather than using the // default double exposed by getTimeTakenMillisIfKnown(). // We don't need sub-millisecond precision. So no need perform the data type castings. } requestTimesIncludingRetries ;",,"getTotalTimeInNanos private static long ( ) { // Here we calculate the timing in Nanoseconds for the sum of the individual subMeasurements with the goal of deriving the TTFB // (time to first byte). We use high precision time here to tell from the case when request time metric is missing (0). // The time is converted to milliseconds for later use with an APM style counter (exposed as a long), rather than using the // default double exposed by getTimeTakenMillisIfKnown(). // We don't need sub-millisecond precision. So no need perform the data type castings. } requestTimesIncludingRetries ; "
+"BytesRefBlock eval public ( , , ) { } positionCount BytesRefBlock strBlock BytesRefBlock","substrBlock (0.000), suffixBlock (0.000)","BytesRefBlock eval public ( , , ) { } positionCount BytesRefBlock strBlock BytesRefBlock substrBlock try int ( ) { }"
+"boolean acceptsProfiles private ( , ) { } ModelInterpretationContext",ic (0.000),"boolean acceptsProfiles private ( , ) { } ModelInterpretationContext ic"
+boolean equals public ( ) { } @ Override Object,"obj (0.002), o (0.002), other (0.000), object (0.000)",boolean equals public ( ) { } @ Override Object obj if return false ;
+void testAddBlocksWhileExistingBlocks public ( ),,void testAddBlocksWhileExistingBlocks public ( ) 
+"void cleanupUnlinkedRootAndIndicesBlobs private ( , ) { // If we did the cleanup of stale indices purely using a throttled executor then there would be no backpressure to prevent us // from falling arbitrarily far behind. But nor do we want to dedicate all the SNAPSHOT threads to stale index cleanups because // that would slow down other snapshot operations in situations that do not need backpressure. // // The solution is to dedicate one SNAPSHOT thread to doing the cleanups eagerly, alongside the throttled executor which spreads",,"void cleanupUnlinkedRootAndIndicesBlobs private ( , ) { // If we did the cleanup of stale indices purely using a throttled executor then there would be no backpressure to prevent us // from falling arbitrarily far behind. But nor do we want to dedicate all the SNAPSHOT threads to stale index cleanups because // that would slow down other snapshot operations in situations that do not need backpressure. // // The solution is to dedicate one SNAPSHOT thread to doing the cleanups eagerly, alongside the throttled executor which spreads "
+SpringBootTestAnnotation get static ( ) { } MergedContextConfiguration mergedConfig for ( ContextCustomizer customizer,,SpringBootTestAnnotation get static ( ) { } MergedContextConfiguration mergedConfig for ( ContextCustomizer customizer 
+void doValidate public ( ) { },@ (0.000),void doValidate public ( ) { } @
+"void testQueries public ( ) throws Exception { // pos -> terms -> docs // ----------------------------- // 0 -> [b2] -> [1, 4] // 1 -> [c1, a2] -> [1, 0, 2] // 2 -> [z2] -> []",,"void testQueries public ( ) throws Exception { // pos -> terms -> docs // ----------------------------- // 0 -> [b2] -> [1, 4] // 1 -> [c1, a2] -> [1, 0, 2] // 2 -> [z2] -> [] "
+"getProduces private Collection ( , ) { } <",,"getProduces private Collection ( , ) { } < "
+void writeTo public ( ) throws IOException { },"@ (0.001), OutputStream (0.000), StreamOutput (0.000)",void writeTo public ( ) throws IOException { } @
+String toString public ( ) { } @ Override String,"; (0.000), field (0.000), otherField (0.000)",String toString public ( ) { } @ Override String field StringBuilder ;
+String resolvePlaceholders public static,( (0.000),String resolvePlaceholders public static (
+"void testGetStepMultithreaded public ( ) throws Exception { // test a variety of getStep calls with random actions and steps // now, in another thread, update the registry repeatedly as fast as possible. // updating the registry has the side effect of clearing the cache. } Client",,"void testGetStepMultithreaded public ( ) throws Exception { // test a variety of getStep calls with random actions and steps // now, in another thread, update the registry repeatedly as fast as possible. // updating the registry has the side effect of clearing the cache. } Client "
+extractDispatcherTypes private EnumSet ( ) { } < DispatcherType > attributes ; if if return,,extractDispatcherTypes private EnumSet ( ) { } < DispatcherType > attributes ; if if return 
+"loadClass protected Class ( , ) throws ClassNotFoundException { } @ Override < > String",name (0.000),"loadClass protected Class ( , ) throws ClassNotFoundException { } @ Override < > String name boolean resolve if return ;"
+void termsAggregatorWithNestedMaxAgg private <,,void termsAggregatorWithNestedMaxAgg private < 
+void doWriteTo protected ( ) throws IOException { },@ (0.000),void doWriteTo protected ( ) throws IOException { } @
+"PushGateway initializePushGateway private ( , , ) { } PrometheusRegistry registry",properties (0.000),"PushGateway initializePushGateway private ( , , ) { } PrometheusRegistry registry properties Environment environment Builder ;"
+StandardEnvironment createPerformanceTestEnvironment private ( ) { } boolean immutable StandardEnvironment ; MutablePropertySources ; for,,StandardEnvironment createPerformanceTestEnvironment private ( ) { } boolean immutable StandardEnvironment ; MutablePropertySources ; for 
+ZonedDateTime getBuildDate public ( ) { },ZonedDateTime (0.000),ZonedDateTime getBuildDate public ( ) { } ZonedDateTime
+"parseDependencies private Map ( ) throws JSONException { } < String , Dependency >",JSONObject (0.000),"parseDependencies private Map ( ) throws JSONException { } < String , Dependency > JSONObject root ;"
+"XContentBuilder toXContent public ( , ) throws IOException",{ (0.001),"XContentBuilder toXContent public ( , ) throws IOException {"
+void testSearchShardsThreadContextHeader public ( ) { } ; try List,,void testSearchShardsThreadContextHeader public ( ) { } ; try List 
+DerivativePipelineAggregationBuilder unit public ( ) { } String units if,,DerivativePipelineAggregationBuilder unit public ( ) { } String units if 
+AuthenticationTestBuilder transportVersion public ( ) { } TransportVersion,,AuthenticationTestBuilder transportVersion public ( ) { } TransportVersion 
+"BytesReference getRandomizedBytesReference private ( ) throws IOException { // we know bytes stream output always creates a paged bytes reference, we use it to create randomized content } length ReleasableBytesStreamOutput",,"BytesReference getRandomizedBytesReference private ( ) throws IOException { // we know bytes stream output always creates a paged bytes reference, we use it to create randomized content } length ReleasableBytesStreamOutput "
+indexDocs private int,( (0.000),indexDocs private int (
+"InferenceServiceConfiguration fromXContentBytes public static ( , ) { } BytesReference source XContentType xContentType try (",) (0.000),"InferenceServiceConfiguration fromXContentBytes public static ( , ) { } BytesReference source XContentType xContentType try ( ) { }"
+"LongBlock eval public ( , , ) { } positionCount LongBlock lhsBlock LongBlock rhsBlock",try (0.000),"LongBlock eval public ( , , ) { } positionCount LongBlock lhsBlock LongBlock rhsBlock try int ( ) { }"
+void assertCurrentVersionMatchesParsed private (,,void assertCurrentVersionMatchesParsed private ( 
+"QueryFactors quantizeForQuery public ( , , ) { // FIXME: make a copy of vector so we don't overwrite it here? // ... (could subtractInPlace but the passed vector is modified) <<--- // FIXME: should other similarity functions behave like MIP on query like COSINE // Δ := (𝑣𝑟 − 𝑣𝑙)/(2𝐵𝑞 − 1) // q¯ = Δ · q¯𝑢 + 𝑣𝑙 · 1𝐷 // q¯ is an approximation of q′ (scalar quantized approximation)",,"QueryFactors quantizeForQuery public ( , , ) { // FIXME: make a copy of vector so we don't overwrite it here? // ... (could subtractInPlace but the passed vector is modified) <<--- // FIXME: should other similarity functions behave like MIP on query like COSINE // Δ := (𝑣𝑟 − 𝑣𝑙)/(2𝐵𝑞 − 1) // q¯ = Δ · q¯𝑢 + 𝑣𝑙 · 1𝐷 // q¯ is an approximation of q′ (scalar quantized approximation) "
+boolean hasReferences public ( ) { } @ Override return,,boolean hasReferences public ( ) { } @ Override return 
+"void add public ( , ) { } groupId Geometry geo ; ;",,"void add public ( , ) { } groupId Geometry geo ; ; "
+"void configureClient private ( , ) { } HttpServiceGroup group builder ; ;",PropertyMapper (0.000),"void configureClient private ( , ) { } HttpServiceGroup group builder ; ; PropertyMapper ;"
+"LogicalPlan resolveDrop private ( , ) { } Drop drop childOutput ; for (",,"LogicalPlan resolveDrop private ( , ) { } Drop drop childOutput ; for ( "
+void testDeleteSnapshottingDataStream public ( ) { // Ensure the other projects did not get affected. },,void testDeleteSnapshottingDataStream public ( ) { // Ensure the other projects did not get affected. } 
+void accept public (,") (0.000), , (0.000)",void accept public ( )
+Instant parseCreatedDate private ( ) { } String createdDate if try ( ) { },{ (0.000),Instant parseCreatedDate private ( ) { } String createdDate if try ( ) { } { }
+"void doChunkedInfer protected ( , , , , , , )",{ (0.000),"void doChunkedInfer protected ( , , , , , , ) { }"
+void threeLayerStringTestCase private ( ) throws IOException { },,void threeLayerStringTestCase private ( ) throws IOException { } 
+void writeOptional public < > (,,void writeOptional public < > ( 
+void awaitSearchTasksComplete private ( ) { } TimeValue asyncSearchTimeout,,void awaitSearchTasksComplete private ( ) { } TimeValue asyncSearchTimeout 
+SortedSetDocValues getOrdinalsValues public ( ) {,} (0.000),SortedSetDocValues getOrdinalsValues public ( ) { }
+"void doAssertLuceneQuery protected ( , , ) { // if the weight is 1.0f a BoostQuery is returned }",@ (0.000),"void doAssertLuceneQuery protected ( , , ) { // if the weight is 1.0f a BoostQuery is returned } @ Override TextExpansionQueryBuilder queryBuilder Query query SearchExecutionContext context ;"
+String getRelativePath default ( ) { },String (0.000),String getRelativePath default ( ) { } String
+void testSetQueryLevels public ( ) { } IndexMetadata,,void testSetQueryLevels public ( ) { } IndexMetadata 
+"MockTransportService buildService private ( , , ,",,"MockTransportService buildService private ( , , , "
+getAuthCacheRemovalListener private RemovalListener ( ) { } <,,getAuthCacheRemovalListener private RemovalListener ( ) { } < 
+"void mergeIndexResponses private static ( , , , , ) {",,"void mergeIndexResponses private static ( , , , , ) { "
+JoinConfig joinConfig public ( ) { } ; ; ; for (,"; (0.000), String (0.000)",JoinConfig joinConfig public ( ) { } ; ; ; for ( ;
+void shouldSkipTest protected ( ),throws (0.000),void shouldSkipTest protected ( ) throws
+XContentBuilder keyToXContent protected ( ) throws IOException { } @ Override XContentBuilder,b (0.000),XContentBuilder keyToXContent protected ( ) throws IOException { } @ Override XContentBuilder b if ;
+void setupHostsEnrich public ( ) { // the hosts policy are identical on every node } @ Before,; (0.000),void setupHostsEnrich public ( ) { // the hosts policy are identical on every node } @ Before ;
+Object maybeConvertToBytesRef static ( ) { } Object obj if else return obj ; (,) (0.000),Object maybeConvertToBytesRef static ( ) { } Object obj if else return obj ; ( ) { }
+getMagnitude public float ( ) { } @,Override (0.000),getMagnitude public float ( ) { } @ Override
+InferenceServiceResults accept public ( ) { } @ Override AmazonBedrockRequest request if throw,,InferenceServiceResults accept public ( ) { } @ Override AmazonBedrockRequest request if throw 
+boolean equals public ( ) { } @ Override Object obj if if return ;,( (0.000),boolean equals public ( ) { } @ Override Object obj if if return ; ( ) { }
+void testPeriodAndDurationInRowAssignment public,,void testPeriodAndDurationInRowAssignment public 
+calculateMinShouldMatch public static,,calculateMinShouldMatch public static 
+boolean equals public (,) (0.005),boolean equals public ( )
+"overSize public static long ( , , ) { } minTargetSize pageSize bytesPerElement",,"overSize public static long ( , , ) { } minTargetSize pageSize bytesPerElement "
+void assertContainsAlias default ( ) { } KeyStore keyStore String ; if alias = (,) (0.000),void assertContainsAlias default ( ) { } KeyStore keyStore String ; if alias = ( ) { }
+void testClusterStats public ( ) throws IOException { } ;,,void testClusterStats public ( ) throws IOException { } ; 
+IndexVersion oldestIndexVersionAllProjects public,,IndexVersion oldestIndexVersionAllProjects public 
+void testRoleTemplatesMetadataForJWT public (,,void testRoleTemplatesMetadataForJWT public ( 
+boolean criticalTemplatesInstalled public static (,,boolean criticalTemplatesInstalled public static ( 
+void ensureTaskCompletion protected ( ) throws Exception { } String,,void ensureTaskCompletion protected ( ) throws Exception { } String 
+"void postProcessEnvironment public ( , ) { } @ Override",ConfigurableEnvironment (0.000),"void postProcessEnvironment public ( , ) { } @ Override ConfigurableEnvironment environment SpringApplication application MapPropertySource ;"
+DiscoveryNode newNode private,,DiscoveryNode newNode private 
+boolean isPattern ( ) { } String location return,,boolean isPattern ( ) { } String location return 
+"Netty4HttpServerTransport getHttpServerTransportWithHeadersValidator public static ( ,",,"Netty4HttpServerTransport getHttpServerTransportWithHeadersValidator public static ( , "
+"boolean hasSearchableSnapshotWith private static ( , , ) { } ClusterState state String snapshotId",,"boolean hasSearchableSnapshotWith private static ( , , ) { } ClusterState state String snapshotId "
+void doRun protected ( ),"{ (0.000), throws (0.000)",void doRun protected ( ) throws
+"getElserModelVerificationActionListener private ActionListener ( , , , ) { } < Model >",,"getElserModelVerificationActionListener private ActionListener ( , , , ) { } < Model > "
+convertToIdIndexed public static Map ( ) {,,convertToIdIndexed public static Map ( ) { 
+void testSingleValuedFieldOrderedByTieBreaker public ( ),throws (0.000),void testSingleValuedFieldOrderedByTieBreaker public ( ) throws
+"void validate public ( , , )",{ (0.000),"void validate public ( , , ) {"
+boolean equals public (,) (0.005),boolean equals public ( )
+"void loadConfiguration protected ( , , ) { } @ Override LoggingInitializationContext initializationContext",String (0.000),"void loadConfiguration protected ( , , ) { } @ Override LoggingInitializationContext initializationContext String configLocation LogFile logFile LoggerContext ;"
+DataSourcePoolMetadataProvider hikariPoolDataSourceMetadataProvider ( ) { } @ Bean,return (0.000),DataSourcePoolMetadataProvider hikariPoolDataSourceMetadataProvider ( ) { } @ Bean return
+"Decision allowAllocation private ( , ) {",} (0.000),"Decision allowAllocation private ( , ) { }"
+void addRawInput private (,", (0.000), ) (0.000)","void addRawInput private ( ,"
+"void doMasterOperation protected ( , , , ,",) (0.000),"void doMasterOperation protected ( , , , , )"
+"getGroupsInternal private Map ( , ) throws SettingsException { } < String ,",,"getGroupsInternal private Map ( , ) throws SettingsException { } < String , "
+"void addClassIfExists private static ( , ) { } list String className try",List (0.000),"void addClassIfExists private static ( , ) { } list String className try List { }"
+"find private long ( ,",,"find private long ( , "
+TypeResolution resolveType protected,"( (0.000), final (0.000)",TypeResolution resolveType protected (
+"void seekExact public ( , ) throws IOException {",,"void seekExact public ( , ) throws IOException { "
+"ActionRequestValidationException checkIllegalPackagedModelSetting private static ( , , ) { } Object value String",setting (0.000),"ActionRequestValidationException checkIllegalPackagedModelSetting private static ( , , ) { } Object value String setting ActionRequestValidationException validationException if return validationException ;"
+void incRef public final ( ) {,,void incRef public final ( ) { 
+"PipelineConfiguration maybeUpgradeProcessors ( , ) { // This should be a List of Maps, where the keys are processor types and the values are config maps. // But we'll skip upgrading rather than fail if not. } String type upgrader ; boolean",,"PipelineConfiguration maybeUpgradeProcessors ( , ) { // This should be a List of Maps, where the keys are processor types and the values are config maps. // But we'll skip upgrading rather than fail if not. } String type upgrader ; boolean "
+Block buildWithSelected private ( ) { } IntBlock selected try ( ) { },builder (0.000),Block buildWithSelected private ( ) { } IntBlock selected try ( ) { } builder = for ( ;
+ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ) { } @ Nullable ConnectionFactory connectionFactory try return null,,ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ) { } @ Nullable ConnectionFactory connectionFactory try return null 
+String supportedTypesNames private static ( ),,String supportedTypesNames private static ( ) 
+String getPortsDescription private ( ) { } StringBuilder ;,; (0.000),String getPortsDescription private ( ) { } StringBuilder ; ;
+"BinaryDocValuesField histogramFieldDocValues public static ( , ) throws IOException { // default } String",,"BinaryDocValuesField histogramFieldDocValues public static ( , ) throws IOException { // default } String "
+void excludeMBeanIfNecessary private (,,void excludeMBeanIfNecessary private ( 
+ConfigurationMetadata readMetadata private ( ) { } InputStream in try ( ) { },,ConfigurationMetadata readMetadata private ( ) { } InputStream in try ( ) { } 
+XContentBuilder toXContent public (,", (0.001), ) (0.000)","XContentBuilder toXContent public ( ,"
+ClusterState applyCreateIndexRequestForSystemDataStream private,,ClusterState applyCreateIndexRequestForSystemDataStream private 
+Converter conversionToShort private static ( ),,Converter conversionToShort private static ( ) 
+void testUpdateApiIsBlocked public ( ) throws Exception { // With document level security enabled the update is not allowed: // With no document level security enabled the update is allowed:,,void testUpdateApiIsBlocked public ( ) throws Exception { // With document level security enabled the update is not allowed: // With no document level security enabled the update is allowed: 
+void testFailureStats public (,,void testFailureStats public ( 
+"TDigestState getExistingOrNewHistogram private ( ,",) (0.000),"TDigestState getExistingOrNewHistogram private ( , )"
+nextOrd public long ( ) throws IOException { } @ Override if,"else (0.000), return (0.000)",nextOrd public long ( ) throws IOException { } @ Override if else ( ) { }
+CommonOAuth2Provider getCommonProvider private static ( ),{ (0.000),CommonOAuth2Provider getCommonProvider private static ( ) {
+"readFileContents public static ( , , ) throws SettingsException { }",,"readFileContents public static ( , , ) throws SettingsException { } "
+Failure validateBinaryComparison public static ( ) { } BinaryComparison bc if ; ;,,Failure validateBinaryComparison public static ( ) { } BinaryComparison bc if ; ; 
+"void doChunkedInfer protected ( , , , , , )",{ (0.000),"void doChunkedInfer protected ( , , , , , ) { }"
+String maybeOverrideDockerCgroup private,,String maybeOverrideDockerCgroup private 
+BytesRef pick protected,,BytesRef pick protected 
+void documentConstrainedVersions public ( ) throws IOException { } @ TaskAction File ; ;,,void documentConstrainedVersions public ( ) throws IOException { } @ TaskAction File ; ; 
+boolean isTransformable private ( ) { } JarArchiveEntry,entry (0.000),boolean isTransformable private ( ) { } JarArchiveEntry entry
