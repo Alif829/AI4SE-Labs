@@ -1,0 +1,1001 @@
+input_context,next_5_tokens (probability),sampled_completion
+void throwFileNotFound private (,,void throwFileNotFound private ( 
+void testBiggest public ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",void testBiggest public ( ) throws IOException { } @ Override < E > return ;
+void testAllIsNotAllowedInShardLevelRequests public ( ),,void testAllIsNotAllowedInShardLevelRequests public ( ) 
+toEvaluator public . Factory ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",toEvaluator public . Factory ( ) { } @ Override Object bean String beanName if return bean ;
+ConditionOutcome getMatchOutcome public (,", (0.001)","ConditionOutcome getMatchOutcome public ( , ) { }"
+handleHits private static < > List,( (0.000),"handleHits private static < > List ( , ) throws IOException { }"
+"docFreq public long ( , ) throws IOException {","} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)","docFreq public long ( , ) throws IOException { }"
+void update public (,) (0.000),void update public ( ) { }
+BytesReference buildTsidHash public (,,BytesReference buildTsidHash public ( 
+void decrementRecoveredOperations public synchronized,,void decrementRecoveredOperations public synchronized 
+"void refreshCachedPhases static ( , , , ,",", (0.020), ) (0.012), null (0.001), false (0.000), } (0.000)","void refreshCachedPhases static ( , , , , ) ( , , ) { }"
+"void assertEqualsMaps private static < , > (",") (0.001), , (0.001), cacheNames (0.000), registry (0.000), 2 (0.000)","void assertEqualsMaps private static < , > ( ) String ;"
+"void initializeServlet private ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","void initializeServlet private ( , ) { }"
+"void updateTransportVersions private ( ,",,"void updateTransportVersions private ( , "
+void testReplicaOperationWithConcurrentPrimaryPromotion public ( ) throws Exception { },"@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)",void testReplicaOperationWithConcurrentPrimaryPromotion public ( ) throws Exception { } ;
+"limitBody private static ( ,",") (0.004), , (0.004)","limitBody private static ( , ) { }"
+Unit fromChronoUnit private static (,) (0.000),Unit fromChronoUnit private static ( ) { }
+Configuration createAotProcessingClasspath private (,,Configuration createAotProcessingClasspath private ( 
+void resolveFieldValuesFor private,,void resolveFieldValuesFor private 
+"LeafBucketCollector getLeafCollector protected ( ,",) (0.000),"LeafBucketCollector getLeafCollector protected ( , ) { }"
+void deleteFile private ( ) { } try { },"catch (0.002), finally (0.000), void (0.000)",void deleteFile private ( ) { } try { } catch ( ) ;
+"XContentBuilder toXContent public ( , ) throws IOException","{ (0.012), , (0.000)","XContentBuilder toXContent public ( , ) throws IOException { }"
+"ScriptEngine getScriptEngine public ( , )","{ (0.009), throws (0.004)","ScriptEngine getScriptEngine public ( , ) throws Exception { }"
+"boolean isExtensionExposed private ( ,",) (0.000),"boolean isExtensionExposed private ( , ) { }"
+"boolean isClassPathResourceByPath private ( , ) { } String","name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)","boolean isClassPathResourceByPath private ( , ) { } String value return ;"
+boolean isNullOrDatePeriod public static ( ) { } DataType t,return (0.000),boolean isNullOrDatePeriod public static ( ) { } DataType t return ;
+TypeResolution resolveType protected ( ) {,"} (0.005), // Use bean names so that we don't consider the hierarchy (0.000), // ref releases all happen-before here so no need to be synchronized (0.000), // Windows limits the maximum command length, so we use an argfile (0.000), // TODO move this to xpack core and use inference APIs (0.000)",TypeResolution resolveType protected ( ) { // Use bean names so that we don't consider the hierarchy }
+SearchRequestBuilder buildSearchRequest private (,,SearchRequestBuilder buildSearchRequest private ( 
+void testSearchSort public (,,void testSearchSort public ( 
+"XContentBuilder toXContent public ( ,",") (0.001), , (0.000)","XContentBuilder toXContent public ( , ) { }"
+void verifyCompatibility public static,,void verifyCompatibility public static 
+void testRandomDoubles public ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",void testRandomDoubles public ( ) throws IOException { } @ Nullable String key String ;
+extractTokenKeys private Map ( ) { } <,"String (0.007), > (0.005), T (0.001), , (0.000), Void (0.000)",extractTokenKeys private Map ( ) { } < > . value Calendar . RESULTS_FIELD ( ) createParser results . add IOException throw ;
+"boolean sourceAccepts protected ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean sourceAccepts protected ( , , ) { } @ Bean @ ConditionalOnMissingBean RedisSessionProperties redisSessionProperties return ;"
+"XContentBuilder toXContent public ( , ) throws IOException","{ (0.012), , (0.000)","XContentBuilder toXContent public ( , ) throws IOException { }"
+boolean equals public ( ),{ (0.005),boolean equals public ( ) { }
+SslBundle getSslBundle protected ( ) {,"} (0.005), // Use bean names so that we don't consider the hierarchy (0.000), // ref releases all happen-before here so no need to be synchronized (0.000), // Windows limits the maximum command length, so we use an argfile (0.000), // TODO move this to xpack core and use inference APIs (0.000)",SslBundle getSslBundle protected ( ) { }
+boolean isWindows private static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",boolean isWindows private static ( ) { }
+void testSequenceNumberAdvancesToMaxSeqOnEngineOpenOnPrimary public (,,void testSequenceNumberAdvancesToMaxSeqOnEngineOpenOnPrimary public ( 
+getFetchSubPhases public List ( ) {,"} (0.004), // This index name is used when validating component and index templates, we should skip this check in that case. (0.000), // The root component extension must be last (0.000), // note: this loop is unrolled rather than streaming-style because it's hot enough to show up in a flamegraph (0.000), //先从缓存中获取数据 (0.000)",getFetchSubPhases public List ( ) { }
+"void doubles protected static ( , ,",", (0.004), ) (0.004)","void doubles protected static ( , , ) { }"
+void testSyntheticSourceMany public,,void testSyntheticSourceMany public 
+"void encodeFiveSixOrSevenBytesPerValue private ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void encodeFiveSixOrSevenBytesPerValue private ( , , ) { }"
+"CurrentTraceContext braveCurrentTraceContext ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","CurrentTraceContext braveCurrentTraceContext ( , ) { }"
+"boolean assertShardStateConsistent private static ( ,",") (0.004), , (0.004)","boolean assertShardStateConsistent private static ( , ) { }"
+void getMappings private ( ) { } listener if,"else (0.000), ; (0.000), if (0.000), SecurityIndexManager (0.000)",void getMappings private ( ) { } listener if else ActionListener ( ) { }
+"void addIntermediateInput public ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void addIntermediateInput public ( , , ) { }"
+String determineDdlAuto private,( (0.000),String determineDdlAuto private (
+"void writeBlob ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void writeBlob ( , , ) ( , ) ( ) "" foo "" ( , pool , queue , , threadContext , ) r = executor . execute threadPool . generic ( threadDumper ) scheduleNext "" the following threads are active but did not make progress in the preceding [{}]: {} "" ( ) ( ) ( 1 , 5 ) . anyMatch . anyMatch hasCheckedSuperclass == false ("
+void testDateMath public ( ) throws Exception { } ;,"; (0.001), for (0.000), assertNoFailuresAndResponse (0.000), String (0.000), try (0.000)","void testDateMath public ( ) throws Exception { } ; try . lock { // ensure all the clients are closed before we clear // clear previously cached clients, they will be build lazily }"
+"concreteIndices public Index ( , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","concreteIndices public Index ( , ) { } @ Override Object o if if Status ;"
+boolean process static (,", (0.000), ) (0.000)","boolean process static ( , , , ) driverContext . warningsMode . getLineNumber . getColumnNumber source . text ( ) source . source ( ) source . knnSearch ( ) knnSearch . stream ( ) Collectors . toMap OperationMode . RUNNING < > ( ) ;"
+"boolean enqueueWrite private ( , ,",") (0.005), , (0.004)","boolean enqueueWrite private ( , , ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( 1 ) ( ) ( ) "" / "" ( ) "" test "" . startObject ( , ) "" store "" new RecoveryState recoverFromStore fail IndexShardRecoveryException ;"
+void assertReturnModelIsModifiable private ( ) { } @ SuppressWarnings UnparsedModel,,void assertReturnModelIsModifiable private ( ) { } @ SuppressWarnings UnparsedModel 
+boolean match public (,", (0.000), ) (0.000)","boolean match public ( , , ) ( , ) ( , , TOLERANCE ) ( , , ) . get ( ) ( ) ( ) { }"
+nestedParsedDocFactory public static,,nestedParsedDocFactory public static 
+void testRunnerWithEmptySegmentsResponse public ( ) throws Exception {,"} (0.011), // index simple data (0.000), // ------------------------------------------------------------------------ (0.000), // rolling over the data stream so we can apply the searchable snapshot policy to a backing index that's not the write index (0.000), // should not have executed ingest locally (0.000)",void testRunnerWithEmptySegmentsResponse public ( ) throws Exception { }
+void stopThreadPool public ( ) throws Exception {,"} (0.011), // index simple data (0.000), // ------------------------------------------------------------------------ (0.000), // rolling over the data stream so we can apply the searchable snapshot policy to a backing index that's not the write index (0.000), // should not have executed ingest locally (0.000)",void stopThreadPool public ( ) throws Exception { }
+ClassLoader getServletClassLoader private ( ),{ (0.000),ClassLoader getServletClassLoader private ( ) { }
+boolean isLocalFileReference public ( ) { } try {,"} (0.002), // Execute with search.allow_expensive_queries = null => default value = false => success (0.000), // Wait for a message (0.000), // Sleep for expiration time (0.000), // we theoretically only need more than 256 bytes, since SimpleRateLimiter.MIN_PAUSE_CHECK_MSEC=5. (0.000)",boolean isLocalFileReference public ( ) { } try { }
+Handler addHandlerWrappers private ( ) { } Handler handler,"if (0.000), while (0.000)",Handler addHandlerWrappers private ( ) { } Handler handler while return null ;
+AlbumPage saveChanges public ( ) { } var,"; (0.001), builder (0.000), ctx (0.000), dummy (0.000), blockBuilder (0.000)",AlbumPage saveChanges public ( ) { } var builder = ;
+Block eval public ( ),"{ (0.001), throws (0.000)",Block eval public ( ) { }
+Heavy getHeavy public ( ) { } if return heavy,; (0.000),Heavy getHeavy public ( ) { } if return heavy ;
+buildSortedVocab private static SortedMap,( (0.000),buildSortedVocab private static SortedMap ( ) { }
+Object postProcessAfterInitialization public,( (0.000),Object postProcessAfterInitialization public (
+Object visitNumericArrayLiteral public (,,Object visitNumericArrayLiteral public ( 
+void cleanUp (,") (0.000), , (0.000)",void cleanUp ( )
+void shutdownThreadpool public ( ) throws InterruptedException,"{ (0.001), , (0.000)",void shutdownThreadpool public ( ) throws InterruptedException { }
+"void postSpans protected ( , )","{ (0.002), throws (0.001)","void postSpans protected ( , ) { }"
+DocsWithFieldSet writeBinarizedVectorData static,( (0.000),DocsWithFieldSet writeBinarizedVectorData static (
+void insert public,( (0.000),void insert public (
+"void addRawBlock private ( , ) { } LongBlock","lhsBlock (0.000), block (0.000), valBlock (0.000), leftValueBlock (0.000), vBlock (0.000)","void addRawBlock private ( , ) { } LongBlock valBlock = LongVector ;"
+void onFailure public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void onFailure public ( ) { } { }
+EngineFactory getEngineFactory protected ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",EngineFactory getEngineFactory protected ( ) { } @ Override Object obj Runnable action Cleanable ;
+Origin getOrigin public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",Origin getOrigin public ( ) { } @ Override String field TokenStream stream slop ;
+Query approximate public static ( ) { } Query,"query (0.000), q (0.000), rewrite (0.000), topLevelQuery (0.000)",Query approximate public static ( ) { } Query q Float boost if return q ;
+void collect public (,", (0.000), ) (0.000)",void collect public ( ) { }
+void testOutOfRangeFilterPushdownWithFloatAndHalfFloat public ( ),,void testOutOfRangeFilterPushdownWithFloatAndHalfFloat public ( ) 
+"GetResult realtimeGetUnderLock protected ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","GetResult realtimeGetUnderLock protected ( , , , ) { }"
+void run public (,") (0.000), , (0.000)",void run public ( ) { }
+void error public static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",void error public static ( ) { }
+shards protected GroupShardsIterator (,,shards protected GroupShardsIterator ( 
+void testExpiredToken public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testExpiredToken public ( ) throws Exception { }
+ConfigurableApplicationContext getConfigurableParent private static (,,ConfigurableApplicationContext getConfigurableParent private static ( 
+void doWriteTo protected ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",void doWriteTo protected ( ) throws IOException { }
+getBomDependencies private List ( ) { } < Dependency,> (0.000),getBomDependencies private List ( ) { } < Dependency > if else ( ) { }
+void testDeprecationHeadersDoNotGetStuck public (,,void testDeprecationHeadersDoNotGetStuck public ( 
+void disableBindOnInit private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","void disableBindOnInit private ( ) { } if else ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) "" test "" ( ) "" 1 "" . endObject float [ 1 ] . DEFAULT_TIMEOUT_FOR_API request . getInferenceTimeout . SEARCH request . getPrefixType . NLP_MODEL request . getRequestModelType ArrayList ( )"
+void testActualMissingValue public ( ) throws IOException { // missing value is set to an actual value,,void testActualMissingValue public ( ) throws IOException { // missing value is set to an actual value 
+void testJobRelocationIsMemoryAware public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testJobRelocationIsMemoryAware public ( ) throws Exception { }
+void initializeBindings public,,void initializeBindings public 
+"void ccsClusterInfoUpdate private static ( ,",") (0.004), , (0.004)","void ccsClusterInfoUpdate private static ( , ) { }"
+void neo4jIsUpWithOneSessionExpiredException ( ),{ (0.000),void neo4jIsUpWithOneSessionExpiredException ( ) { }
+"Validator get public static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","Validator get public static ( , ) { } < String > new if else ex { // Continue }"
+readVLongArray public ( ),,readVLongArray public ( ) 
+void customizeVendorProperties protected ( ) { } @ Override vendorProperties,; (0.000),void customizeVendorProperties protected ( ) { } @ Override vendorProperties ;
+DataStream resolveDataStream public,,DataStream resolveDataStream public 
+void testRewriteCompoundRetrieverShouldThrowForPartialResults public ( ) throws Exception,{ (0.012),void testRewriteCompoundRetrieverShouldThrowForPartialResults public ( ) throws Exception { }
+"void sendResponse private ( ,",) (0.000),"void sendResponse private ( , ) { }"
+TDigestState create public static,( (0.000),"TDigestState create public static ( , ) { }"
+void assertEqualInstances protected,( (0.000),void assertEqualInstances protected (
+void doRun protected ( ),"{ (0.000), throws (0.000)",void doRun protected ( ) { }
+void addRandomStoredFields static,,void addRandomStoredFields static 
+void checkIntegrity public ( ),throws (0.000),void checkIntegrity public ( ) throws IOException { }
+boolean equals public ( ) { } @ Override Object,"obj (0.002), o (0.002), bean (0.001), value (0.000), other (0.000)",boolean equals public ( ) { } @ Override Object value if if return ;
+"XContentBuilder toXContent public ( , ) throws IOException","{ (0.012), , (0.000)","XContentBuilder toXContent public ( , ) throws IOException { }"
+"void write public ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void write public ( , , ) { }"
+String fetchData public ( ),,String fetchData public ( ) 
+void testAliasFilterWithNowInRangeFilterAndQuery public ( ) { } ;,"; (0.003), if (0.001), for (0.001), i (0.000), try (0.000)",void testAliasFilterWithNowInRangeFilterAndQuery public ( ) { } ; ;
+"void handle private ( ,",", (0.000)","void handle private ( , , ) { }"
+"void recordCachePopulationMetrics public ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void recordCachePopulationMetrics public ( , , , ) { }"
+void customizeKeepAliveTimeout private (,", (0.000)","void customizeKeepAliveTimeout private ( , ) { }"
+boolean equals public,"( (0.005), final (0.000), static (0.000)",boolean equals public (
+"void loadConfiguration protected ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void loadConfiguration protected ( , ) { } < String , String > new ( ) . Builder ( v ) execInfo . overallTook EsqlExecutionInfo . Cluster ( ) ( ) ( ) ( ) ( ) ( )"
+void testUnderscoreInAnalyzerName public ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",void testUnderscoreInAnalyzerName public ( ) throws IOException { } @ Override String ;
+void onFailure public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void onFailure public ( ) { } @ Override if return ;
+dataStreamsExclusivelyUsingTemplates static Set (,,dataStreamsExclusivelyUsingTemplates static Set ( 
+EmbeddedCacheManager createEmbeddedCacheManager private ( ) throws IOException,"{ (0.019), , (0.000)",EmbeddedCacheManager createEmbeddedCacheManager private ( ) throws IOException { }
+RankVectors get public (,) (0.000),RankVectors get public ( ) throws Exception { }
+void testOsInfo public ( ) throws IOException { } ;,"; (0.001), for (0.000), StringBuilder (0.000), try (0.000), Boolean (0.000)",void testOsInfo public ( ) throws IOException { } ; ;
+boolean isBeanMethod private ( ) { } @ Contract Method,,boolean isBeanMethod private ( ) { } @ Contract Method 
+void testSendLeaderMessage ( ) { } @ Test,"; (0.001), var (0.000), try (0.000), TomcatServletWebServerFactory (0.000), RuntimeHints (0.000)",void testSendLeaderMessage ( ) { } @ Test TomcatServletWebServerFactory ;
+void createBuildBwcTask static,,void createBuildBwcTask static 
+void customizeAndRunServer private ( ) { } consumer TomcatWebServer ;,,void customizeAndRunServer private ( ) { } consumer TomcatWebServer ; 
+boolean equals public ( ),{ (0.005),boolean equals public ( ) { }
+void runWithPrimaryShardReference ( ) { } PrimaryShardReference primaryShardReference,,void runWithPrimaryShardReference ( ) { } PrimaryShardReference primaryShardReference 
+"TextMapPropagator create static ( ,",", (0.000), ) (0.000)","TextMapPropagator create static ( , , ) ( , ) ( , ) ( ) ( ) ( )"
+void runWhenUsingCustomResourceLoader ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",void runWhenUsingCustomResourceLoader ( ) { } @ Override Object o if if Status ;
+void testRefreshingTokensInMixedCluster public (,,void testRefreshingTokensInMixedCluster public ( 
+BooleanQuery filtered public static,,BooleanQuery filtered public static 
+resultsMatcher private static Matcher ( ),"{ (0.000), throws (0.000)",resultsMatcher private static Matcher ( ) { }
+ResourceResolver getVersionResourceResolver private,( (0.000),ResourceResolver getVersionResourceResolver private (
+TestHttpResponse handleRequest private,static (0.000),TestHttpResponse handleRequest private static
+void createDataStream public,,void createDataStream public 
+String determineUsername public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",String determineUsername public ( ) { }
+void onResponse public,( (0.000),void onResponse public (
+getRangeEnd protected static Optional ( ) { } < Integer,", (0.000), > (0.000)","getRangeEnd protected static Optional ( ) { } < Integer , > ( ) if else "" field "" . LONG "" string_field "" Map . of Map . of ( ) ( ) ( ) ( ) . put ( ) "" spring.messages.basename "" "" messages "" getMatchOutcomeForBasename ( basename , outcome ) ( ) . stream ( )"
+void main public static ( ) throws Exception,{ (0.012),void main public static ( ) throws Exception { }
+findByName public Optional ( ) throws SQLException { },"@ (0.000), DataSource (0.000), String (0.000), try (0.000)",findByName public Optional ( ) throws SQLException { } @ Override String field StringBuilder ;
+CohereCompletionServiceSettings fromMap public static (,") (0.000), , (0.000)",CohereCompletionServiceSettings fromMap public static ( ) { }
+"EngineConfig config public ( ,",,"EngineConfig config public ( , "
+getExclusions protected Set,,getExclusions protected Set 
+"parameters public static Iterable ( ) { // Don't test null, as it is not allowed but the expected message is not a type error - so we check it separately in VerifierTests }",,"parameters public static Iterable ( ) { // Don't test null, as it is not allowed but the expected message is not a type error - so we check it separately in VerifierTests } "
+"CacheManager createCacheManager private ( , )","{ (0.010), throws (0.002)","CacheManager createCacheManager private ( , ) { }"
+"void scenario public static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","void scenario public static ( , ) { }"
+getOptionsHelp public Collection ( ) {,"} (0.001), // no index exists, all good, we can start (0.000), // AwaitsFix https://github.com/elastic/elasticsearch/issues/118531 (0.000), // Set elasticInferenceUrl based on feature flags to support transitioning to the new Elastic Inference Service URL without exposing (0.000), // Behavioral analytics components (0.000)",getOptionsHelp public Collection ( ) { // Behavioral analytics components // Connector components }
+ScriptSortBuilder randomScriptSortBuilder public static ( ) { } ScriptSortType,,ScriptSortBuilder randomScriptSortBuilder public static ( ) { } ScriptSortType 
+"Model updateModelWithEmbeddingDetails public ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","Model updateModelWithEmbeddingDetails public ( , ) { } @ Override if return instance ;"
+Properties fromPropertiesMap private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",Properties fromPropertiesMap private ( ) { } ( ) { }
+TypeExcludeFilter instantiateTypeExcludeFilter private (,,TypeExcludeFilter instantiateTypeExcludeFilter private ( 
+"void assertSingleClusterIsTrusted private ( , , ) throws","IOException (0.005), Exception (0.001), InterruptedException (0.000), ServletException (0.000), SchedulerException (0.000)","void assertSingleClusterIsTrusted private ( , , ) throws IOException { }"
+RemoteClusterPermissions doParseInstance protected (,,RemoteClusterPermissions doParseInstance protected ( 
+Exception checkFeatureAvailable public,,Exception checkFeatureAvailable public 
+void registerTestRestTemplate private ( ),{ (0.000),void registerTestRestTemplate private ( ) { }
+HttpRequest createHttpRequest public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",HttpRequest createHttpRequest public ( ) { }
+Field getFieldBuilderByName private,,Field getFieldBuilderByName private 
+void onResponse public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void onResponse public ( ) { } @ Override XContentBuilder builder Params builderParams ;
+createDeploymentsFromPlan public static List,,createDeploymentsFromPlan public static List 
+String execute public ( ) { } @ Override Order,order (0.000),String execute public ( ) { } @ Override Order order var ;
+File createTempDir protected final ( ) {,"} (0.002), // Customize as per the parent context first (so e.g. the access logs go to (0.000), // cache the @timestamp from the ingest document's source map if there is one (0.000), // eagerly check object depth limit here to avoid stack overflow errors (0.000), // throw exception if the file is corrupt (0.000)",File createTempDir protected final ( ) { }
+"void doExecute protected ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void doExecute protected ( , , ) { }"
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean equals public ( ) { } @ Override < > params ;
+void print public (,,void print public ( 
+Integer cancelTimeOutOrder public ( ) { //查询超时、未支付的订单及订单详情 //修改订单状态为交易取消 } @,,Integer cancelTimeOutOrder public ( ) { //查询超时、未支付的订单及订单详情 //修改订单状态为交易取消 } @ 
+getNodePredicate static Predicate,,getNodePredicate static Predicate 
+"void checkDestination ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void checkDestination ( , , ) { } String ;"
+"void waitForShardsReadyForClosing private ( , ,",") (0.005), , (0.004)","void waitForShardsReadyForClosing private ( , , , ) throws IOException { }"
+void processItem private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void processItem private ( ) { } { }
+"listBlobsByPrefix public Map ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","listBlobsByPrefix public Map ( , , ) throws IOException { }"
+forwardingSubscription private Flow . Subscription (,) (0.000),forwardingSubscription private Flow . Subscription ( ) { }
+void onIndexModule public ( ) { } @ Override IndexModule,"indexModule (0.000), module (0.000)",void onIndexModule public ( ) { } @ Override IndexModule module if ( enabled ) { }
+CompressedXContent convertMappingMapToXContent private static ( ) throws IOException,"{ (0.019), , (0.000)",CompressedXContent convertMappingMapToXContent private static ( ) throws IOException { }
+void handleElectionMessage protected ( ) { } @ Override Message,message (0.000),void handleElectionMessage protected ( ) { } @ Override Message message if else ( ) { }
+"XContentBuilder toXContent public ( , )","{ (0.009), throws (0.004)","XContentBuilder toXContent public ( , ) { }"
+"Object handle public ( , )","{ (0.009), throws (0.004)","Object handle public ( , ) { }"
+PeriodStyle detect public static (,) (0.000),PeriodStyle detect public static ( ) throws IOException { }
+apply Map (,,apply Map ( 
+XContentBuilder keyToXContent protected final ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",XContentBuilder keyToXContent protected final ( ) throws IOException { }
+void testFloor public,,void testFloor public 
+"readStepKeys static Set ( , ,",") (0.000), , (0.000)","readStepKeys static Set ( , , ) ( ) "" foo "" "" bar "" ( ) "" 1 "" ( , ) ( ) ( ) { }"
+DataType readFrom public static ( ) throws IOException,"{ (0.019), , (0.000)",DataType readFrom public static ( ) throws IOException { }
+String get private,( (0.000),String get private (
+String toString public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",String toString public ( ) { } @ Override Object obj return ;
+void testMultiMatchQuery public,,void testMultiMatchQuery public 
+void testIllegalFormatField public ( ) throws Exception { },"@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)",void testIllegalFormatField public ( ) throws Exception { } ;
+void createIndicesWithRandomAliases private ( ) throws IOException,"{ (0.019), , (0.000)",void createIndicesWithRandomAliases private ( ) throws IOException { }
+compare public int (,", (0.000)","compare public int ( , , , ) throws IOException { }"
+"void createLatestVersionedIndexIfRequired public static ( ,",") (0.002), , (0.002)","void createLatestVersionedIndexIfRequired public static ( , , ) ( ) ( ) { }"
+"Decision canAllocateToNode private ( , )","{ (0.010), throws (0.002)","Decision canAllocateToNode private ( , ) { }"
+void doWith public ( ) throws IllegalArgumentException { },"String (0.000), Object (0.000), Settings (0.000)",void doWith public ( ) throws IllegalArgumentException { } Object value if if ;
+String buildPropertyDeprecations private ( ) throws Exception { } ItemMetadata,... (0.000),String buildPropertyDeprecations private ( ) throws Exception { } ItemMetadata ... TestJsonConverter ;
+boolean hasFieldAttribute public,,boolean hasFieldAttribute public 
+boolean equals public ( ),{ (0.005),boolean equals public ( ) { }
+getAsMap public Map ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",getAsMap public Map ( ) { } ( ) { }
+void handleElectionInvokeMessage protected (,,void handleElectionInvokeMessage protected ( 
+boolean isEmpty (,) (0.000),boolean isEmpty ( )
+"void writePair private < , >","( (0.000), @ (0.000), LinkedHashMap (0.000)","void writePair private < , > ( , , , , ) ( , ) . get ( ) . get . class ( )"
+"Driver neo4jDriver public ( , , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","Driver neo4jDriver public ( , , , ) { }"
+"getTransportInterceptors public List ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","getTransportInterceptors public List ( , ) { } @ SuppressWarnings @ Test DataSource ;"
+void innerOpenEngineAndTranslog private ( ) throws IOException { // we disable deletes since we allow for operations to be executed against the shard while recovering // but we need to make sure we don't loose deletes until we are done recovering,,void innerOpenEngineAndTranslog private ( ) throws IOException { // we disable deletes since we allow for operations to be executed against the shard while recovering // but we need to make sure we don't loose deletes until we are done recovering 
+void testMultipleIndices public (,,void testMultipleIndices public ( 
+Query createExactKnnFloatQuery private (,,Query createExactKnnFloatQuery private ( 
+mapResponseType public Class ( ),{ (0.000),mapResponseType public Class ( ) { }
+"void deleteBlobsIgnoringIfNotExists public ( , ) throws IOException {","} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)","void deleteBlobsIgnoringIfNotExists public ( , ) throws IOException { }"
+ProjectGenerationResponse createResponse private (,,ProjectGenerationResponse createResponse private ( 
+void onApplicationEvent public,( (0.000),void onApplicationEvent public (
+Query rewrite public ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",Query rewrite public ( ) throws IOException { } @ Override String fieldName value try long ( ) { }
+boolean isFullMatch public ( ),{ (0.000),boolean isFullMatch public ( ) { }
+getIndexFoldersDeletionListeners public List ( ) {,"} (0.004), // This index name is used when validating component and index templates, we should skip this check in that case. (0.000), // The root component extension must be last (0.000), // note: this loop is unrolled rather than streaming-style because it's hot enough to show up in a flamegraph (0.000), //先从缓存中获取数据 (0.000)",getIndexFoldersDeletionListeners public List ( ) { }
+void addRawBlock private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void addRawBlock private ( ) { } { }
+"resolveSchemaResources private List ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","resolveSchemaResources private List ( , , ) throws IOException { }"
+"Query termsQuery public ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","Query termsQuery public ( , ) { } < > < > . get instanceSupplier == null throw ;"
+void sendResponse public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void sendResponse public ( ) { } @ Override if ;
+"get static < > ValueObject ( , ,",", (0.000), ) (0.000)","get static < > ValueObject ( , , ) { }"
+"ConditionOutcome getMatchOutcome private ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","ConditionOutcome getMatchOutcome private ( , ) { } String ;"
+zip64Bytes private ( ) throws IOException { } byte [,"] (0.001), numVectors (0.000), bufferSize (0.000)","zip64Bytes private ( ) throws IOException { } byte [ ] byte [ ] new ( values , 1L ) ( values , firstValueIndex , valueCount , percentile , scratch ) + + percentile "" ] "" == 0 return ;"
+void testInvalidFeatures public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","void testInvalidFeatures public ( ) { } ( , , ) { }"
+void setRefreshPending private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",void setRefreshPending private ( ) { }
+Headers contentRangeHeader private static,,Headers contentRangeHeader private static 
+String distributionProjectPath private static ( ),"{ (0.005), throws (0.001)",String distributionProjectPath private static ( ) { }
+SearchRequestBuilder buildDataSummarySearchRequestBuilder private ( ),,SearchRequestBuilder buildDataSummarySearchRequestBuilder private ( ) 
+void testWritableArrays public (,,void testWritableArrays public ( 
+void testOpenAiEmbeddings public ( ),throws (0.000),void testOpenAiEmbeddings public ( ) throws Exception { }
+boolean has public static,( (0.000),boolean has public static ( ) { }
+Ssl ssl private ( ),{ (0.000),Ssl ssl private ( ) { }
+void maybeTimeout private ( ) { } String sessionUUID RestoreSession,,void maybeTimeout private ( ) { } String sessionUUID RestoreSession 
+void configurePathMatch public ( ) { } @ Override PathMatchConfigurer,,void configurePathMatch public ( ) { } @ Override PathMatchConfigurer 
+T get public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",T get public ( ) { } @ Override String path if return ;
+Warnings warnings private ( ) { } if return,"; (0.002), warnings (0.001), null (0.000), false (0.000), securityClient (0.000)",Warnings warnings private ( ) { } if return ;
+void testBuildTable public (,,void testBuildTable public ( 
+"void checkDimensionExceeded private ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void checkDimensionExceeded private ( , ) { } @ Override < > params return ;"
+String camelCaseToUnderscore public static ( ),"{ (0.004), throws (0.001)",String camelCaseToUnderscore public static ( ) { }
+boolean equals public ( ) { } @ Override Object,"obj (0.002), o (0.002), bean (0.001), value (0.000), other (0.000)",boolean equals public ( ) { } @ Override Object o if if Request ;
+"convertErrors private List ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","convertErrors private List ( , , ) { }"
+h3Rotate60cw public static long ( ) { } h for,,h3Rotate60cw public static long ( ) { } h for 
+void testAnalyzerWithTwoTextsAndNoIndexName public ( ) throws IOException,"{ (0.019), , (0.000)",void testAnalyzerWithTwoTextsAndNoIndexName public ( ) throws IOException { }
+NumericDoubleValues select public (,,NumericDoubleValues select public ( 
+String randomVersionNumber private static,,String randomVersionNumber private static 
+boolean matches public ( ),"{ (0.000), throws (0.000)",boolean matches public ( ) { }
+EsqlQueryResponse deserialize static ( ) throws IOException,"{ (0.019), , (0.000)",EsqlQueryResponse deserialize static ( ) throws IOException { }
+void copyExtraConfigFiles private,( (0.000),void copyExtraConfigFiles private (
+void useLastModified ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void useLastModified ( ) { } < > if else standardConfigDataLocationResolver != null ;
+NamedExpression enrichFieldName private ( ) { } ctx,". (0.000), BoolQueryBuilder (0.000), ; (0.000)",NamedExpression enrichFieldName private ( ) { } ctx . fireChannelRead msg instanceof HttpRequest request var ;
+void addApplicationConverters public static (,,void addApplicationConverters public static ( 
+void createIndex private (,,void createIndex private ( 
+void setTestSysProps private static ( ),"{ (0.005), throws (0.001)",void setTestSysProps private static ( ) { }
+getLifecyclePolicies protected List ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","getLifecyclePolicies protected List ( ) { } @ Nullable < String , Object > ( ) ;"
+void customize public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void customize public ( ) { } @ Override Object obj if if Request ;
+ConditionOutcome getMatchOutcome public,( (0.001),ConditionOutcome getMatchOutcome public (
+getRegistrars private Collection ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",getRegistrars private Collection ( ) { } { }
+"BytesReference toBytesReference private static ( , )","{ (0.007), throws (0.001)","BytesReference toBytesReference private static ( , ) { }"
+"void onLagDetected public ( ,",,"void onLagDetected public ( , "
+Path createLayerFile private,,Path createLayerFile private 
+"findCities public Page ( , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","findCities public Page ( , ) { } @ Override Object o if if Request ;"
+void resolveGraph ( ) { } @ TaskAction ; String,,void resolveGraph ( ) { } @ TaskAction ; String 
+"void overrideOldestIndexVersion private static ( ,",") (0.004), , (0.004)","void overrideOldestIndexVersion private static ( , ) throws IOException { }"
+parsePolicyName private static Tuple,,parsePolicyName private static Tuple 
+TransportException doFailToSend private ( ) throws InterruptedException { } RuntimeException,,TransportException doFailToSend private ( ) throws InterruptedException { } RuntimeException 
+void process static (,", (0.000)","void process static ( , , , , ) ( ) ( , , ) { }"
+"String resolveExpression static ( ,",,"String resolveExpression static ( , "
+Result getResult ( ),,Result getResult ( ) 
+health public WebEndpointResponse,( (0.000),health public WebEndpointResponse (
+MimeType getContentType public,( (0.000),MimeType getContentType public (
+"void restoreSnapshot public ( , ,",") (0.005), , (0.003)","void restoreSnapshot public ( , , , ) { }"
+void testCanMatch public ( ),,void testCanMatch public ( ) 
+"SortedDocsProducer createSortedDocsProducerOrNull ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","SortedDocsProducer createSortedDocsProducerOrNull ( , ) { }"
+JSONStringer key public ( ) throws JSONException { },"String (0.000), index (0.000), value (0.000), < (0.000), ; (0.000)",JSONStringer key public ( ) throws JSONException { } ;
+"boolean dummyEntityFitsOnLeastLoadedNode static ( , // total up requirements... , ,",,"boolean dummyEntityFitsOnLeastLoadedNode static ( , // total up requirements... , , "
+"buildIndexAliasFilters Map ( ,",", (0.000)","buildIndexAliasFilters Map ( , , , ) { }"
+"void parseRequestConfig public ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void parseRequestConfig public ( , , , ) { }"
+void testReplaceSortByExpressions public (,,void testReplaceSortByExpressions public ( 
+map protected Map,( (0.000),map protected Map (
+void testIntersectsOnTwoPointFieldAndOneCentroidUsesDocValues public (,,void testIntersectsOnTwoPointFieldAndOneCentroidUsesDocValues public ( 
+String oldClusterVersionCompatibleEmbeddingConfig private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",String oldClusterVersionCompatibleEmbeddingConfig private ( ) { }
+URL toURL protected ( ) { } File file try,"{ (0.000), ( (0.000), return (0.000)",URL toURL protected ( ) { } File file try { }
+XLMRobertaTokenizer build public ( ),"{ (0.000), throws (0.000)",XLMRobertaTokenizer build public ( ) { }
+recoverySourceSize long ( ),,recoverySourceSize long ( ) 
+"Model updateModelWithEmbeddingDetails public ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","Model updateModelWithEmbeddingDetails public ( , ) { } positionCount LongBlock lhsBlock LongBlock rhsBlock try int ( ) { }"
+ClientYamlTestClient clientYamlTestClient protected (,) (0.000),ClientYamlTestClient clientYamlTestClient protected ( ) { }
+void executeWithCacheBindMountsExecutesPhases (,) (0.000),void executeWithCacheBindMountsExecutesPhases ( )
+"void evaluate public ( , ) { } ClientYamlTestExecutionContext context",,"void evaluate public ( , ) { } ClientYamlTestExecutionContext context "
+boolean isMultiPartUpload private,,boolean isMultiPartUpload private 
+boolean definesAllocationRules private static (,,boolean definesAllocationRules private static ( 
+void testShardChangesWithDefaultDocType public ( ) throws Exception { },"@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)",void testShardChangesWithDefaultDocType public ( ) throws Exception { } ;
+PointInTimeBuilder pointInTimeBuilder public ( ) { } if return,"; (0.002), warnings (0.001), null (0.000), false (0.000), securityClient (0.000)",PointInTimeBuilder pointInTimeBuilder public ( ) { } if return ;
+ServerWebExchangeMatcher createDelegate protected ( ) { } @ Override PathMappedEndpoints,,ServerWebExchangeMatcher createDelegate protected ( ) { } @ Override PathMappedEndpoints 
+XContentBuilder toXContent public,"( (0.001), final (0.000), static (0.000)",XContentBuilder toXContent public (
+extractPathParameters private Map ( ) { } < String,", (0.006), > (0.005)","extractPathParameters private Map ( ) { } < String , Object > new != null ;"
+void waitForExit public ( ) { } if (,") (0.003), , (0.000), sFields (0.000), i (0.000), beanFactory (0.000)",void waitForExit public ( ) { } if ( ) { }
+void addRawBlock private ( ),{ (0.000),void addRawBlock private ( ) { }
+"void addParam private static ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void addParam private static ( , , ) { }"
+FailureAnalysis analyzeBindValidationException private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",FailureAnalysis analyzeBindValidationException private ( ) { }
+void scheduleNext private ( ),,void scheduleNext private ( ) 
+"AzureAiStudioEmbeddingsServiceSettings fromMap public static ( , )","{ (0.007), throws (0.001)","AzureAiStudioEmbeddingsServiceSettings fromMap public static ( , ) throws Exception { }"
+"runEsqlAsync public static Map ( , ,",") (0.000), , (0.000)","runEsqlAsync public static Map ( , , , , ) ( ) ( ) ( )"
+void testMultiValueAllSet public ( ) throws Exception { // the segments are force merged to a single segment so that the sorted binary doc values can be asserted within a single segment. // Previously we used the SlowCompositeReaderWrapper but this is an unideal solution so force merging is a better idea.,,void testMultiValueAllSet public ( ) throws Exception { // the segments are force merged to a single segment so that the sorted binary doc values can be asserted within a single segment. // Previously we used the SlowCompositeReaderWrapper but this is an unideal solution so force merging is a better idea. 
+"ConstantScoreWeight getContainsWeight private ( ,",,"ConstantScoreWeight getContainsWeight private ( , "
+read public int,( (0.000),read public int (
+Customer findOne public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",Customer findOne public ( ) { }
+Literal asLiteral public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",Literal asLiteral public ( ) { } ( ) { }
+void destroySilently private ( ) { } try { },"catch (0.002), finally (0.000), void (0.000)",void destroySilently private ( ) { } try { } catch ( ) ( SHALLOW_SIZE ) return ;
+URL toURL private ( ) { } File file,"try (0.000), if (0.000), ; (0.000), File (0.000), return (0.000)",URL toURL private ( ) { } File file try { }
+void testDeprecateTranslogRetentionSettings public ( ) { } @ UpdateForV9 @,AwaitsFix (0.000),void testDeprecateTranslogRetentionSettings public ( ) { } @ UpdateForV9 @ AwaitsFix IndicesModule ;
+BeanPostProcessor dataSourceWrapper static,( (0.000),BeanPostProcessor dataSourceWrapper static (
+void getForecastStats public (,,void getForecastStats public ( 
+void testScrollResponseBatchingBehavior public ( ) throws Exception,{ (0.012),void testScrollResponseBatchingBehavior public ( ) throws Exception { }
+PhysicalPlan mapBinary private ( ) { // special handling for inlinejoin - join + subquery which has to be executed first (async) and replaced by its result } BinaryPlan,,PhysicalPlan mapBinary private ( ) { // special handling for inlinejoin - join + subquery which has to be executed first (async) and replaced by its result } BinaryPlan 
+"void handle private ( ,",", (0.000)","void handle private ( , , ) ( , ) . put ( ) "" index "" ( knnSearch , knnSearch2 ) "" text "" String . valueOf closeIndex ex = assertThat putComponentTemplate createDataStream ( client , , , ) ( ) ( ) ( ) ( ) { }"
+AccessLogValve findAccessLogValve private ( ) { } T factory,"ConnectionFactory (0.000), for (0.000), ; (0.000)",AccessLogValve findAccessLogValve private ( ) { } T factory for ( Valve engineValve : ) return null ;
+void register static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",void register static ( ) { }
+"void extractObjects private static ( ,",") (0.004), , (0.004)","void extractObjects private static ( , , , ) { }"
+String createSchema private,( (0.000),String createSchema private (
+"XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException {","} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)","XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException { }"
+"XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException","{ (0.012), , (0.000)","XContentBuilder toXContentFragmentOfExposedFields protected ( , ) throws IOException { }"
+String asHash private static ( ) { } String currentContext,try (0.000),String asHash private static ( ) { } String currentContext try { }
+"HostMetadata fromSource // remove fallback to the ""profiling.host.machine"" field and remove it from the component template ""profiling-hosts"". public static ( ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","HostMetadata fromSource // remove fallback to the ""profiling.host.machine"" field and remove it from the component template ""profiling-hosts"". public static ( ) { } @ SuppressWarnings < Object > String prefix list boolean showUnsanitized ;"
+SslBundle getPemSslBundle private ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",SslBundle getPemSslBundle private ( ) { } @ Override Object o if if Response ;
+"void binaryField public ( , ) throws IOException","{ (0.012), , (0.000)","void binaryField public ( , ) throws IOException { }"
+boolean allowsDashIgnoringEqualityCheck public ( ) { } return ;,"&& (0.001), || (0.000), return (0.000), new (0.000), switch (0.000)",boolean allowsDashIgnoringEqualityCheck public ( ) { } return ; || || t == CARTESIAN_SHAPE || t == GEO_SHAPE t == GEO_POINT t == CARTESIAN_POINT
+boolean incrementToken public ( ) throws IOException,"{ (0.019), , (0.000)",boolean incrementToken public ( ) throws IOException { }
+void updateLocalCheckpoint public synchronized (,,void updateLocalCheckpoint public synchronized ( 
+void maybeSet public,,void maybeSet public 
+"T convert < > ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","T convert < > ( , , ) { }"
+TypeResolution resolveType protected ( ) {,"} (0.005), // Use bean names so that we don't consider the hierarchy (0.000), // ref releases all happen-before here so no need to be synchronized (0.000), // Windows limits the maximum command length, so we use an argfile (0.000), // TODO move this to xpack core and use inference APIs (0.000)",TypeResolution resolveType protected ( ) { }
+prepareProcessPage public GroupingAggregatorFunction,. (0.000),prepareProcessPage public GroupingAggregatorFunction .
+"boolean isMatch private ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","boolean isMatch private ( , ) { }"
+XContentBuilder toXContent public,"( (0.001), final (0.000), static (0.000)",XContentBuilder toXContent public (
+"merge private static List ( , ) { // use linked hash map to preserve order }",,"merge private static List ( , ) { // use linked hash map to preserve order } "
+void addRawBlock private ( ) { } BytesRefBlock,"block (0.000), strBlock (0.000), valBlock (0.000), lhsBlock (0.000), . (0.000)",void addRawBlock private ( ) { } BytesRefBlock lhsBlock = ;
+E readOptionalEnum public < > (,", (0.000), ) (0.000)",E readOptionalEnum public < > ( ) { }
+"boolean isValidChar static ( ,",) (0.000),"boolean isValidChar static ( , ) { }"
+void testCreateProcessorWithInputFieldSingleOrList public (,,void testCreateProcessorWithInputFieldSingleOrList public ( 
+extractTokenKeys private Map ( ) {,"} (0.003), // body is optional (0.000), // Fully-qualified here to reduce ambiguity around our (ES') Version class (0.000), // add all assumed features to the featureset of all nodes of the next major version (0.000), // Add filters available in lucene-core (0.000)",extractTokenKeys private Map ( ) { }
+void removeSnake public static ( ),"{ (0.004), throws (0.001)",void removeSnake public static ( ) { }
+"String createId public ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","String createId public ( , ) { }"
+IntVector eval public,( (0.000),IntVector eval public (
+void validateFrozenPhaseHasSearchableSnapshotAction static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",void validateFrozenPhaseHasSearchableSnapshotAction static ( ) { }
+boolean isInvalidDoc private ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",boolean isInvalidDoc private ( ) throws IOException { } @ Override Object o if if if if if return null ;
+"void notifyDone ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void notifyDone ( , , ) { } String name boolean nullable String ;"
+void filterIsRegisteredWithAsyncErrorAndRequestDispatcherTypes ( ) {,,void filterIsRegisteredWithAsyncErrorAndRequestDispatcherTypes ( ) { 
+StandardRetrieverBuilder createTestInstance protected ( ),{ (0.000),StandardRetrieverBuilder createTestInstance protected ( ) { }
+"FileResolver getFileResolver private ( , )","{ (0.010), throws (0.002)","FileResolver getFileResolver private ( , ) { }"
+void writeLoaderClasses private ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",void writeLoaderClasses private ( ) throws IOException { }
+maybeAttachEntitlementAgent private static Stream ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",maybeAttachEntitlementAgent private static Stream ( ) { } @ Nullable String databaseType Database ;
+void print public,,void print public 
+"void append private ( , , , )","{ (0.011), ( (0.007), throws (0.003), . (0.001), driverContext (0.001)","void append private ( , , , ) { }"
+boolean isDesiredNodeWithinTierJoining private static (,,boolean isDesiredNodeWithinTierJoining private static ( 
+AmazonS3ClientBuilder buildClientBuilder protected ( ) {,"} (0.005), // Use bean names so that we don't consider the hierarchy (0.000), // ref releases all happen-before here so no need to be synchronized (0.000), // Windows limits the maximum command length, so we use an argfile (0.000), // TODO move this to xpack core and use inference APIs (0.000)",AmazonS3ClientBuilder buildClientBuilder protected ( ) { }
+ConfigurationProperty getConfigurationProperty public ( ) { } @ Override ConfigurationPropertyName,name (0.000),ConfigurationProperty getConfigurationProperty public ( ) { } @ Override ConfigurationPropertyName name ;
+String convertToString static ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",String convertToString static ( ) { } @ Override < String > return ;
+"void processElement private ( ,",,"void processElement private ( , "
+"void addRawInput private ( , , ) { } positionOffset","IntVector (0.000), IntBlock (0.000)","void addRawInput private ( , , ) { } positionOffset IntBlock groups BytesRefBlock values BytesRef ;"
+void testMastersFirst public,,void testMastersFirst public 
+DataStream createDataStream private (,", (0.000)","DataStream createDataStream private ( , , ) { }"
+Bits getAcceptOrds public,,Bits getAcceptOrds public 
+"void parseRequestConfig public ( , ,",") (0.005), , (0.003)","void parseRequestConfig public ( , , ) { }"
+"void registerMixinClass private static ( ,",") (0.004), , (0.004)","void registerMixinClass private static ( , , , ) ( , , , ) { }"
+void doChunkedInfer protected,( (0.000),void doChunkedInfer protected (
+"getAvailableParameter private Function ( ) { } < , Object",> (0.000),"getAvailableParameter private Function ( ) { } < , Object > isPresent && throw ;"
+String prepareTemplate static,,String prepareTemplate static 
+"KafkaStreamsConfiguration defaultKafkaStreamsConfig ( , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","KafkaStreamsConfiguration defaultKafkaStreamsConfig ( , ) { } @ Override if ( ) { }"
+"RestChannelConsumer prepareRequest public ( , )","{ (0.009), throws (0.004)","RestChannelConsumer prepareRequest public ( , ) { }"
+"readImmutableMap public < , >","( (0.000), @ (0.000)","readImmutableMap public < , > ( , ) ( , ) ( , ) ( ) "" test "" ( , ) ( ) ( ) ( ) "" "" + ""  } "" getIndexGeometry "" "" + value "" \""  } "" "" "" + ""  } "" "" "" + ""  should be missing. """
+"matchWildcardToResources static Set ( , ) { // this applies an initial pre-filtering in the case where the expression is a common suffix wildcard, eg ""test*""",,"matchWildcardToResources static Set ( , ) { // this applies an initial pre-filtering in the case where the expression is a common suffix wildcard, eg ""test*"" "
+"void loadContext private ( ,",") (0.000), , (0.000)","void loadContext private ( , , ) ( ) ( )"
+void setMessageListener ( ) { } TransportMessageListener listener,if (0.000),void setMessageListener ( ) { } TransportMessageListener listener if else ( ) ( )
+void testSkipIfUnlicensed public,,void testSkipIfUnlicensed public 
+void parseNested protected,,void parseNested protected 
+getProjectsAndDependencies private Map ( ),"{ (0.001), throws (0.000)",getProjectsAndDependencies private Map ( ) { }
+merge private < > Set,( (0.000),"merge private < > Set ( , ) { }"
+BeanPostProcessor preventDataSourceCloseBeanPostProcessor public static,( (0.000),BeanPostProcessor preventDataSourceCloseBeanPostProcessor public static ( ) { }
+void markStoreCorrupted public ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",void markStoreCorrupted public ( ) throws IOException { }
+boolean equals public (,) (0.005),boolean equals public ( ) { }
+PropertySummaryDescriptor getPropertySummaryDescriptor private ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",PropertySummaryDescriptor getPropertySummaryDescriptor private ( ) { } @ Override Object obj if if return ;
+void testRegisterClusterDynamicSettingDuplicate public ( ) { } try {,"} (0.002), // Execute with search.allow_expensive_queries = null => default value = false => success (0.000), // Wait for a message (0.000), // Sleep for expiration time (0.000), // we theoretically only need more than 256 bytes, since SimpleRateLimiter.MIN_PAUSE_CHECK_MSEC=5. (0.000)",void testRegisterClusterDynamicSettingDuplicate public ( ) { } try { }
+Manifest createLauncherManifest public (,,Manifest createLauncherManifest public ( 
+void testRunAsRequestWithRunAsUserWithoutPermission public ( ) { } TransportRequest,"; (0.000), request (0.000), . (0.000)",void testRunAsRequestWithRunAsUserWithoutPermission public ( ) { } TransportRequest request return ;
+extractTokenKeys private Map ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",extractTokenKeys private Map ( ) { } { }
+"void collect public ( , ) throws IOException","{ (0.012), , (0.000)","void collect public ( , ) throws IOException { }"
+"boolean supportsParameter public ( ,",) (0.000),"boolean supportsParameter public ( , ) { }"
+void placeOrder protected ( ),,void placeOrder protected ( ) 
+InputStream currentStream private ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",InputStream currentStream private ( ) throws IOException { } ;
+void checkParsedFilterParameters ( ) { } MultiTermVectorsRequest multiRequest ; for,,void checkParsedFilterParameters ( ) { } MultiTermVectorsRequest multiRequest ; for 
+boolean isExistingFile private ( ) { } File,"file (0.000), ; (0.000), jarFile (0.000), factoriesFile (0.000), files (0.000)",boolean isExistingFile private ( ) { } File jarFile ;
+void testResolveAuthorizationInfoForEmptyRestrictedRolesWithAuthentication public ( ),,void testResolveAuthorizationInfoForEmptyRestrictedRolesWithAuthentication public ( ) 
+void tomcatConnectorCustomizersShouldBeInvoked ( ) { } @ Test,"; (0.001), var (0.000), try (0.000), TomcatServletWebServerFactory (0.000), RuntimeHints (0.000)",void tomcatConnectorCustomizersShouldBeInvoked ( ) { } @ Test try { }
+LeafCollector getLeafCollector public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",LeafCollector getLeafCollector public ( ) { }
+"void postDelete public ( ,",,"void postDelete public ( , "
+"boolean hasWebServerNamespace protected final ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean hasWebServerNamespace protected final ( , ) { } @ Nullable < String > < String > new ;"
+"void elserCase private ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void elserCase private ( , , , ) ( , ) ( ) ( ) ( ) ( )"
+"IntBlock eval ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","IntBlock eval ( , ) { } String name return ;"
+void afterTestMethod public ( ),throws (0.000),void afterTestMethod public ( ) throws Exception { }
+Page getOutput public ( ),{ (0.000),Page getOutput public ( ) { }
+addInferenceConfig public ConverseRequest,. (0.000),addInferenceConfig public ConverseRequest .
+void onRemoval public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void onRemoval public ( ) { } @ Override Object obj if if return false ;
+MBeanInfo getMBeanInfo private,,MBeanInfo getMBeanInfo private 
+void indexDocs private ( ),{ (0.000),void indexDocs private ( ) { }
+void writeTo ( ) throws JSONException { },"String (0.000), index (0.000), value (0.000), < (0.000), ; (0.000)",void writeTo ( ) throws JSONException { } index Object ;
+void infoPrint public static ( ),"{ (0.004), throws (0.001)",void infoPrint public static ( ) { }
+determineSubobjects private ObjectMapper .,,determineSubobjects private ObjectMapper . 
+void onApplicationEvent public ( ) { } @ Override SpringApplicationEvent,event (0.000),void onApplicationEvent public ( ) { } @ Override SpringApplicationEvent event if if if if if if return ;
+void write ( ) throws,IOException (0.000),void write ( ) throws IOException { }
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean equals public ( ) { } @ Override < URL > ;
+boolean canHighlight public (,,boolean canHighlight public ( 
+"void assertProjectEntity private static ( ,",") (0.004), , (0.004)","void assertProjectEntity private static ( , , , ) { }"
+"void setDefaultIndexTypeFields private static ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void setDefaultIndexTypeFields private static ( , , , , , ) { }"
+"parseEvent public static < > Deque ( ,",,"parseEvent public static < > Deque ( , "
+"void combineRawInput private ( ,",) (0.000),"void combineRawInput private ( , ) { }"
+void logWarnings private (,) (0.000),void logWarnings private ( ) { }
+"boolean shouldTrackConcreteIndex private static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","boolean shouldTrackConcreteIndex private static ( , ) { }"
+getErrorResponse private Mono ( ) { } < SecurityResponse >,Throwable (0.000),getErrorResponse private Mono ( ) { } < SecurityResponse > Throwable throwable if return ;
+void writeThrough public,,void writeThrough public 
+resumeFollow public static ResumeFollowAction . Request (,,resumeFollow public static ResumeFollowAction . Request ( 
+"boolean addMetricIfFinite private ( , )","{ (0.010), throws (0.002)","boolean addMetricIfFinite private ( , ) { }"
+void shutDownGracefully public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",void shutDownGracefully public ( ) { }
+boolean assertConsistentProjectState private static,,boolean assertConsistentProjectState private static 
+Settings restAdminSettings protected ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",Settings restAdminSettings protected ( ) { } @ Override if if return ;
+HostAndPort extractHostAndPort private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","HostAndPort extractHostAndPort private ( ) { } ( , , , ) ( , ) ( , ) ( , ) ( , ) "" text1 "" "" 499 "" "" text1 "" "" text0 "" "" 498 "" ( , ) ( , ) ( ) ( , ) ( ) ( ) ( ) ("
+Query wildcardQuery public (,", (0.000)","Query wildcardQuery public ( , , , ) ( ) ( ) "" test "" ( ) ( ) ( ) ( ) ( 1 ) . get ( ) ( ) ( , ) ( , , , ) throws IOException { }"
+filterDependencies protected final,,filterDependencies protected final 
+void writeValuesMultipleBlocks private,,void writeValuesMultipleBlocks private 
+createRouterFunction RouterFunction ( ) { } < ServerResponse >,"if (0.000), String (0.000), responseBody (0.000)",createRouterFunction RouterFunction ( ) { } < ServerResponse > responseBody error StringBuilder ;
+"String getCastEvaluator public static ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","String getCastEvaluator public static ( , , ) { } positionCount LongBlock lhsBlock LongBlock rhsBlock try int ( ) { }"
+"SystemIndexMigrationInfo build static ( , , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","SystemIndexMigrationInfo build static ( , , , ) { }"
+void checkTemplateLocationExists public ( ),{ (0.000),void checkTemplateLocationExists public ( ) { }
+getHttpPortInternal private List ( ) { } < String,", (0.006), > (0.005)","getHttpPortInternal private List ( ) { } < String , > ( , , ) { }"
+buildCache private static Cache ( ) { } < Object,"> (0.000), , (0.000)","buildCache private static Cache ( ) { } < Object > randomList newState ( state , first , 0 ) ( ) ( , , ) ( ) ( , , , ) throws Exception { }"
+"RestChannelConsumer prepareRequest protected ( , ) throws IOException {","} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)","RestChannelConsumer prepareRequest protected ( , ) throws IOException { }"
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean equals public ( ) { } @ Override XContentBuilder builder Params params ;
+"boolean matches ( , ) { } CharSequence name","separator (0.000), suffix (0.000)","boolean matches ( , ) { } CharSequence name suffix index if if return 0 ;"
+ap private static long,,ap private static long 
+void testIsEmpty public ( ) { } ; ; ;,"; (0.003), for (0.001), if (0.000), String (0.000), ( (0.000)",void testIsEmpty public ( ) { } ; ; ; ;
+"Nested nested private ( , )","{ (0.010), throws (0.002)","Nested nested private ( , ) { }"
+void forEach private ( ),,void forEach private ( ) 
+BuildProperties get public static ( ) { } Project project,"; (0.000), String (0.000), if (0.000), JavaPluginExtension (0.000), PluginPropertiesExtension (0.000)",BuildProperties get public static ( ) { } Project project if ;
+boolean bind private <,> (0.000),"boolean bind private < > ( , ) { }"
+void indexRandom public,,void indexRandom public 
+toXContentChunked public Iterator ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",toXContentChunked public Iterator ( ) { } @ SuppressWarnings String apiKeyId boolean hasRemoteClusterInBaseRole boolean hasRemoteClusterInLimitedByRole String limitedByRoleName baseRoleClusters Request ;
+boolean incrementToken public,( (0.000),boolean incrementToken public (
+void onResponse public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",void onResponse public ( ) { } @ Override if return ;
+String generateSearcherId static ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",String generateSearcherId static ( ) { } ( ) { }
+IndexService getIndexService private (,,IndexService getIndexService private ( 
+boolean resolved public (,) (0.000),boolean resolved public ( ) { }
+void stop public ( ) throws InterruptedException {,"} (0.001), // only one shard (0.000), // NOTE, javadoc of getThreadInfo says: If a thread of the given ID is not alive or does not exist, (0.000), // if it was already in-sync (because of a previously failed recovery attempt), global checkpoint must have been (0.000), // at most 25 days in the month (0.000)",void stop public ( ) throws InterruptedException { }
+"Object postProcessAfterInitialization public ( ,",) (0.000),"Object postProcessAfterInitialization public ( , ) { }"
+void prepareWebApplicationContext protected ( ) { } ServletContext servletContext,"for (0.000), Object (0.000), ; (0.000), ExposableServletEndpoint (0.000)",void prepareWebApplicationContext protected ( ) { } ServletContext servletContext ;
+parseAllHints private List ( ),"{ (0.001), throws (0.000)",parseAllHints private List ( ) { }
+Query rewrite public (,") (0.000), , (0.000)","Query rewrite public ( , ) { }"
+String toString private static,( (0.000),String toString private static ( ) { }
+"indexRandomNumbers private int ( , , ) throws","IOException (0.005), Exception (0.001), InterruptedException (0.000), ServletException (0.000), SchedulerException (0.000)","indexRandomNumbers private int ( , , ) throws IOException { }"
+void setupTaskMock private ( ) { } ClusterService clusterService ClusterState,; (0.000),void setupTaskMock private ( ) { } ClusterService clusterService ClusterState ;
+boolean includeBindingErrors private,( (0.000),boolean includeBindingErrors private (
+"KnnVectorQueryBuilder toQueryBuilder public ( ) { // We perform validation here instead of the constructor because it makes the errors // much clearer. Otherwise, the error message is deeply nested under parsing exceptions. }",,"KnnVectorQueryBuilder toQueryBuilder public ( ) { // We perform validation here instead of the constructor because it makes the errors // much clearer. Otherwise, the error message is deeply nested under parsing exceptions. } "
+"RestChannelConsumer innerPrepareRequest public ( ,",) (0.000),"RestChannelConsumer innerPrepareRequest public ( , ) throws IOException { }"
+void onApplicationEvent public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void onApplicationEvent public ( ) { } @ Override if ( ) { }
+"Query randomTermsQuery protected ( ,",,"Query randomTermsQuery protected ( , "
+void writeTo public,"( (0.001), static (0.000), final (0.000)",void writeTo public (
+ProjectMetadata buildProjectMetadata private static,,ProjectMetadata buildProjectMetadata private static 
+AutoFollowPattern readFrom public static ( ) throws IOException,"{ (0.019), , (0.000)",AutoFollowPattern readFrom public static ( ) throws IOException { }
+BuildRequest customizeRunImage private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",BuildRequest customizeRunImage private ( ) { }
+w3c private Propagation . Factory (,) (0.000),w3c private Propagation . Factory ( ) { }
+"XContentBuilder toXContent public ( , ) throws IOException {","} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)","XContentBuilder toXContent public ( , ) throws IOException { }"
+void testMergeIncompatibleCapabilitiesOfObjectFields public ( ) throws Exception,{ (0.012),void testMergeIncompatibleCapabilitiesOfObjectFields public ( ) throws Exception { }
+Block evalNullable public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",Block evalNullable public ( ) { } { }
+"IndexOutput createOutput public ( , ) throws","IOException (0.008), Exception (0.001), BeansException (0.000), InterruptedException (0.000), ClassNotFoundException (0.000)","IndexOutput createOutput public ( , ) throws IOException { }"
+boolean isUnpackRequired private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",boolean isUnpackRequired private ( ) { }
+"void performSync ( ,",,"void performSync ( , "
+Object getAnnotationValue private,,Object getAnnotationValue private 
+void persist public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void persist public ( ) { } @ Override Object o if if Response ;
+void customizeVendorProperties protected ( ) { } @ Override vendorProperties,; (0.000),void customizeVendorProperties protected ( ) { } @ Override vendorProperties ;
+"void runReadyDeletions private ( ,",,"void runReadyDeletions private ( , "
+void refreshMetadata synchronized,,void refreshMetadata synchronized 
+void reorderXmlConvertersToEnd private ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",void reorderXmlConvertersToEnd private ( ) { } @ Test TomcatServletWebServerFactory ;
+SecurityFilterChain managementSecurityFilterChain (,,SecurityFilterChain managementSecurityFilterChain ( 
+boolean isNegative private ( ) { } Duration sessionTimeout,return (0.000),boolean isNegative private ( ) { } Duration sessionTimeout return ;
+void assertHasExpectedLayers private (,,void assertHasExpectedLayers private ( 
+String removeEmbeddedSlashDotDotSlash private static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",String removeEmbeddedSlashDotDotSlash private static ( ) { //50ms //points }
+"LongBlock eval public ( , ) { } positionCount valuesBlocks",try (0.000),"LongBlock eval public ( , ) { } positionCount valuesBlocks try int BytesRefBlock ( ) { }"
+void testSynthesizeIdMultipleSegments public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testSynthesizeIdMultipleSegments public ( ) throws Exception { }
+void initHandlerMethods protected (,) (0.000),void initHandlerMethods protected ( ) { }
+void testCreateOverLimitStrategy public,,void testCreateOverLimitStrategy public 
+boolean equals public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",boolean equals public ( ) { }
+void testHttpHeadersSuccessfulValidation public ( ),,void testHttpHeadersSuccessfulValidation public ( ) 
+"LeafBucketCollector getLeafCollector private ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","LeafBucketCollector getLeafCollector private ( , ) { }"
+void handleRequest public (,") (0.000), , (0.000)","void handleRequest public ( , , ) { }"
+"boolean remainderIsDashes private ( , , ) { } Elements","e1 (0.000), additional (0.000), elements (0.000)","boolean remainderIsDashes private ( , , ) { } Elements additional ;"
+handle private < >,WebEndpointResponse (0.000),"handle private < > WebEndpointResponse ( , , , ) ( , ) ( , , ) throws IOException { }"
+"AppliedQueryRules applyRule public ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","AppliedQueryRules applyRule public ( , ) { }"
+"T bind public < > @ Nullable ( ,",") (0.000), , (0.000), resolver (0.000)","T bind public < > @ Nullable ( , , ) { }"
+WebServer getWebServer public ( ) { } @ Override HttpHandler,"next (0.000), ; (0.000)",WebServer getWebServer public ( ) { } @ Override HttpHandler next if return ;
+void testSeeds public ( ) throws Exception { } ;,"; (0.001), for (0.000), assertNoFailuresAndResponse (0.000), String (0.000), try (0.000)","void testSeeds public ( ) throws Exception { } ; assertNoFailuresAndResponse ( , ) . build new ( 1 , , serialized ) ( id , ) ( ) ( , ) ( ) "" / "" "" / "" "" / "" "" / "" "" / """
+"parse public MetadataFieldMapper . Builder ( ,",") (0.000), , (0.000), null (0.000), valuesSourceType (0.000), aliasIndices (0.000)","parse public MetadataFieldMapper . Builder ( , ) { }"
+void addRawBlock private (,", (0.000), ) (0.000)",void addRawBlock private ( ) { }
+void checkNotScoped protected ( ) { // Scoping isn't allowed when we have only one instance. } if,,void checkNotScoped protected ( ) { // Scoping isn't allowed when we have only one instance. } if 
+maxSimDotProduct public float ( ),"throws (0.000), { (0.000)",maxSimDotProduct public float ( ) { }
+get public static List ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",get public static List ( ) { } ( ) ( ) ( ) ( )
+void convertWhenCanConvertDirectlySkipsStringConversion ( ) { } @ ConversionServiceTest ConversionService,conversionService (0.000),void convertWhenCanConvertDirectlySkipsStringConversion ( ) { } @ ConversionServiceTest ConversionService conversionService ;
+"boolean hasChanged public ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean hasChanged public ( , ) { } @ Override < > return ;"
+TypeResolution resolveType protected ( ),{ (0.000),TypeResolution resolveType protected ( ) { }
+void setup static ( ) { } Thread thread UncaughtExceptionHandler,; (0.000),void setup static ( ) { } Thread thread UncaughtExceptionHandler ;
+boolean unpause public,,boolean unpause public 
+void preInitializeLeakyClasses private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void preInitializeLeakyClasses private ( ) { } { }
+void convertWhenUsingTypeConverterConversionServiceFromMultipleThreads ( ) { } @ Test BindConverter ;,,void convertWhenUsingTypeConverterConversionServiceFromMultipleThreads ( ) { } @ Test BindConverter ; 
+void testSyntheticSourceInvalid public final ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",void testSyntheticSourceInvalid public final ( ) throws IOException { } public long ( ) throws IOException { }
+"void visit public ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void visit public ( , , , ) ( ) ( ) ( ) ( ) ( ) ( , ) ( ) { }"
+void verifyCloudContainerInstallation private static ( ),"{ (0.005), throws (0.001)",void verifyCloudContainerInstallation private static ( ) { }
+Builder attach public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","Builder attach public ( ) { } ( ) "" The block response must have shard failures as the global  "" "" exception is null. The block result is:  "" . Strings ( , qualifiedTokenName ) new ElasticsearchException deleteResponse . getResult . DELETED ( deleteResponse ) deleteResponse . getResult . NOT_FOUND l . onFailure ( ) ( ) ( ) ( )"
+void process static,( (0.000),void process static (
+boolean indexSettingsMatchRepositoryMetadata private static (,,boolean indexSettingsMatchRepositoryMetadata private static ( 
+void testReadRetriesAfterMeaningfulProgress public (,,void testReadRetriesAfterMeaningfulProgress public ( 
+Warnings warnings private (,) (0.001),Warnings warnings private ( ) { }
+void abort ( ) { } Thread ;,if (0.000),void abort ( ) { } Thread ; if ;
+void initPrimaries private ( ) { } ; Builder,,void initPrimaries private ( ) { } ; Builder 
+"ConfigurationMetadata readMetadata private ( , )","{ (0.010), throws (0.002)","ConfigurationMetadata readMetadata private ( , ) { }"
+void writeOptionalEnum public,,void writeOptionalEnum public 
+void bindTo public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void bindTo public ( ) { } @ Override if return null ;
+"execute Tuple ( ) { } < ClusterState ,","> (0.000), MoveDecision (0.000), ClusterState (0.000), MigratedEntities (0.000)","execute Tuple ( ) { } < ClusterState , MigratedEntities > ClusterState currentState String nodeAttrName String indexTemplateToDelete NamedXContentRegistry xContentRegistry Client client LifecyclePolicy oldPolicy LifecyclePolicyMetadata newPolicy XPackLicenseState licenseState assert : ;"
+void advanceMaxSeqNoOfUpdatesOrDeletes public ( ) { } @ Override maxSeqNoOfUpdatesOnPrimary,,void advanceMaxSeqNoOfUpdatesOrDeletes public ( ) { } @ Override maxSeqNoOfUpdatesOnPrimary 
+"void translateToChunkedResult private static ( ,",") (0.004), , (0.004)","void translateToChunkedResult private static ( , , , , , , , , , , ) ( , ) ( , ) ( ) ( ) "" "" ( , ) . getKey "" 1s "" . startDataOnlyNodes indexSettings . put ( , ) ( , ) "" text0 "" "" 497 "" QueryBuilders . termQuery"
+void testProcessClosedIndexState public ( ) { // Index initially exists // Now close it } ;,,void testProcessClosedIndexState public ( ) { // Index initially exists // Now close it } ; 
+buildDigests private static Map ( ) {,"} (0.003), // body is optional (0.000), // Fully-qualified here to reduce ambiguity around our (ES') Version class (0.000), // add all assumed features to the featureset of all nodes of the next major version (0.000), // Add filters available in lucene-core (0.000)",buildDigests private static Map ( ) { }
+void indexPoints private (,,void indexPoints private ( 
+void validateNoReadOnlySuffix public static ( ) { } String,"name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)",void validateNoReadOnlySuffix public static ( ) { } String ;
+boolean isElementDeprecated private,( (0.000),boolean isElementDeprecated private (
+"void addRawBlock private ( ,",) (0.000),"void addRawBlock private ( , ) { }"
+MethodSpec realEval private (,,MethodSpec realEval private ( 
+"void maybeTrack public ( , ) { } @ Override","Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)","void maybeTrack public ( , ) { } @ Override if else @ Override return ;"
+"JSONObject put public ( ,",) (0.000),"JSONObject put public ( , ) throws IOException { }"
+"void retryWithoutIncrementingFailureCount private ( ,",,"void retryWithoutIncrementingFailureCount private ( , "
+"ConfigDataEnvironmentContributor getNextToProcess private ( , ,",") (0.005), , (0.004)","ConfigDataEnvironmentContributor getNextToProcess private ( , , , , , ) ( ) ( ) ( ) ( ) ( ) ( , , ) "" test "" ( ) "" test "" . EXTERNAL Engine . Searcher engine . acquireSearcher assertEquals assertEquals assertSameReader Engine . Searcher engine . acquireSearcher assertEquals assertEquals assertNotSameReader "" test "" ."
+void completeOrFailIfRequired ( ) { // A task can only be completed or failed once - trying multiple times just causes log spam,,void completeOrFailIfRequired ( ) { // A task can only be completed or failed once - trying multiple times just causes log spam 
+void testReadMultiTwoBytesLimit1 public ( ),,void testReadMultiTwoBytesLimit1 public ( ) 
+void getWhenJarIsSigned (,,void getWhenJarIsSigned ( 
+void main public static ( ) { } args,"if (0.000), String (0.000), var (0.000), try (0.000), . (0.000)",void main public static ( ) { } args if if List ( ) { }
+void testRetentionLeaseSyncedOnRemove public (,,void testRetentionLeaseSyncedOnRemove public ( 
+"void configureWebAppContext protected final ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void configureWebAppContext protected final ( , ) { } < > . size < > . iterator histogram . buckets ( ) ( ) { }"
+"void assertSplitMetadata private static ( ,",") (0.004), , (0.004)","void assertSplitMetadata private static ( , , , , , ) { }"
+objectToDouble public static double (,") (0.000), , (0.000)",objectToDouble public static double ( ) { }
+OptionalInt getMaskTokenId public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",OptionalInt getMaskTokenId public ( ) { } < > if ? extends Mapper ( ) { }
+void unregister private ( ) { } ObjectName,objectName (0.000),void unregister private ( ) { } ObjectName objectName try { }
+TypeSpec factory private (,,TypeSpec factory private ( 
+void checkSystemIndexAccess private static,( (0.000),"void checkSystemIndexAccess private static ( , , ) throws IOException { }"
+getDelegates private Collection ( ) { } < TypeExcludeFilter,> (0.000),getDelegates private Collection ( ) { } < TypeExcludeFilter > testClass filterClasses ;
+void testTotalTests public ( ) { } TranslogStats ;,,void testTotalTests public ( ) { } TranslogStats ; 
+collectByRepo private static Map ( ) throws IOException,"{ (0.019), , (0.000)",collectByRepo private static Map ( ) throws IOException { }
+Attribute toAttribute public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",Attribute toAttribute public ( ) { } if ( ) { }
+void waitForSearchTasksToFinish private ( ) throws Exception { } ;,"; (0.001), for (0.000), assertNoFailuresAndResponse (0.000), String (0.000), try (0.000)",void waitForSearchTasksToFinish private ( ) throws Exception { } ; String ;
+Warnings warnings private,( (0.001),Warnings warnings private (
+MemberPath of public static ( ) { } String,"name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)",MemberPath of public static ( ) { } String ;
+Warnings warnings private (,) (0.001),Warnings warnings private ( ) { }
+boolean isCompositeWithOnlyUserDefinedComposites private ( ) { } MeterRegistry meterRegistry,"return (0.000), if (0.000), BundleInfo (0.000)",boolean isCompositeWithOnlyUserDefinedComposites private ( ) { } MeterRegistry meterRegistry BundleInfo bundle MultiGauge ;
+"ServerConnector createServerConnector private ( ,",", (0.000)","ServerConnector createServerConnector private ( , , , , ) . map ( ) Collectors . joining ( ) ( ) ( , , ) { }"
+DatabaseDriver fromJdbcUrl public static (,,DatabaseDriver fromJdbcUrl public static ( 
+renderInternal protected Mono (,", (0.000)","renderInternal protected Mono ( , , , , , , , , , ) { }"
+DoubleBlock eval public (,", (0.001)","DoubleBlock eval public ( , ) { }"
+QueryBuilder doIndexMetadataRewrite protected (,) (0.000),QueryBuilder doIndexMetadataRewrite protected ( ) { }
+"boolean hasWebServerNamespace protected final ( , )","{ (0.000), throws (0.000)","boolean hasWebServerNamespace protected final ( , ) { }"
+LocalBaggageFields extractFrom static ( ) { } builder,". (0.003), = (0.000), if (0.000), String (0.000), Pool (0.000)","LocalBaggageFields extractFrom static ( ) { } builder . build ( ) ( ) ( ) "" """
+void totalOperations public synchronized ( ) { } total,+= (0.000),void totalOperations public synchronized ( ) { } total += searchResponse . decRef searchResponse = scrollId = totalResults += numSliceResults += . getHits { }
+Server createJettyServer protected ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","Server createJettyServer protected ( ) { } if ( ) ( ) ( ) ( ) ( ) ( ) ( ) "" foo "" "" bar "" ( ) . getKey . put ( , ) e . getMessage containsString e . getMessage containsString "" ds "" client ( , request ) ( ) ( )"
+void start public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void start public ( ) { } @ Override Object o if if Response ;
+"void setFile private ( , ) { } URL context",String (0.000),"void setFile private ( , ) { } URL context String spec String ;"
+void setUpSSL protected ( ) { } @ Override if,"return (0.001), ( (0.001), ; (0.000), else (0.000), if (0.000)",void setUpSSL protected ( ) { } @ Override if ;
+checkForScaleDown Optional (,,checkForScaleDown Optional ( 
+getRandomSignificantTerms InternalMappedSignificantTerms ( ) {,,getRandomSignificantTerms InternalMappedSignificantTerms ( ) { 
+void verify public static ( ) throws,"IOException (0.001), Exception (0.000), IllegalArgumentException (0.000), ClassNotFoundException (0.000), JSONException (0.000)",void verify public static ( ) throws IOException { }
+void testIterable public ( ) throws Exception { },"@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)",void testIterable public ( ) throws Exception { } String ;
+"void collect public ( ,",) (0.000),"void collect public ( , ) throws IOException { }"
+void validate public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",void validate public ( ) { } @ Override String field TokenStream stream slop ;
+void maybeFSyncTranslogs private,,void maybeFSyncTranslogs private 
+"boolean isUsingSources private static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean isUsingSources private static ( , ) { } String ... ;"
+"boolean shouldUseFileResolution private ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean shouldUseFileResolution private ( , ) { } String name String ;"
+"compare public int ( , )","{ (0.001), throws (0.000)","compare public int ( , ) { }"
+getDefaultConverters private List,( (0.000),getDefaultConverters private List (
+"Decision shouldFilter private ( , , ) { } IndexMetadata","indexMetadata (0.000), . (0.000), previous (0.000), ; (0.000), indexMd (0.000)","Decision shouldFilter private ( , , ) { } IndexMetadata ;"
+SortedBinaryDocValues toString private static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",SortedBinaryDocValues toString private static ( ) { }
+JedisConnectionFactory createJedisConnectionFactory private ( ) { } builderCustomizers,JedisClientConfigurationBuilder (0.000),JedisConnectionFactory createJedisConnectionFactory private ( ) { } builderCustomizers JedisClientConfigurationBuilder ;
+SSLSocketFactory getSmtpSslSocketFactory private,,SSLSocketFactory getSmtpSslSocketFactory private 
+ConfigurationClassFilter getConfigurationClassFilter private ( ) { } ConfigurationClassFilter,; (0.000),ConfigurationClassFilter getConfigurationClassFilter private ( ) { } ConfigurationClassFilter ;
+"void mockTokenForRefreshToken private ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void mockTokenForRefreshToken private ( , , , , , , , ) { }"
+void setCloseDataSourceOnceMigrated public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void setCloseDataSourceOnceMigrated public ( ) { } @ Override Object obj if if if return ;
+void writeTo public ( ) throws IOException,"{ (0.019), , (0.000)",void writeTo public ( ) throws IOException { }
+toXContentChunked public Iterator ( ) { } @ Override <,"> (0.001), String (0.001), E (0.000), T (0.000), URL (0.000)",toXContentChunked public Iterator ( ) { } @ Override < > return ;
+void addClasspathPermissions static (,,void addClasspathPermissions static ( 
+String extractBase64EncodedToken private static ( ),"{ (0.005), throws (0.001)",String extractBase64EncodedToken private static ( ) { }
+"boolean isMatch private ( ,",") (0.000), , (0.000)","boolean isMatch private ( , ) { }"
+HttpServer apply public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","HttpServer apply public ( ) { } if else ( ) ( ) ( ) ( , ) ( ) ( ) ( ) ( )"
+"SamlRealm create public static ( , , , , )","{ (0.011), ( (0.007), throws (0.003), . (0.001), driverContext (0.001)","SamlRealm create public static ( , , , , ) ( , ) ( , ) < String , Object > < > . toList ( groupName , ) . map ( ) + "" \"" , charset= \"" UTF-8 \"" "" ( , ) ( , ) . getKey "" test "" ( 1 ) ( ) ( ) ("
+"T create public < > ( , )","( (0.001), { (0.001), throws (0.000), . (0.000), < (0.000)","T create public < > ( , ) ( , ) ( , ) ( , ) ( , , , ) { }"
+"void assertBusy public static ( , ,",", (0.004), ) (0.004)","void assertBusy public static ( , , ) { }"
+"concreteAliases private static String ( , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","concreteAliases private static String ( , , ) { }"
+SearchHit readFrom public static,,SearchHit readFrom public static 
+"readListUnsafe private static List ( ,",") (0.001), , (0.001)","readListUnsafe private static List ( , ) throws IOException { }"
+boolean isEscapeChar private static ( ) { } c switch,,boolean isEscapeChar private static ( ) { } c switch 
+"shardMovements private static int ( ,",", (0.000), ) (0.000)","shardMovements private static int ( , , ) throws IOException { }"
+"boolean isAccessible private ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean isAccessible private ( , , ) { } String name Object ;"
+"void writeFileChunk private ( , ) throws Exception { }","@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)","void writeFileChunk private ( , ) throws Exception { } @ Override String name if return ;"
+"PemSslStore load static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","PemSslStore load static ( , ) { } positionCount LongVector lhsVector LongVector rhsVector try int ( ) { }"
+Resource getIndexHtmlResource private,( (0.000),Resource getIndexHtmlResource private (
+void testErrorMessageForLiteralDateMathOverflow public ( ),,void testErrorMessageForLiteralDateMathOverflow public ( ) 
+boolean isZip private (,) (0.000),boolean isZip private ( ) { }
+boolean equals public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","boolean equals public ( ) { } ( , ) ( ) ( )"
+boolean equals public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",boolean equals public ( ) { } @ Override String name metadata InternalAggregations aggregations boolean keyed DocValueFormat ;
+Double getValue public ( ),"{ (0.000), throws (0.000)",Double getValue public ( ) throws IOException { }
+void testNotifyOnShutdown public,,void testNotifyOnShutdown public 
+void onApplicationEvent public ( ),{ (0.000),void onApplicationEvent public ( ) { }
+calculateAllNodeFeatures public static Set ( ),"{ (0.000), throws (0.000)",calculateAllNodeFeatures public static Set ( ) { }
+boolean isMappingUpdateAction private static ( ),"{ (0.005), throws (0.001)",boolean isMappingUpdateAction private static ( ) throws Exception { }
+boolean isSecurityAutoConfigured private,,boolean isSecurityAutoConfigured private 
+"BulkItemResponse itemResponseFromXContent public static ( ,",") (0.002), , (0.002)","BulkItemResponse itemResponseFromXContent public static ( , ) throws BeansException { }"
+loadClass public Class,( (0.000),loadClass public Class (
+void testParseFieldsForAsync public ( ) throws IOException { } String,"; (0.000), name (0.000), fieldName (0.000), ... (0.000), path (0.000)",void testParseFieldsForAsync public ( ) throws IOException { } String ;
+void close public,"( (0.000), synchronized (0.000), final (0.000)",void close public (
+shapeQuery private IntFunction ( ) { // TODO: Support cartesian ShapeQueryable },< (0.000),"shapeQuery private IntFunction ( ) { // TODO: Support cartesian ShapeQueryable } < Query > < > ( ) ( ) ( ) ( , , ) ( , ) ( ) ( ) ( ) { }"
+FloatVectorValues wrap public static ( ),"{ (0.004), throws (0.001)",FloatVectorValues wrap public static ( ) { }
+parseParameters private List ( ) throws XPathExpressionException,,parseParameters private List ( ) throws XPathExpressionException 
+randomMapping private Map ( ) { } <,"String (0.007), > (0.005), T (0.001), , (0.000), Void (0.000)","randomMapping private Map ( ) { } < String , Object > ( ) < String > new ( ) ;"
+void addClassifiedManagedDependencies private ( ) { } @ SuppressWarnings Node,projectNode (0.000),void addClassifiedManagedDependencies private ( ) { } @ SuppressWarnings Node projectNode Node properties for ( ;
+"String blockNodeWithIndex public static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","String blockNodeWithIndex public static ( , ) { } < > < > < > . getTaskType -> -> model . getConfigurations ( ) ( , , , ) { }"
+void servletPropertySourcesAreNotCopiedOverIfNotWebEnvironment ( ),,void servletPropertySourcesAreNotCopiedOverIfNotWebEnvironment ( ) 
+ChangedFiles getChangedFiles (,", (0.000)","ChangedFiles getChangedFiles ( ,"
+"void getFromTranslog private ( , ,",") (0.005), , (0.004)","void getFromTranslog private ( , , , ) throws IOException { }"
+"compileTemplate public static TemplateScript . Factory ( ,",", (0.000), field (0.000), ) (0.000), fieldEvaluator (0.000), shardContexts (0.000)","compileTemplate public static TemplateScript . Factory ( , field ) SignumLongEvaluator . Factory ( , field ) ( , rankWindowSize ) seed != null ;"
+void assertILMPolicyExists private ( ) throws IOException { } String,"; (0.000), name (0.000), fieldName (0.000), ... (0.000), path (0.000)",void assertILMPolicyExists private ( ) throws IOException { } String name boolean nullable String ;
+void awaitQueue public ( ) throws InterruptedException { } while,( (0.000),void awaitQueue public ( ) throws InterruptedException { } while ( true ) { }
+BytesReference bytes static ( ),,BytesReference bytes static ( ) 
+void testSerializeInDifferentContext public ( ) throws IOException { } BytesStreamOutput,; (0.000),void testSerializeInDifferentContext public ( ) throws IOException { } BytesStreamOutput ;
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean equals public ( ) { } @ Override XContentBuilder builder Params params ;
+void run public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",void run public ( ) { } @ Override String name if LoadableResource ;
+void mapping private ( ),throws (0.000),void mapping private ( ) throws IOException { }
+boolean equals public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","boolean equals public ( ) { } ( ) ( 0 ) ( ) ( ) ( ) ( , , ) { }"
+Expression partiallyFold public (,,Expression partiallyFold public ( 
+"HttpHandler httpHandler ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","HttpHandler httpHandler ( , ) { } public ( ) { }"
+void forEncode private,,void forEncode private 
+void testRespectsAssignmentOfUnknownPrimaries public ( ) { } var ;,"var (0.001), ; (0.000), if (0.000), try (0.000), for (0.000)",void testRespectsAssignmentOfUnknownPrimaries public ( ) { } var ; if else ( ) { }
+readMapEntries private static,,readMapEntries private static 
+"ConditionOutcome getMatchOutcome public ( ,",) (0.001),"ConditionOutcome getMatchOutcome public ( , ) throws IOException { }"
+"ActionRequestValidationException validateGeneratedSnapshotName public static ( ,",") (0.002), , (0.002)","ActionRequestValidationException validateGeneratedSnapshotName public static ( , ) { }"
+"void writeTestFile private static ( ,",") (0.004), , (0.004)","void writeTestFile private static ( , ) { }"
+void validate ( ) { // Ensure we don't have nodes with duplicate names,,void validate ( ) { // Ensure we don't have nodes with duplicate names 
+void awaitQueue public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void awaitQueue public ( ) throws IOException { }
+"void ensureFlattenable private ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","void ensureFlattenable private ( , ) { }"
+"String format static ( , ) { } String","name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)","String format static ( , ) { } String ... ;"
+RankShardResult buildRankFeatureShardResult public,,RankShardResult buildRankFeatureShardResult public 
+void validateDetectorsAreUnique public,,void validateDetectorsAreUnique public 
+"Query termQuery public ( , ) { } @ Override","Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)","Query termQuery public ( , ) { } @ Override < String , BlobMetadata > actualListing if else isDeleted = true Map ( isDeleted ) { }"
+void assertNoFailures public static (,,void assertNoFailures public static ( 
+"Object postProcessAfterInitialization public ( ,",) (0.000),"Object postProcessAfterInitialization public ( , ) { }"
+map public List,( (0.000),map public List (
+void testByteArrayBulkGet public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",void testByteArrayBulkGet public ( ) { }
+String toString public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","String toString public ( ) { } @ Nullable < D > ( type , ) this . sslBundles "" SSL bundle name has been set but no SSL bundles found in context "" ssl . getBundle ( )"
+SQLDialect determineSqlDialect public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","SQLDialect determineSqlDialect public ( ) { } ( ) "" 1 "" ( ) . field ( , ) ( ) . getKey ( ) . entrySet ( ) entry -> ( , , doubleErrorMessage ) ( ) SQLException . class -> "" ab1 "" filteredSettings . get new ( nodeId , bundle ) ( )"
+ProjectLookup getProjectLookup public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",ProjectLookup getProjectLookup public ( ) { } < T > ObjectUtils . isEmpty ;
+void trySendRequests private ( ) { } assert ;,"; (0.000), if (0.000), return (0.000), VersionedDocument (0.000), assert (0.000)",void trySendRequests private ( ) { } assert ; ;
+"void assertAccessLevelLombokProperties private ( , , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","void assertAccessLevelLombokProperties private ( , , , ) { }"
+BeanCreationException createFailure private ( ) { } configuration,"try (0.000), String (0.000), AnnotationConfigApplicationContext (0.000), boolean (0.000)",BeanCreationException createFailure private ( ) { } configuration try Class ( ) { }
+"void openFullConnection private ( , ) { } listener DiscoveryNode",,"void openFullConnection private ( , ) { } listener DiscoveryNode "
+"void stop public ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","void stop public ( , ) { }"
+determinePort private int ( ) {,"} (0.007), // deviate from the original by checking all Numbers, not just floats & (0.000), // Initialize dp table, used to store subproblem solutions (0.000), // see [NOTE on racy trashContent() calls] (0.000), // We're compatible with String's hashCode() (0.000)",determinePort private int ( ) { }
+boolean isAssertThat private ( ) { } Method method return,; (0.000),boolean isAssertThat private ( ) { } Method method return ;
+"void configure private ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","void configure private ( , ) { }"
+docVersion long ( ) throws IOException { } segmentDocId,if (0.000),docVersion long ( ) throws IOException { } segmentDocId if assert ;
+DataSource determineDataSource private static,,DataSource determineDataSource private static 
+IndexMetadata getIndexSafe public,( (0.000),IndexMetadata getIndexSafe public (
+"Zip64Locator find private static ( , ) throws","IOException (0.008), Exception (0.001), BeansException (0.000), InterruptedException (0.000), ClassNotFoundException (0.000)","Zip64Locator find private static ( , ) throws IOException { }"
+T accept public < > ( ),"( (0.004), < (0.001), { (0.001), . (0.001), ; (0.000)",T accept public < > ( ) ( ) ( ) ( ) { }
+void testMachineLearningCloseJobActionNotRestricted public ( ) throws Exception,{ (0.012),void testMachineLearningCloseJobActionNotRestricted public ( ) throws Exception { }
+void failIfCorrupted private static,,void failIfCorrupted private static 
+parse public static List ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)","parse public static List ( ) throws IOException { } < > < String , Object > . buildAdminProperties ( properties , connectionDetails ) new KafkaAdmin . getAdmin != null ;"
+determineImports private Set (,", (0.000)","determineImports private Set ( , ) ( , ) "" test "" ( , min , 0d ) ( , , ) ( ) ( ) ( ) ( ) ( ) ( ) ( , , , ) ( , ) ( ) ( )"
+"EqlSearchResponse qualifyHits private static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","EqlSearchResponse qualifyHits private static ( , ) { }"
+"void loadData private static ( , ,",", (0.004), ) (0.004)","void loadData private static ( , , ) throws Exception { }"
+"String expandPlaceholders private ( , ) throws IOException","{ (0.012), , (0.000)","String expandPlaceholders private ( , ) throws IOException { }"
+"void check private ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void check private ( , , ) throws IOException { }"
+"flatMapResponse private Mono ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","flatMapResponse private Mono ( , , ) . container ( ) ( ) ( ) ( , , 0 ) . put ( ) { // This should correspond to the latest new minor }"
+void destroy public ( ) throws Exception,{ (0.012),void destroy public ( ) throws Exception { }
+"void postIndexAsyncActions private ( , ,",") (0.005), , (0.004)","void postIndexAsyncActions private ( , , , , , , , , , , , , ) { }"
+deserialize protected Map ( ),{ (0.000),deserialize protected Map ( ) { }
+"void onStartup public ( , )","{ (0.009), throws (0.004)","void onStartup public ( , ) { }"
+void validateAlias static,,void validateAlias static 
+void executePhase private ( ) { } SearchPhase phase,,void executePhase private ( ) { } SearchPhase phase 
+void setScorer public ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",void setScorer public ( ) throws IOException { }
+void checkExpected private static (,,void checkExpected private static ( 
+void testDispatchFailsWithPlainText public,,void testDispatchFailsWithPlainText public 
+OnDiskStateMetadata loadOnDiskStateMetadataFromUserData public ( ) { } userData assert ;,,OnDiskStateMetadata loadOnDiskStateMetadataFromUserData public ( ) { } userData assert ; 
+void addToMappings public ( ) throws IOException,"{ (0.019), , (0.000)",void addToMappings public ( ) throws IOException { }
+"interceptHandler public < > TransportRequestHandler ( ,",", (0.000)","interceptHandler public < > TransportRequestHandler ( , , , ) throws IOException { }"
+"LatLng hex2dToGeo static ( , , , , )","{ (0.011), ( (0.007), throws (0.003), . (0.001), driverContext (0.001)","LatLng hex2dToGeo static ( , , , , ) { }"
+Block eval public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",Block eval public ( ) { } @ Override Object value Long ;
+boolean equals public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",boolean equals public ( ) { } @ Override String ;
+boolean areCompatible public,static (0.000),boolean areCompatible public static
+"void addAsRegistrationBean private < , >","( (0.000), @ (0.000), LinkedHashMap (0.000)","void addAsRegistrationBean private < , > ( , ) { }"
+observeDouble Collection ( ) { } < DoubleWithAttributes,> (0.000),observeDouble Collection ( ) { } < DoubleWithAttributes > if var ;
+dehexchar public static int ( ),{ (0.000),dehexchar public static int ( ) { }
+ObjectMapper findParentMapper ( ) { } String leafFieldPath var ;,,ObjectMapper findParentMapper ( ) { } String leafFieldPath var ; 
+void testResizeChangeIndexMode public ( ) { } ;,"; (0.003), if (0.001), for (0.001), i (0.000), try (0.000)",void testResizeChangeIndexMode public ( ) { } ; try . lock { }
+"readDirectlyIfAlreadyClosed private int ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","readDirectlyIfAlreadyClosed private int ( , , ) { }"
+"void addCustomTopicMapping private ( ,",) (0.000),"void addCustomTopicMapping private ( , ) { }"
+void testEvalWhere public ( ),,void testEvalWhere public ( ) 
+void setupSuiteScopeCluster public ( ) throws Exception,{ (0.012),void setupSuiteScopeCluster public ( ) throws Exception { }
+boolean isReadyForSecurityMigration public (,,boolean isReadyForSecurityMigration public ( 
+"LettuceConnectionFactory createConnectionFactory private ( , , ) { } clientConfigurationBuilderCustomizers","clientOptionsBuilderCustomizers (0.000), SslBundle (0.000), ; (0.000)","LettuceConnectionFactory createConnectionFactory private ( , , ) { } clientConfigurationBuilderCustomizers clientOptionsBuilderCustomizers ClientResources clientResources LettuceClientConfiguration ;"
+BytesRef serializeDigest static ( ),,BytesRef serializeDigest static ( ) 
+void setURI public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void setURI public ( ) { } if ( ) ComparisonType . from && return ;
+void configureUtf8Encoding private ( ),,void configureUtf8Encoding private ( ) 
+void testSingleCountWithStatsFilter public ( ) { // an optimizer that filters out the ExtractAggregateCommonFilter rule },,void testSingleCountWithStatsFilter public ( ) { // an optimizer that filters out the ExtractAggregateCommonFilter rule } 
+SearchSourceBuilder buildExpandSearchSourceBuilder private static,,SearchSourceBuilder buildExpandSearchSourceBuilder private static 
+void executeRegisteredJobs private ( ) throws,"IOException (0.003), Exception (0.001), MojoExecutionException (0.000), InterruptedException (0.000), JSONException (0.000)",void executeRegisteredJobs private ( ) throws IOException { }
+DocWriteResponse readResponse private static ( ) throws IOException,"{ (0.019), , (0.000)",DocWriteResponse readResponse private static ( ) throws IOException { }
+sessionsForUsername public Mono ( ) {,} (0.000),sessionsForUsername public Mono ( ) { }
+getCorrectiveTerms public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",getCorrectiveTerms public ( ) { } @ Override Object o if if Response ;
+Block eval public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",Block eval public ( ) { } @ Override String field target KnnCollector collector Bits acceptDocs ;
+"void addRawInput public ( , ) { // Some positions masked away, others kept",} (0.000),"void addRawInput public ( , ) { // Some positions masked away, others kept }"
+"sum private double ( , , , )","{ (0.011), ( (0.007), throws (0.003), . (0.001), driverContext (0.001)","sum private double ( , , , ) { }"
+"Exception useOrSuppressIfDifferent static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","Exception useOrSuppressIfDifferent static ( , ) { }"
+void doDataSourceHealthCheck private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void doDataSourceHealthCheck private ( ) { } { }
+EsRelation readFrom private static ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",EsRelation readFrom private static ( ) throws IOException { } @ Override XContentBuilder builder Params params ;
+void cleanUp ( ),{ (0.000),void cleanUp ( ) { }
+"String getShrinkIndexName private static ( , ) throws InterruptedException ,","ExecutionException (0.000), IOException (0.000), TimeoutException (0.000)","String getShrinkIndexName private static ( , ) throws InterruptedException , TimeoutException { }"
+XContentBuilder toXContent public,"( (0.001), final (0.000), static (0.000)",XContentBuilder toXContent public (
+FieldSortBuilder mutate protected (,,FieldSortBuilder mutate protected ( 
+"getCentroid static ( , ) { } float [ ]","[ (0.000), new (0.000), { (0.000), int (0.000), vector (0.000)","getCentroid static ( , ) { } float [ ] [ ] new String int i = 0 vector . getPositionCount if ;"
+"void indexDocs public static ( ,",") (0.002), , (0.002)","void indexDocs public static ( , , ) { }"
+GoogleAiStudioModel parsePersistedConfigWithSecrets public (,,GoogleAiStudioModel parsePersistedConfigWithSecrets public ( 
+void runQuery private ( ) throws Exception { // Retry until the downsample index is populated.,} (0.000),void runQuery private ( ) throws Exception { // Retry until the downsample index is populated. }
+"BytesRefBlock eval public ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","BytesRefBlock eval public ( , , , ) { }"
+void execute ( ) { } @ TaskAction ;,"; (0.000), if (0.000), File (0.000)",void execute ( ) { } @ TaskAction ; ;
+void build public,( (0.000),void build public (
+QueryBuilder buildJobWildcardQuery public static (,,QueryBuilder buildJobWildcardQuery public static ( 
+User stripRoles static ( ),,User stripRoles static ( ) 
+void start ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void start ( ) { } ( ) { }
+JvmStats jvmStats public static ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","JvmStats jvmStats public static ( ) { } < String > . collect new CountDownLatch && indexShard . getEngine randomLongBetween ( indexShard , , globalCheckpoint , newMaxSeqNoOfUpdates , ) ( ) "" test "" "" child "" "" c4 "" "" p2 "" "" p3 "" "" c_field "" "" yellow "" ( ) client ( ) """
+void forceImmutableCollectionsSeed private static ( ) { } seed,== (0.000),void forceImmutableCollectionsSeed private static ( ) { } seed == 0L ;
+"void failIfOverShardCountLimit private static ( , ) { } ClusterService","clusterService (0.000), ; (0.000)","void failIfOverShardCountLimit private static ( , ) { } ClusterService clusterService IndicesService ;"
+getInitialUrls public URL ( ),{ (0.000),getInitialUrls public URL ( ) { }
+"void doAddSortedField private ( , ) throws IOException","{ (0.012), , (0.000)","void doAddSortedField private ( , ) throws IOException { }"
+void testAutoFollowPatterns public ( ),,void testAutoFollowPatterns public ( ) 
+void testSetMinCompetitiveScoreIsEnabledTopDocsOnly public (,,void testSetMinCompetitiveScoreIsEnabledTopDocsOnly public ( 
+void testMultiValuedField public ( ) throws Exception { } ;,"; (0.001), for (0.000), assertNoFailuresAndResponse (0.000), String (0.000), try (0.000)",void testMultiValuedField public ( ) throws Exception { } ; for ( ;
+getUpgradedNodeIds private List ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",getUpgradedNodeIds private List ( ) throws IOException { }
+URL getResource public ( ),"{ (0.000), throws (0.000)",URL getResource public ( ) { }
+"Trigger createPeriodicTrigger private ( , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","Trigger createPeriodicTrigger private ( , , ) { }"
+boolean doEquals protected,"( (0.000), final (0.000)",boolean doEquals protected (
+void printBoostAndQueryName protected,,void printBoostAndQueryName protected 
+void writeTo public ( ) throws IOException { } @,"Override (0.009), SuppressWarnings (0.000), Nullable (0.000), Bean (0.000), Test (0.000)",void writeTo public ( ) throws IOException { } @ Override Object obj if if ;
+"booleanArrayOf public static boolean ( , )","{ (0.000), [ (0.000)","booleanArrayOf public static boolean ( , ) { }"
+void repackagedJarContainsTheLayersIndexByDefault ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void repackagedJarContainsTheLayersIndexByDefault ( ) { } ( ) { }
+"void hash static ( ,",,"void hash static ( , "
+void testAbort public ( ),throws (0.000),void testAbort public ( ) throws Exception { }
+void testRespectsAssignmentByGatewayAllocators public ( ) { } var ; var,; (0.001),void testRespectsAssignmentByGatewayAllocators public ( ) { } var ; var ;
+void onMissingJoin protected (,,void onMissingJoin protected ( 
+"void execute public ( ,",") (0.000), , (0.000)","void execute public ( , ) throws IOException { }"
+"mergeAndRecalculateCentroids static int ( , , ) throws IOException","{ (0.012), , (0.000)","mergeAndRecalculateCentroids static int ( , , ) throws IOException { }"
+void invariant public ( ) { } assert ;,"; (0.000), if (0.000), return (0.000), VersionedDocument (0.000), assert (0.000)",void invariant public ( ) { } assert ; ;
+boolean isFinished public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",boolean isFinished public ( ) { } @ Override if ( ) { }
+boolean equals public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",boolean equals public ( ) { } @ Override if return ;
+void getWhenNoSignatureFileReturnsNone ( ) throws Exception { } @ Test,"; (0.001), var (0.000), try (0.000), TomcatServletWebServerFactory (0.000), RuntimeHints (0.000)",void getWhenNoSignatureFileReturnsNone ( ) throws Exception { } @ Test ;
+void testFilterByFrequency public ( ) throws Exception { },"@ (0.003), ; (0.003), String (0.001), try (0.000), < (0.000)",void testFilterByFrequency public ( ) throws Exception { } < Archive > iterator ;
+TemporalAmount parseTemporalAmount public,static (0.000),TemporalAmount parseTemporalAmount public static
+RestChannelConsumer innerPrepareRequest protected,( (0.000),RestChannelConsumer innerPrepareRequest protected (
+ResolvedIndices resolvePITIndices ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",ResolvedIndices resolvePITIndices ( ) { } < > if SnapshotsInProgress . Entry ( ) { }
+"void addRawInput public ( , ) { // Some positions masked away, others kept",} (0.000),"void addRawInput public ( , ) { // Some positions masked away, others kept }"
+boolean process static,( (0.000),boolean process static (
+"void callClusterStateListener private static ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void callClusterStateListener private static ( , , ) { }"
+boolean includeBindingErrors private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",boolean includeBindingErrors private ( ) { }
+parseApplicationPrivileges public static,,parseApplicationPrivileges public static 
+void testFollowTsdbIndex public,,void testFollowTsdbIndex public 
+"void writeBlob ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void writeBlob ( , , ) { }"
+"void ccsClusterInfoUpdate private static ( ,",") (0.004), , (0.004)","void ccsClusterInfoUpdate private static ( , , , ) throws IOException { }"
+boolean isFatalEnabled public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","boolean isFatalEnabled public ( ) { } @ Nullable @ Nullable @ Nullable ( service , ) ( service , ) keyStoreDetails == null trustStoreDetails == null ( , ) ( , ) new IndexRequest ( ) . endObject ( ) ( ) ( ) ( ) ( 1 , 10 ) ( 100 , 1000 ) ("
+boolean nonEmpty private static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",boolean nonEmpty private static ( ) { }
+void testRemoteClusterOnlyCCSSuccessfulResult public ( ),,void testRemoteClusterOnlyCCSSuccessfulResult public ( ) 
+void bucketToXContent private (,", (0.000)","void bucketToXContent private ( , , ) { }"
+"void safeAwait public static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void safeAwait public static ( , ) { } positionCount DoubleVector baseVector DoubleVector exponentVector try int ( ) { }"
+resolveType protected Expression . TypeResolution ( ),( (0.000),resolveType protected Expression . TypeResolution ( ) ( ) ( ) { }
+void assertMetadataEquals private static (,,void assertMetadataEquals private static ( 
+void stop public (,") (0.000), , (0.000)",void stop public ( ) throws IOException { }
+Version bestEffortExtractNodeVersionFromMappings private,,Version bestEffortExtractNodeVersionFromMappings private 
+InternalAggregation get public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",InternalAggregation get public ( ) { } { }
+"bulkIndex private static int ( , ,",") (0.000), , (0.000)","bulkIndex private static int ( , , ) throws IOException { }"
+"filter static Map ( , , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","filter static Map ( , , ) { } @ Override < String > return ;"
+"boolean returnSuccessWithEmptyResult static ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean returnSuccessWithEmptyResult static ( , ) { } @ Override if return ;"
+void setBootstrapMasterNodeIndex public ( ) { } bootstrapMasterNodeIndex assert,,void setBootstrapMasterNodeIndex public ( ) { } bootstrapMasterNodeIndex assert 
+void generateProject protected ( ),,void generateProject protected ( ) 
+void load public static ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void load public static ( ) { } { }
+"ShardAllocationDecision decideShardAllocation public ( , ) { } @ Override","Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)","ShardAllocationDecision decideShardAllocation public ( , ) { } @ Override Object bean String beanName if return bean ;"
+"Literal of public static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","Literal of public static ( , ) { }"
+"void masterOperation protected ( , ,",") (0.001), , (0.001)","void masterOperation protected ( , , , null , null , config , VERSION_KEY , null ) ( , , ) ( , 0 ) + new File + url "" !/ "" ( ) ( ) { }"
+void testRegisterAsReplacedHandler public ( ),,void testRegisterAsReplacedHandler public ( ) 
+void load private ( ) { // Attempt as a Class // Attempt as Resources // Attempt as package,,void load private ( ) { // Attempt as a Class // Attempt as Resources // Attempt as package 
+boolean doEquals protected,"( (0.000), final (0.000)",boolean doEquals protected final
+"void testRecovery_ClosedStateTransition ( ) { // Calling delayed service, which will be unhealthy till 4 seconds",,"void testRecovery_ClosedStateTransition ( ) { // Calling delayed service, which will be unhealthy till 4 seconds "
+void tearDown ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",void tearDown ( ) { } ( ) { }
+boolean existsOrFallbackExists public ( ),,boolean existsOrFallbackExists public ( ) 
+void process default ( ) {,} (0.000),void process default ( ) { }
+void testSimplePointInPolygon public,,void testSimplePointInPolygon public 
+buildChildInnerHits private static Map (,") (0.000), , (0.000)","buildChildInnerHits private static Map ( , ) { }"
+jvmOptionExpansions private Map (,,jvmOptionExpansions private Map ( 
+void cleanLuceneIndex public static ( ) throws IOException,"{ (0.019), , (0.000)",void cleanLuceneIndex public static ( ) throws IOException { }
+void assertStoredBinaryFields (,,void assertStoredBinaryFields ( 
+getPackagesToScan private Set ( ) { } < String,", (0.006), > (0.005)","getPackagesToScan private Set ( ) { } < String , Object > . buildAdminProperties ( properties , connectionDetails , ) ( ) { }"
+"collectTerms private Collection ( , ) throws","IOException (0.008), Exception (0.001), BeansException (0.000), InterruptedException (0.000), ClassNotFoundException (0.000)","collectTerms private Collection ( , ) throws IOException { }"
+dataNodes private List,,dataNodes private List 
+IntVector eval public,( (0.000),IntVector eval public (
+DirectoryReader getDirectoryReader public (,,DirectoryReader getDirectoryReader public ( 
+getAvgShardSizeInBytes private long,,getAvgShardSizeInBytes private long 
+boolean equals public,"( (0.005), final (0.000), static (0.000)",boolean equals public (
+getContext protected Supplier (,,getContext protected Supplier ( 
+IndexMode readIndexMode public static ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",IndexMode readIndexMode public static ( ) throws IOException { }
+"void verifySession protected ( , , ) throws SSLException {",} (0.000),"void verifySession protected ( , , ) throws SSLException { }"
+DataStream removeBackingIndex public ( ) { } Index index,"IndexMetadata (0.000), assert (0.000), if (0.000), shardId (0.000), synchronized (0.000)",DataStream removeBackingIndex public ( ) { } Index index IndexMetadata ;
+void testVariousPartitionSizes public (,,void testVariousPartitionSizes public ( 
+"boolean addDocumentToRedirectRequests private ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","boolean addDocumentToRedirectRequests private ( , , ) { }"
+boolean anyExists private ( ) throws IOException { } ResourcePatternResolver,,boolean anyExists private ( ) throws IOException { } ResourcePatternResolver 
+BytesReference getSourceRef public ( ),,BytesReference getSourceRef public ( ) 
+StatisticsHandler findStatisticsHandler private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",StatisticsHandler findStatisticsHandler private ( ) { // YAML converts an unquoted OFF to false }
+void testDisableFastVectorHighlighter public,,void testDisableFastVectorHighlighter public 
+mapEndpoints private < > Map ( ),{ (0.000),mapEndpoints private < > Map ( ) { }
+void testFunctionResolving public ( ) { // Resolve by primary name // Resolve by alias // Not resolved,,void testFunctionResolving public ( ) { // Resolve by primary name // Resolve by alias // Not resolved 
+void delete private (,) (0.000),void delete private ( ) { }
+String tmpDir protected final ( ) {,"} (0.002), // Customize as per the parent context first (so e.g. the access logs go to (0.000), // cache the @timestamp from the ingest document's source map if there is one (0.000), // eagerly check object depth limit here to avoid stack overflow errors (0.000), // throw exception if the file is corrupt (0.000)",String tmpDir protected final ( ) { }
+void testRelocateWhileWaitingForRefresh public ( ),,void testRelocateWhileWaitingForRefresh public ( ) 
+"T getProperty private < > @ Nullable ( ,",") (0.000), , (0.000), resolver (0.000)","T getProperty private < > @ Nullable ( , , ) . get ( ) ( 0 ) ( ) ( 0 ) ( 0 ) ( ) . map ( , newValue ) ( client , ML_ORIGIN , , getRequest , getModelsResponseListener ) ( ) if else . prepareHealth ( ) . setSource ( timeout ) Settings ."
+Result isConditionMet public (,", (0.000)","Result isConditionMet public ( , ) throws IOException { }"
+fields private static List,,fields private static List 
+RetentionLeases getRetentionLeases public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)","RetentionLeases getRetentionLeases public ( ) { } < String > < String > ( ) [ 0 ] ( ) . getTotalHits ( ) . startObject ( ) "" properties "" "" properties "" "" properties "" ( ) converter . getConvertibleTypes { }"
+boolean isFinished public (,) (0.000),boolean isFinished public ( ) { }
+void maxConcurrentShardRequests public (,,void maxConcurrentShardRequests public ( 
+slope private double ( ) { } values SimpleRegression ;,,slope private double ( ) { } values SimpleRegression ; 
+boolean isAlreadyPackaged protected final ( ),"{ (0.000), throws (0.000)",boolean isAlreadyPackaged protected final ( ) { // Customize as per the parent context first (so e.g. the access logs go to // the same place) // Then reset the error pages // and add the management-specific bits }
+void testHandleDocumentFailure public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testHandleDocumentFailure public ( ) throws Exception { }
+"PKCS8EncodedKeySpec createKeySpecForPkcs8 private static ( , )","{ (0.007), throws (0.001)","PKCS8EncodedKeySpec createKeySpecForPkcs8 private static ( , ) { }"
+build public List ( ) throws,"IOException (0.000), Exception (0.000), SchedulerException (0.000), MojoExecutionException (0.000), MalformedURLException (0.000)",build public List ( ) throws Exception { }
+boolean isPassedToParent private ( ) { } Throwable,"ex (0.000), ; (0.000), t (0.000), exception (0.000), failure (0.000)",boolean isPassedToParent private ( ) { } Throwable exception SpringBootExceptionHandler ;
+"void doDelete public ( , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","void doDelete public ( , ) { } @ SuppressWarnings T filter String ... return ;"
+"void doChunkedInfer protected ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","void doChunkedInfer protected ( , , , ) . put ( , false ) "" type "" "" long "" "" null_value "" - 1 "" queue_size "" queueSize . singles ( ) ( ) "" test "" Settings . EMPTY "" no logging "" Level . WARN Strings . format "" thread dump "" Level . WARN Strings"
+FunctionDefinition def // These are ambiguous if you aren't using ctor references but we always do protected static,< (0.000),"FunctionDefinition def // These are ambiguous if you aren't using ctor references but we always do protected static < > ( , ) ( , , ) { }"
+AccessLogValve findAccessLogValve private,( (0.000),AccessLogValve findAccessLogValve private (
+"Settings mergePluginSettings static ( , ) { } pluginMap Settings",,"Settings mergePluginSettings static ( , ) { } pluginMap Settings "
+boolean equals public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",boolean equals public ( ) { }
+"snapshotShards private Map ( , , , ) throws IOException","{ (0.012), , (0.000)","snapshotShards private Map ( , , , ) throws IOException { }"
+boolean present static ( ) { } ClassLoader,"classLoader (0.000), ; (0.000)",boolean present static ( ) { } ClassLoader classLoader String dataSourceClassName requiredClassNames boolean ;
+boolean equals public ( ) {,"} (0.039), // The resolver usually acts as a fallback resolver (e.g. like a (0.000), // We check that we are using here expected address (0.000), // likely multiple pages (0.000), // Error: Missing implementation. (0.000)",boolean equals public ( ) { }
+void collectAliasDuplicates private,static (0.000),void collectAliasDuplicates private static
+void addRawInput private,( (0.000),void addRawInput private (
+binarySearch private static int,,binarySearch private static int 
+boolean isUsingTestServiceConnection private (,) (0.000),boolean isUsingTestServiceConnection private ( ) { }
+File getSignedJarFile private ( ) { } ; for (,"; (0.001), String (0.000), var (0.000), Connector (0.000), e (0.000)",File getSignedJarFile private ( ) { } ; for ( Connector connector : connectors ) { }
+void testNodeHealthStatusCounts public ( ),,void testNodeHealthStatusCounts public ( ) 
+T getValue private (,,T getValue private ( 
+ConnectionFactory unwrapFromJmsPoolConnectionFactory private static,,ConnectionFactory unwrapFromJmsPoolConnectionFactory private static 
+String generateId protected (,,String generateId protected ( 
+ClusterRerouteRequest randomRequest private ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",ClusterRerouteRequest randomRequest private ( ) { } ( ) { }
+State of static ( ) {,"} (0.011), // TODO: this logic assumes a single phase execution model, so it may need to altered once INLINESTATS is made CCS compatible (0.000), //50ms (0.000), //noinspection ConstantConditions (0.000), // Create instances of Money (0.000)",State of static ( ) { }
+"boolean parseBoolean static ( , , ) { } String","name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)","boolean parseBoolean static ( , , ) { } String name return ;"
+"concreteDataStreamAliases private static String ( , ,",") (0.000), ex (0.000), , (0.000), storedApplicationPrivilegeDescriptors (0.000)","concreteDataStreamAliases private static String ( , , ) ( e ) ( null ) ( ) new RuntimeException new FileWriter "" include 'alpha', 'bravo', 'charlie' "" ( , ) ( , ) ( , ) . build randomBoolean randomBoolean randomBoolean < > ( ) < , > ( , ) { }"
+"void doWriteChunkedResponse private ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void doWriteChunkedResponse private ( , , ) { }"
+Block evalBlock public ( ) { } @ Override Block,"b (0.000), block (0.000), fieldVal (0.000)",Block evalBlock public ( ) { } @ Override Block block boolean exactResult ;
+AmazonS3Reference client public,,AmazonS3Reference client public 
+XContentBuilder directFieldAsBase64 public (,,XContentBuilder directFieldAsBase64 public ( 
+getTypeExcludeFilterConstructor private Constructor ( ),throws (0.000),getTypeExcludeFilterConstructor private Constructor ( ) throws NoSuchMethodException { }
+boolean assertDefaultThreadContext public,,boolean assertDefaultThreadContext public 
+"void handleException public ( ) { // if we got disconnected from the node, or the node / shard is not in the right state (being closed)",,"void handleException public ( ) { // if we got disconnected from the node, or the node / shard is not in the right state (being closed) "
+ReindexDataStreamStatus mutateInstance protected ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",ReindexDataStreamStatus mutateInstance protected ( ) throws IOException { }
+boolean isImperative private ( ) { } ContextHandler,"contextHandler (0.000), ; (0.000)",boolean isImperative private ( ) { } ContextHandler contextHandler if return true ;
+"void killCreature ( , ) { } Creature source",,"void killCreature ( , ) { } Creature source "
+"void beginPollingRemoteMasterStabilityDiagnostic ( ,",,"void beginPollingRemoteMasterStabilityDiagnostic ( , "
+void tarEntries private (,,void tarEntries private ( 
+collectComments private List,,collectComments private List 
+parameters public static,Iterable (0.000),parameters public static Iterable
+"Model updateModelWithEmbeddingDetails public ( ,",) (0.000),"Model updateModelWithEmbeddingDetails public ( , ) { }"
+TokenFilterFactory chainFilters private static (,,TokenFilterFactory chainFilters private static ( 
+void onCompletion private ( ) { } ;,"; (0.003), if (0.001), for (0.001), i (0.000), try (0.000)",void onCompletion private ( ) { } ; ;
+void rebucket private ( ) { } ;,"; (0.003), if (0.001), for (0.001), i (0.000), try (0.000)",void rebucket private ( ) { } ; try int numberOfBlobs = ( ) { }
+JarEntryCertification getCertification private ( ) { } if JarEntryCertification ;,,JarEntryCertification getCertification private ( ) { } if JarEntryCertification ; 
+void destroy public ( ) throws Exception,{ (0.012),void destroy public ( ) throws Exception { }
+boolean doEquals protected (,) (0.000),boolean doEquals protected ( ) { }
+"getWatcherThreadPoolSize static int ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","getWatcherThreadPoolSize static int ( , ) { } @ Override Object obj if if if return false ;"
+boolean decRef public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean decRef public ( ) { } @ Override Object o if Request ;
+void main public static (,) (0.000),void main public static ( ) { }
+void resetTelemetry private static,,void resetTelemetry private static 
+size public int ( ) { } if return,"; (0.002), warnings (0.001), null (0.000), false (0.000), securityClient (0.000)",size public int ( ) { } if return warnings ;
+boolean advanceExact public ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",boolean advanceExact public ( ) throws IOException { } @ Override String field TokenStream stream slop try int { }
+"similarity static int ( , ) { } ThreadInfo threadInfo",if (0.000),"similarity static int ( , ) { } ThreadInfo threadInfo if for ( StackTraceElement frame : ) return false ;"
+"ClusterState stateWithAssignedPrimariesAndOneReplica public static ( , ,",", (0.004), ) (0.004)","ClusterState stateWithAssignedPrimariesAndOneReplica public static ( , , ) { }"
+getTotalTimeInNanos private static long ( ) { // Here we calculate the timing in Nanoseconds for the sum of the individual subMeasurements with the goal of deriving the TTFB // (time to first byte). We use high precision time here to tell from the case when request time metric is missing (0).,,getTotalTimeInNanos private static long ( ) { // Here we calculate the timing in Nanoseconds for the sum of the individual subMeasurements with the goal of deriving the TTFB // (time to first byte). We use high precision time here to tell from the case when request time metric is missing (0). 
+"BytesRefBlock eval public ( , , ) { } positionCount","LongBlock (0.000), LongVector (0.000), BytesRefBlock (0.000), BytesRefVector (0.000), DoubleVector (0.000)","BytesRefBlock eval public ( , , ) { } positionCount BytesRefBlock lhsBlock BytesRefBlock rhsBlock try int ( ) { }"
+"boolean acceptsProfiles private ( , ) { } ModelInterpretationContext",ic (0.000),"boolean acceptsProfiles private ( , ) { } ModelInterpretationContext ic SpringProfileModel model if ;"
+boolean equals public ( ),{ (0.005),boolean equals public ( ) { }
+void testAddBlocksWhileExistingBlocks public (,,void testAddBlocksWhileExistingBlocks public ( 
+"void cleanupUnlinkedRootAndIndicesBlobs private ( ,",,"void cleanupUnlinkedRootAndIndicesBlobs private ( , "
+SpringBootTestAnnotation get static,,SpringBootTestAnnotation get static 
+void doValidate public ( ),{ (0.000),void doValidate public ( ) { }
+void testQueries public (,,void testQueries public ( 
+"getProduces private Collection ( , ) { } <","String (0.007), > (0.005), T (0.001), , (0.000), Void (0.000)","getProduces private Collection ( , ) { } < > < Object > new int i = 0 ;"
+void writeTo public ( ) throws IOException { } @,"Override (0.009), SuppressWarnings (0.000), Nullable (0.000), Bean (0.000), Test (0.000)",void writeTo public ( ) throws IOException { } @ Override XContentBuilder builder Params params ;
+String toString public ( ) { } @ Override String,"name (0.001), field (0.000), ; (0.000), fieldName (0.000), path (0.000)",String toString public ( ) { } @ Override String name ;
+String resolvePlaceholders public static (,", (0.000)","String resolvePlaceholders public static ( , ) throws IOException { }"
+void testGetStepMultithreaded public ( ) throws Exception { // test a variety of getStep calls with random actions and steps,,void testGetStepMultithreaded public ( ) throws Exception { // test a variety of getStep calls with random actions and steps 
+extractDispatcherTypes private EnumSet ( ) { } <,"String (0.007), > (0.005), T (0.001), , (0.000), Void (0.000)","extractDispatcherTypes private EnumSet ( ) { } < , > String name metadata InternalAggregations aggregations DocValueFormat format ;"
+loadClass protected Class,( (0.000),loadClass protected Class (
+void termsAggregatorWithNestedMaxAgg private < >,,void termsAggregatorWithNestedMaxAgg private < > 
+void doWriteTo protected ( ) throws IOException { } @,"Override (0.009), SuppressWarnings (0.000), Nullable (0.000), Bean (0.000), Test (0.000)",void doWriteTo protected ( ) throws IOException { } @ Override < E > predicate return ;
+"PushGateway initializePushGateway private ( , , ) { } PrometheusRegistry",registry (0.000),"PushGateway initializePushGateway private ( , , ) { } PrometheusRegistry registry properties Environment environment Builder ;"
+StandardEnvironment createPerformanceTestEnvironment private (,,StandardEnvironment createPerformanceTestEnvironment private ( 
+ZonedDateTime getBuildDate public ( ) { } @ Override,"Object (0.006), if (0.003), String (0.003), < (0.002), XContentBuilder (0.002)",ZonedDateTime getBuildDate public ( ) { } @ Override < E > if ( ) { }
+parseDependencies private Map ( ) throws JSONException { } <,String (0.000),"parseDependencies private Map ( ) throws JSONException { } < String , Integer > new < Object > ;"
+XContentBuilder toXContent public,"( (0.001), final (0.000), static (0.000)",XContentBuilder toXContent public (
+void testSearchShardsThreadContextHeader public (,,void testSearchShardsThreadContextHeader public ( 
+DerivativePipelineAggregationBuilder unit public ( ) { },"( (0.043), { (0.028), @ (0.025), if (0.013), < (0.012)",DerivativePipelineAggregationBuilder unit public ( ) { } { }
+AuthenticationTestBuilder transportVersion public ( ) { } TransportVersion,"transportVersion (0.000), version (0.000), joiningTransportVersion (0.000), outboundVersion (0.000)",AuthenticationTestBuilder transportVersion public ( ) { } TransportVersion version return ;
+BytesReference getRandomizedBytesReference private,,BytesReference getRandomizedBytesReference private 
+"indexDocs private int ( , )","{ (0.001), throws (0.000)","indexDocs private int ( , ) { }"
+"InferenceServiceConfiguration fromXContentBytes public static ( , ) {","} (0.033), // Some positions masked away, others kept (0.000), // Find the field (this way we automatically support new constants (0.000), // Only update the docValues flags if the field is found in the attributes (0.000), // TODO track raw counts and which implementation we pick for the profiler - #114008 (0.000)","InferenceServiceConfiguration fromXContentBytes public static ( , ) { }"
+LongBlock eval public (,", (0.000)","LongBlock eval public ( , ) throws IOException { }"
+void assertCurrentVersionMatchesParsed private ( ) { } Version currentVersionProperty,,void assertCurrentVersionMatchesParsed private ( ) { } Version currentVersionProperty 
+"QueryFactors quantizeForQuery public ( , ,",") (0.005), , (0.003)","QueryFactors quantizeForQuery public ( , , ) { }"
+boolean hasReferences public ( ) { } @ Override return,"; (0.001), 0 (0.000), name (0.000), node (0.000), null (0.000)",boolean hasReferences public ( ) { } @ Override return node ;
+"void add public ( , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","void add public ( , ) { } @ Override Object o if if Response ;"
+"void configureClient private ( , ) { } HttpServiceGroup",group (0.000),"void configureClient private ( , ) { } HttpServiceGroup group builder ;"
+"LogicalPlan resolveDrop private ( ,",,"LogicalPlan resolveDrop private ( , "
+void testDeleteSnapshottingDataStream public,,void testDeleteSnapshottingDataStream public 
+void accept public,( (0.000),void accept public (
+Instant parseCreatedDate private ( ),{ (0.000),Instant parseCreatedDate private ( ) { }
+"void doChunkedInfer protected ( , , , , , ,",", (0.020), ) (0.012), null (0.001), false (0.000), } (0.000)","void doChunkedInfer protected ( , , , , , , , , , , , ) { }"
+void threeLayerStringTestCase private ( ) throws IOException { } String,"; (0.000), name (0.000), fieldName (0.000), ... (0.000), path (0.000)",void threeLayerStringTestCase private ( ) throws IOException { } String fieldName BytesReference encoded BytesRef ;
+void writeOptional public < >,,void writeOptional public < > 
+void awaitSearchTasksComplete private (,,void awaitSearchTasksComplete private ( 
+SortedSetDocValues getOrdinalsValues public ( ) { } @ Override SortedSetDocValues,globalOrdinals (0.000),SortedSetDocValues getOrdinalsValues public ( ) { } @ Override SortedSetDocValues globalOrdinals LongBitSet ;
+"void doAssertLuceneQuery protected ( , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","void doAssertLuceneQuery protected ( , , ) { }"
+String getRelativePath default ( ) {,} (0.000),String getRelativePath default ( ) { }
+void testSetQueryLevels public ( ) { } IndexMetadata,"indexMetadata (0.000), . (0.000), previous (0.000), ; (0.000), indexMd (0.000)",void testSetQueryLevels public ( ) { } IndexMetadata . Builder indexMetadata = indexMetadata . settings metadata . put index . getName ClusterState . builder ( ) ( ) ( )
+"MockTransportService buildService private ( , , ,",") (0.016), , (0.012), null (0.000), threadPool (0.000), request (0.000)","MockTransportService buildService private ( , , , , ) { }"
+getAuthCacheRemovalListener private RemovalListener,,getAuthCacheRemovalListener private RemovalListener 
+"void mergeIndexResponses private static ( ,",") (0.004), , (0.004)","void mergeIndexResponses private static ( , ) { }"
+JoinConfig joinConfig public ( ) { } ; ;,"; (0.003), for (0.001), if (0.000), try (0.000), String (0.000)",JoinConfig joinConfig public ( ) { } ; ; for ( String key : sortedKeys ) ;
+void shouldSkipTest protected ( ) throws IOException { },"@ (0.010), public (0.002), String (0.001), ; (0.001), < (0.001)",void shouldSkipTest protected ( ) throws IOException { } @ Override Object o if if if CopySettingsStep ;
+XContentBuilder keyToXContent protected ( ) throws,"IOException (0.001), Exception (0.001), LifecycleException (0.000), Throwable (0.000), DatabaseUnavailableException (0.000)",XContentBuilder keyToXContent protected ( ) throws IOException { }
+void setupHostsEnrich public (,) (0.000),void setupHostsEnrich public ( ) { }
+Object maybeConvertToBytesRef static ( ) { } Object obj if,"else (0.000), return (0.000)",Object maybeConvertToBytesRef static ( ) { } Object obj if return false ;
+getMagnitude public float ( ) { } @ Override if,"return (0.001), ( (0.001), ; (0.000), else (0.000), if (0.000)",getMagnitude public float ( ) { } @ Override if ( ) { }
+InferenceServiceResults accept public ( ) { } @ Override AmazonBedrockRequest,,InferenceServiceResults accept public ( ) { } @ Override AmazonBedrockRequest 
+boolean equals public (,) (0.005),boolean equals public ( ) { }
+void testPeriodAndDurationInRowAssignment public ( ) { } for ( var,"breaker (0.000), unit (0.000), type (0.000), ts (0.000), index (0.000)",void testPeriodAndDurationInRowAssignment public ( ) { } for ( var breaker : ) List . of ( ) ( ) { }
+"calculateMinShouldMatch public static int ( , ) { /* otherwise, simple expression */ }",,"calculateMinShouldMatch public static int ( , ) { /* otherwise, simple expression */ } "
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",boolean equals public ( ) { } @ Override if return ;
+overSize public static long,,overSize public static long 
+void assertContainsAlias default ( ) { } KeyStore keyStore String,; (0.000),void assertContainsAlias default ( ) { } KeyStore keyStore String ;
+void testClusterStats public,,void testClusterStats public 
+IndexVersion oldestIndexVersionAllProjects public (,,IndexVersion oldestIndexVersionAllProjects public ( 
+void testRoleTemplatesMetadataForJWT public ( ) throws Exception { // disabling or removing the mapping is equivalent,,void testRoleTemplatesMetadataForJWT public ( ) throws Exception { // disabling or removing the mapping is equivalent 
+boolean criticalTemplatesInstalled public static ( ) { // The templates for the notifications and stats indices are not critical up-front because // every notification and stats update checks if the appropriate template is installed and,,boolean criticalTemplatesInstalled public static ( ) { // The templates for the notifications and stats indices are not critical up-front because // every notification and stats update checks if the appropriate template is installed and 
+void ensureTaskCompletion protected,,void ensureTaskCompletion protected 
+void postProcessEnvironment public,( (0.000),void postProcessEnvironment public (
+DiscoveryNode newNode private static,,DiscoveryNode newNode private static 
+boolean isPattern ( ) { } String,"name (0.001), ; (0.001), ... (0.000), value (0.000), id (0.000)",boolean isPattern ( ) { } String value ;
+"Netty4HttpServerTransport getHttpServerTransportWithHeadersValidator public static ( ,",") (0.002), , (0.002)","Netty4HttpServerTransport getHttpServerTransportWithHeadersValidator public static ( , ) throws IOException { }"
+"boolean hasSearchableSnapshotWith private static ( , , ) { }","@ (0.013), String (0.006), < (0.004), positionCount (0.002), public (0.001)","boolean hasSearchableSnapshotWith private static ( , , ) { } @ Override XContentBuilder builder Params params ;"
+void doRun protected ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",void doRun protected ( ) { } @ Bean @ ConditionalOnMissingBean CacheProperties cacheProperties defaultCacheConfiguration cacheManagerCustomizers cachePropertiesCustomizers CacheManager ;
+"getElserModelVerificationActionListener private ActionListener ( , , , )","{ (0.011), ( (0.007), throws (0.003), . (0.001), driverContext (0.001)","getElserModelVerificationActionListener private ActionListener ( , , , ) throws IOException { }"
+convertToIdIndexed public static,,convertToIdIndexed public static 
+void testSingleValuedFieldOrderedByTieBreaker public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testSingleValuedFieldOrderedByTieBreaker public ( ) throws IOException { }
+"void validate public ( , , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","void validate public ( , , ) { } @ Override Object obj if if return ;"
+boolean equals public ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","boolean equals public ( ) { } @ Nullable [ ] @ Nullable < Boolean > -> < R > . realtime ( getRequest , ) < > ( ) ( 1 , 5 ) ( 1 ) . get BoolQueryBuilder . class . stream ( ) ( ) "" test "" ( ) ( ) ( )"
+"void loadConfiguration protected ( , , ) { } @","Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)","void loadConfiguration protected ( , , ) { } @ Override < String , > new < String > new ( , null ) ( , null , null ) ( null ) ( , , , , , ) throws IOException { }"
+DataSourcePoolMetadataProvider hikariPoolDataSourceMetadataProvider ( ) { } @ Bean,"@ (0.001), return (0.000), CacheProperties (0.000), ApplicationContext (0.000), ElasticsearchConnectionDetails (0.000)",DataSourcePoolMetadataProvider hikariPoolDataSourceMetadataProvider ( ) { } @ Bean @ ConfigurationProperties DataSourceProperties properties JdbcConnectionDetails connectionDetails Environment environment String ;
+"Decision allowAllocation private ( , ) { } IndexMetadata indexMetadata","if (0.000), ClusterState (0.000), ShardRouting (0.000), RoutingAllocation (0.000), return (0.000)","Decision allowAllocation private ( , ) { } IndexMetadata indexMetadata return ;"
+void addRawInput private (,", (0.000), ) (0.000)","void addRawInput private ( , , , , ) { }"
+void doMasterOperation protected (,", (0.000)","void doMasterOperation protected ( , , , , , , ) { }"
+"getGroupsInternal private Map ( , )","{ (0.001), throws (0.000), ( (0.000)","getGroupsInternal private Map ( , ) { }"
+void addClassIfExists private,static (0.000),void addClassIfExists private static
+"find private long ( , , ) {","} (0.025), // 子数组长度为 1 时终止递归 (0.000), // NOTE: if we need to do anything complicated with bindings in the future, we can just extend Bindings, (0.000), // m 在 l 和 r 之間 (0.000), // 以 nums[left] 為基準數 (0.000)","find private long ( , , ) { }"
+TypeResolution resolveType protected ( ) { } @,"Override (0.035), Nullable (0.004), SuppressWarnings (0.002), Test (0.002), Bean (0.002)",TypeResolution resolveType protected ( ) { } @ Nullable if ( ) { }
+"void seekExact public ( , ) throws","IOException (0.008), Exception (0.001), BeansException (0.000), InterruptedException (0.000), ClassNotFoundException (0.000)","void seekExact public ( , ) throws IOException { }"
+"ActionRequestValidationException checkIllegalPackagedModelSetting private static ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","ActionRequestValidationException checkIllegalPackagedModelSetting private static ( , , ) throws IOException { }"
+void incRef public final,,void incRef public final 
+PipelineConfiguration maybeUpgradeProcessors (,,PipelineConfiguration maybeUpgradeProcessors ( 
+Block buildWithSelected private ( ),{ (0.000),Block buildWithSelected private ( ) { }
+ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ) { } @ Nullable,"< (0.001), String (0.001), if (0.000), @ (0.000), [ (0.000)","ConnectionFactory unwrapFromJmsPoolConnectionFactory private static ( ) { } @ Nullable < Object , Object > . buildAdminProperties ( properties , connectionDetails ) == null String ;"
+String supportedTypesNames private static (,,String supportedTypesNames private static ( 
+String getPortsDescription private ( ) { } StringBuilder ;,"; (0.000), for (0.000), while (0.000), if (0.000)",String getPortsDescription private ( ) { } StringBuilder ; ;
+BinaryDocValuesField histogramFieldDocValues public static,( (0.000),"BinaryDocValuesField histogramFieldDocValues public static ( , ) { }"
+"void excludeMBeanIfNecessary private ( , , )","{ (0.016), ( (0.009), throws (0.004), "" (0.001), . (0.001)","void excludeMBeanIfNecessary private ( , , ) { }"
+ConfigurationMetadata readMetadata private ( ) {,"} (0.022), // We support a fully qualified class name extending DateFormat or a date (0.000), // YAML converts an unquoted OFF to false (0.000), // Most PropertySources test equality only using the source name, so we need to (0.000), // No need for current dir path (0.000)",ConfigurationMetadata readMetadata private ( ) { }
+"XContentBuilder toXContent public ( , )","{ (0.009), throws (0.004)","XContentBuilder toXContent public ( , ) { }"
+ClusterState applyCreateIndexRequestForSystemDataStream private (,,ClusterState applyCreateIndexRequestForSystemDataStream private ( 
+Converter conversionToShort private static ( ) { } DataType,"t (0.000), from (0.000), . (0.000), dataType (0.000), leftType (0.000)",Converter conversionToShort private static ( ) { } DataType leftType DataType rightType if return true ;
+void testUpdateApiIsBlocked public ( ) throws,"IOException (0.010), Exception (0.010), InterruptedException (0.001), JSONException (0.000), BeansException (0.000)",void testUpdateApiIsBlocked public ( ) throws IOException { }
+void testFailureStats public ( ) throws Exception { } String,"; (0.001), config (0.000), indexName (0.000), specifiedEntityId (0.000), name (0.000)",void testFailureStats public ( ) throws Exception { } String ;
+"TDigestState getExistingOrNewHistogram private ( , )","{ (0.010), throws (0.002)","TDigestState getExistingOrNewHistogram private ( , ) { }"
+nextOrd public long ( ) throws IOException {,"} (0.027), // FIXME: pre-compute these only once for each target vector (0.000), // always return true because we want to return a value even if (0.000), // data (0.000), // Delegate primitive for possible performance enhancement (0.000)",nextOrd public long ( ) throws IOException { }
+CommonOAuth2Provider getCommonProvider private static,( (0.000),CommonOAuth2Provider getCommonProvider private static ( ) { }
+"readFileContents public static ( , , ) throws SettingsException",{ (0.000),"readFileContents public static ( , , ) throws SettingsException { }"
+Failure validateBinaryComparison public,,Failure validateBinaryComparison public 
+void doChunkedInfer protected (,", (0.000)","void doChunkedInfer protected ( , , ) throws IOException { }"
+String maybeOverrideDockerCgroup private static ( ) { } String distroType,,String maybeOverrideDockerCgroup private static ( ) { } String distroType 
+BytesRef pick protected ( ) throws IOException { } @,"Override (0.009), SuppressWarnings (0.000), Nullable (0.000), Bean (0.000), Test (0.000)",BytesRef pick protected ( ) throws IOException { } @ Override Object obj if if if return false ;
+void documentConstrainedVersions public ( ),,void documentConstrainedVersions public ( ) 
+boolean isTransformable private ( ) { } JarArchiveEntry entry String,; (0.000),boolean isTransformable private ( ) { } JarArchiveEntry entry String ;
